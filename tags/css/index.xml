@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/css/index.xml</link>
+    <description>Recent content in Css on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Framework CSS extremadamente liviano</title>
+      <link>https://alberro.xyz/framework-css-extremadamente-liviano/</link>
+      <pubDate>Sat, 11 Jun 2016 15:09:12 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/framework-css-extremadamente-liviano/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Wing&lt;/strong&gt; es un framework CSS muy liviano y sencillo de usar, ideal si no necesitas de todas las opciones que posee Bootstrap o Fundation. Se caracteriza por pesar solamente 4kb, absolutamente nada, por ser open source y por ser compatible con la mayoría de los navegadores del mercado.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Grid&lt;/h3&gt;
+Soporte de columnas con hasta 12 columnas individuales y con una manera muy sencilla de aplicarlos, solo con agregar la clase &lt;em&gt;one&lt;/em&gt;, &lt;em&gt;two&lt;/em&gt;, &amp;hellip; hasta &lt;em&gt;eleven&lt;/em&gt;.
+&lt;h3&gt;Tipografías&lt;/h3&gt;
+Utilizando la fuente &lt;em&gt;Quicksand&lt;/em&gt;, todos los elementos / tags &lt;em&gt;H1&lt;/em&gt; hasta el &lt;em&gt;H6&lt;/em&gt; ya vienen configurados y para ser utilizados con la medida &lt;strong&gt;rems&lt;/strong&gt;.
+&lt;h3&gt;Botones&lt;/h3&gt;
+Los botones poseen su propio estilo y viene con diferentes variantes como &lt;em&gt;Primary&lt;/em&gt;, &lt;em&gt;Outline&lt;/em&gt;, &lt;em&gt;Clear&lt;/em&gt; y nos da un ejemplo de cómo customizar los botones a nuestro propio diseño.
+&lt;h3&gt;Formularios&lt;/h3&gt;
+Los formularios están diseñados para ser vistosos, limpios y sin necesidad de agregar ninguna clase.
+&lt;h3&gt;Listas&lt;/h3&gt;
+El funcionamiento de las listas es muy sencillo, con solo definir las &lt;em&gt;UL&lt;/em&gt; y &lt;em&gt;LI&lt;/em&gt; ya estamos usando el diseño que nos provee &lt;strong&gt;Wing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;También cuenta con utilidades ya conocidas si utilizaste alguna vez algún otro framework de CSS como las típicas &lt;em&gt;pull-right&lt;/em&gt;, &lt;em&gt;pull-left&lt;/em&gt; y demás.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://usewing.ml/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

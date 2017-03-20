@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Download on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/download/index.xml</link>
+    <description>Recent content in Download on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Descarga sitios webs con Darcy Ripper</title>
+      <link>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</link>
+      <pubDate>Sun, 12 Jul 2015 19:24:32 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Darcy Ripper&lt;/strong&gt; es una aplicación gratuita para descargar sitios webs completos, pudiendo definir los niveles de profundidad que tiene que &lt;em&gt;escavar&lt;/em&gt;. Se puede utilizar para bajar sitios y leerlos &lt;em&gt;offline&lt;/em&gt; o simplemente investigar los recursos que posee. 
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Los requerimientos que posee esta aplicación son prácticamente nulos, solo necesita tener instalado la versión de &lt;em&gt;Java 1.6&lt;/em&gt; en adelante. Es completamente independiente del sistema operativo que se corra, ya que está desarrollada en &lt;em&gt;Java&lt;/em&gt; y funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OS X&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A su vez permite la configuración por cada uno de los proyectos que se manden a la cola de procesamiento, pudiendo definir a cada uno de ellos la profundidad de escaneo, el filtro de imágenes, la cantidad de descargas en paralelo y muchas opciones más! Ideal para entrar a esas webs que venden &lt;em&gt;themes&lt;/em&gt; cof cof&amp;#8230;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-151 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34; alt=&#34;darcy-ripper&#34; width=&#34;1366&#34; height=&#34;725&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

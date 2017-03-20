@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementary Os on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/elementary-os/index.xml</link>
+    <description>Recent content in Elementary Os on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/elementary-os/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Elementary OS se despide de Sourceforge</title>
+      <link>https://alberro.xyz/elementary-os-se-despide-de-sourceforge/</link>
+      <pubDate>Thu, 18 Jun 2015 18:49:10 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/elementary-os-se-despide-de-sourceforge/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Después de varios años, el sistema operativo Elementary OS, deja de &lt;em&gt;hostear&lt;/em&gt; su código en los servidores de &lt;em&gt;Sourceforge&lt;/em&gt; debido al problema que hubo recientemente con los ad-ware que se utilizaban en los instaladores. Para los que no conocen Elementary OS, es una distribución de Linux con características e interfaz similar a los sistemas operativos de Apple.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  De ahora en más, el servidor elegido por Elementary OS es Digital Ocean, la misma empresa de &lt;em&gt;hosting&lt;/em&gt; que almacena este humilde blog. Van a utilizar diferentes locaciones para administrar el tráfico que genera la descarga del sistema operativo ya que una imagen pesa más de 700Mb.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/map.png&#34;&gt;&lt;img class=&#34; size-full wp-image-29 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/map.png&#34; alt=&#34;map&#34; width=&#34;500&#34; height=&#34;313&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Además van a ofrecer el protocolo HTTPS con el estándar A+ y con un &lt;em&gt;failback&lt;/em&gt; a HTTP para los navegadores que soporten dicha encriptación.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

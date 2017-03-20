@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrónica on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/electr%C3%B3nica/index.xml</link>
+    <description>Recent content in Electrónica on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/electr%C3%B3nica/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crea circuitos de una manera muy sencilla</title>
+      <link>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</link>
+      <pubDate>Tue, 01 Sep 2015 23:57:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Gracias a &lt;strong&gt;Fritzing&lt;/strong&gt;, vamos a poder desarrollar nuestros propios circuitos de manera interactiva incluyendo una variedad muy amplia de componentes hasta &lt;em&gt;boards&lt;/em&gt; &lt;em&gt;Arduino&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Fritzing&lt;/strong&gt; es una iniciativa &lt;em&gt;open source&lt;/em&gt; que hace a la electrónica accesibles para cualquier persona. Permite diseñar un circuito desde el &lt;em&gt;protoboard / breadboard&lt;/em&gt; y luego exportarlo hasta en formato de ¡circuito impreso! Una verdadera maravilla. Y además, cuando una de las tantas vistas que posee es cambiada, automáticamente actualiza las demás vistas por lo que si agregás un capacitor en un lado, aparecerá en el otro instantáneamente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A continuación pueden ver algunas de las tantas funcionalidades que nos ofrece este software.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  También ofrecen la impresión de los circuitos &lt;em&gt;PCB&lt;/em&gt; como así también la posibilidad de encargar todos los componentes usados en tu diseño pero solo está disponible en el país de Estados Unidos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Vale aclarar que el software &lt;strong&gt;Fritzing&lt;/strong&gt; funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt; y &lt;em&gt;Mac OS&lt;/em&gt;, así que no hay excusa que valga para no empezar a diseñar tu propio prototipo.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

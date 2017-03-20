@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/desarrollo/index.xml</link>
+    <description>Recent content in Desarrollo on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/desarrollo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuevo diseñador de contenido en tiempo real</title>
+      <link>https://alberro.xyz/nuevo-disenador-de-contenido-en-tiempo-real/</link>
+      <pubDate>Tue, 07 Jun 2016 23:47:15 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nuevo-disenador-de-contenido-en-tiempo-real/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;WordPress&lt;/strong&gt; es uno de los más famosos y más utilizados &lt;strong&gt;CMS&lt;/strong&gt; en el mundo de Internet. Se estima que un 35% de los blogs en el mundo, funcionan con este motor de noticias. Sin embargo, uno de los puntos flojos es el diseñador o editor que posee de manera nativa. Al escribir una noticia o diseñar una página nos vamos a ver forzados a utilizar un editor muy básico que apenas permite dar unos pocos formatos. Este problema se terminó cuando surgieron los&lt;strong&gt; builder&lt;/strong&gt;, estos son plugins que permiten arrastrar contenido a nuestra página y diseñar en tiempo real utilizando diferentes tipos de columnas, &lt;em&gt;shortcodes&lt;/em&gt; y mucho más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Recientemente, para ser más precisos el 1 de junio, se lanzó de manera oficial el &lt;strong&gt;builder&lt;/strong&gt; &lt;strong&gt;Elementor&lt;/strong&gt;, un plugin para WordPress open source que va a dar que hablar en los próximos meses. La primera versión es muy completa y prometen para futuras releases ir incorporando nuevos elementos como carruseles, caja de imágenes, caja de íconos y hasta una galería, todo para ser utilizado en nuestro diseño sin necesidad de tocar una línea de código.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Algunas de las características que destacan a este builder, son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Velocidad&lt;/strong&gt;: es mucho más rápido y liviano que otros builders&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gratuito y open source&lt;/strong&gt;: si hay algo que nos gusta, es que sea open source y que no tengamos que pagar un peso&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fácil de usar&lt;/strong&gt; y no se necesita tocar una línea de código para realizar diseños increíbles&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compatibilidad&lt;/strong&gt;: funciona con cualquier tema, página y entrada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://elementor.com/&#34;&gt;Elementor&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un navegador gratuito y potente para desarrolladores web</title>
+      <link>https://alberro.xyz/un-navegador-gratuito-y-potente-para-desarrolladores-web/</link>
+      <pubDate>Mon, 23 May 2016 23:41:05 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/un-navegador-gratuito-y-potente-para-desarrolladores-web/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Blisk&lt;/strong&gt; es un navegador gratuito creado exclusivamente para personas que se dedican al desarrollo web. Este navegador tiene la particularidad que puede ser usado desde cualquier etapa de desarrollo, desde la creación de prototipos hasta el &lt;em&gt;testing&lt;/em&gt; en diferentes &lt;em&gt;devices&lt;/em&gt; a través de los emuladores integrados que posee.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;https://bliskstatic.azureedge.net/static/dev-phases/develop-blisk.png&#34; alt=&#34;Develop with Blisk&#34; width=&#34;256&#34; height=&#34;192&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una de las características nativas que posee, y que en otros navegadores solo se logra añadiendo &lt;em&gt;plugins&lt;/em&gt;, es la sincronizar el &lt;em&gt;scroll&lt;/em&gt; en diferentes vistas de manera que si nos movemos dentro de un sitio web, la vista en el emulador también se mueve y de esa manera podemos comparar como responde el diseño desde una misma ubicación.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Blisk&lt;/strong&gt; trae incorporado emuladores para diversos tipos de dispositivos como ser celulares, tablets y hasta PC de escritorio. Por nombrar algunos, trae los emuladores pre-instalados de:
+&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPhone 4, 5, 6 y 6 Plus
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Nokia N9 y Lumia 625
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Samsung S3, S4 y S6
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPad Mini
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPad Air Retina
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Dell Inspiration 5748
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  entre otros
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además trae lo que se conoce como &lt;em&gt;watcher&lt;/em&gt;, a medida que uno realiza un cambio en el código de nuestra aplicación o página web, automáticamente &lt;strong&gt;Blisk&lt;/strong&gt; refresca la pantalla para mostrarnos la última versión. Funciona para las extensiones &lt;em&gt;html&lt;/em&gt;, &lt;em&gt;css&lt;/em&gt;, &lt;em&gt;js&lt;/em&gt;, &lt;em&gt;saas&lt;/em&gt;, &lt;em&gt;cshtml&lt;/em&gt;, &lt;em&gt;php&lt;/em&gt; y muchas más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Incorpora dentro de su motor, un &lt;em&gt;Analytics&lt;/em&gt; para detectar errores de &lt;em&gt;Javascript&lt;/em&gt; y para realizar recomendaciones sobre cómo mejorar la velocidad de la web, sobre si tu web es compatible con otros navegadores como &lt;strong&gt;Chrome&lt;/strong&gt;, &lt;strong&gt;Firefox&lt;/strong&gt; o &lt;strong&gt;IE/Edge&lt;/strong&gt;, y además verifica enlaces rotos para recursos &lt;em&gt;css&lt;/em&gt; y fuentes.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Te dije que captura pantallas en todos los &lt;em&gt;devices&lt;/em&gt; y vistas abiertas con un solo clic? Ideal para los &lt;em&gt;testers&lt;/em&gt; / QA.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Y por si querías más, en un futuro no muy lejano, van a implementar las integraciones con otros sitios web para poder subir o reportar errores directamente desde el &lt;em&gt;browser&lt;/em&gt; a &lt;strong&gt;Jira&lt;/strong&gt;, &lt;strong&gt;Github&lt;/strong&gt; y otras herramientas.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo &lt;strong&gt;&lt;span style=&#34;color: #800000;&#34;&gt;negativo&lt;/span&gt;&lt;/strong&gt;, y que por suerte algo temporal, es que sólo está disponible para el sistema operativo &lt;strong&gt;Windows&lt;/strong&gt; (&lt;em&gt;WTF&lt;/em&gt; right?). Para &lt;strong&gt;Linux&lt;/strong&gt; y &lt;strong&gt;Mac&lt;/strong&gt; todavía no hay versión disponible para descargar, pero están trabajando en eso ya que si no lo hacen pierden muchísimo mercado ya que son los dos sistemas operativos más utilizados para el diseño y desarrollo web.
+&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://blisk.io/&#34;&gt;Blisk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Consola de Unix para Windows</title>
+      <link>https://alberro.xyz/consola-de-unix-para-windows/</link>
+      <pubDate>Mon, 10 Aug 2015 13:27:41 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/consola-de-unix-para-windows/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Uno de los grandes problemas que tiene &lt;em&gt;Windows&lt;/em&gt;, desde la versión 3.1 hasta la recientemente lanzada versión 10, es que no cuenta con una buena consola. El famoso &lt;strong&gt;cmd&lt;/strong&gt; es bastante limitado si se lo compara contra la &lt;em&gt;consola / terminal&lt;/em&gt; de una plataforma &lt;em&gt;Unix&lt;/em&gt;, ya sea &lt;em&gt;Linux&lt;/em&gt; o &lt;em&gt;Mac OS&lt;/em&gt;. Con este emulador vas a poder tener la misma consola de &lt;em&gt;Unix&lt;/em&gt; sobre &lt;em&gt;Windows&lt;/em&gt; y encima es portable.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo bueno de &lt;strong&gt;Cmder&lt;/strong&gt; es que está basada sobre &lt;em&gt;ConEmu&lt;/em&gt;, uno de los mejores emuladores para &lt;em&gt;Windows&lt;/em&gt; y por supuesto, &lt;strong&gt;Cmder&lt;/strong&gt; hereda todas las ventajas de él.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además, &lt;strong&gt;Cmder&lt;/strong&gt; cuenta con integración para &lt;em&gt;Git&lt;/em&gt; poniendo adornos en la consola, como el nombre del branch, cambios hechos y demás mejoras. El diseño posee colores basados en el &lt;em&gt;theme Monokai&lt;/em&gt;, el cual hace atractiva la consola para su uso diario.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+   &lt;a href=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-296 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34; alt=&#34;cmder&#34; width=&#34;1366&#34; height=&#34;703&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar basado en &lt;em&gt;ConEmu&lt;/em&gt;, &lt;strong&gt;Cmder&lt;/strong&gt; permite tener en una sola ventana muchas consolas como se puede ver en la captura de arriba. El diseño de cómo se pueden ubicar, está limitado a la imaginación del usuario que la usa 🙂
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interfaz de consola para utilizar Git</title>
+      <link>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</link>
+      <pubDate>Sat, 18 Jul 2015 13:42:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Git&lt;/strong&gt;, el famoso software para control de código, puede ser utilizado desde la consola a través de diversos comandos. Ahora, con &lt;strong&gt;Git Commander&lt;/strong&gt;, vas a poder utilizarlo en la consola pero a través de una interfaz gráfica bien definida.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hasta el momento, &lt;strong&gt;Git Commander&lt;/strong&gt; soporta las siguientes funcionalidades&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add [files]&lt;/li&gt;
+&lt;li&gt;git reset &amp;#8212; [files]&lt;/li&gt;
+&lt;li&gt;git commit [files]&lt;/li&gt;
+&lt;li&gt;git log&lt;/li&gt;
+&lt;li&gt;git reset&lt;/li&gt;
+&lt;li&gt;git diff file&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y en breve estarán incluyendo las funciones de &lt;em&gt;git branch&lt;/em&gt;, &lt;em&gt;git merge (handling conflict)&lt;/em&gt; y &lt;em&gt;git push&lt;/em&gt;. A continuación vemos cómo funciona esta aplicación.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-193 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34; alt=&#34;git-commander&#34; width=&#34;666&#34; height=&#34;568&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los requisitos de software para que &lt;strong&gt;Git Commander&lt;/strong&gt; funcione, son&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git &amp;gt;= 2.4&lt;/li&gt;
+&lt;li&gt;nodejs &amp;gt;= 0.12&lt;/li&gt;
+&lt;li&gt;blessed &amp;gt;= 0.1.7&lt;/li&gt;
+&lt;li&gt;lodash &amp;gt;= 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y para su instalación solo tenemos que ejecutar los siguientes comandos en una consola, ya sea de Linux, Mac o Windows&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;npm install -g git-commander&lt;/pre&gt;
+
+&lt;p&gt;Y luego para ejecutarlo&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;git-commander
+&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar instalado en forma global, &lt;em&gt;git-commander&lt;/em&gt; queda disponible desde cualquier ubicación en la consola.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

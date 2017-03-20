@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web. Performance on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/web.-performance/index.xml</link>
+    <description>Recent content in Web. Performance on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/web.-performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tu sitio web disponible hasta sin conexión</title>
+      <link>https://alberro.xyz/tu-sitio-web-disponible-hasta-sin-conexion/</link>
+      <pubDate>Mon, 07 Sep 2015 23:05:37 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/tu-sitio-web-disponible-hasta-sin-conexion/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;UpUp&lt;/strong&gt; es una librería que permite agregar contenido a tu página web de modo que sea visible cuando los usuarios perdieron la conexión en su dispositivo o computadora. No solo permite agregar leyendas de texto sino también archivos &lt;em&gt;CSS&lt;/em&gt;, imágenes y por supuesto, contenido en &lt;em&gt;HTML&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Su forma de uso es muy sencilla, solo necesitamos incluir en nuestro sitio web la librería JS de &lt;strong&gt;UpUp&lt;/strong&gt; y luego definimos el contenido que queremos mostrar.
+&lt;/p&gt;
+
+&lt;pre class=&#34;lang:js decode:true &#34;&gt;&amp;lt;script src=&#34;https://alberro.xyz/upup.min.js&#34;&amp;gt;&amp;lt;/script&amp;gt;
+  &amp;lt;script&amp;gt;
+    UpUp.start({
+      &#39;content-url&#39;: &#39;offline.html&#39; // muestra esta página a los usuarios sin conexión
+    });
+  &amp;lt;/script&amp;gt;&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En este ejemplo bastante sencillo, podemos observar que en caso de que el usuario esté sin conexión, se va a mostrar el diseño de una página llamada &lt;em&gt;offline.html&lt;/em&gt; y no el típico mensaje de &lt;strong&gt;404&lt;/strong&gt; propio de cada navegador.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;UpUp&lt;/strong&gt; es una herramienta &lt;em&gt;open source&lt;/em&gt; y cualquiera puede contribuir con mejoras en caso de que quiera, como así también de reportar errores a través de su repositorio oficial de &lt;em&gt;Github&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Posee una documentación bastante sencilla pero que cumple con su cometido explicando cada uno de sus parámetros y cómo utilizarlos; y además cuenta con un tutorial paso por paso que va a servirte en caso de que quieras conocer todo lo que puede hacer esta librería.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/wordpress/index.xml</link>
+    <description>Recent content in Wordpress on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuevo diseñador de contenido en tiempo real</title>
+      <link>https://alberro.xyz/nuevo-disenador-de-contenido-en-tiempo-real/</link>
+      <pubDate>Tue, 07 Jun 2016 23:47:15 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nuevo-disenador-de-contenido-en-tiempo-real/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;WordPress&lt;/strong&gt; es uno de los más famosos y más utilizados &lt;strong&gt;CMS&lt;/strong&gt; en el mundo de Internet. Se estima que un 35% de los blogs en el mundo, funcionan con este motor de noticias. Sin embargo, uno de los puntos flojos es el diseñador o editor que posee de manera nativa. Al escribir una noticia o diseñar una página nos vamos a ver forzados a utilizar un editor muy básico que apenas permite dar unos pocos formatos. Este problema se terminó cuando surgieron los&lt;strong&gt; builder&lt;/strong&gt;, estos son plugins que permiten arrastrar contenido a nuestra página y diseñar en tiempo real utilizando diferentes tipos de columnas, &lt;em&gt;shortcodes&lt;/em&gt; y mucho más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Recientemente, para ser más precisos el 1 de junio, se lanzó de manera oficial el &lt;strong&gt;builder&lt;/strong&gt; &lt;strong&gt;Elementor&lt;/strong&gt;, un plugin para WordPress open source que va a dar que hablar en los próximos meses. La primera versión es muy completa y prometen para futuras releases ir incorporando nuevos elementos como carruseles, caja de imágenes, caja de íconos y hasta una galería, todo para ser utilizado en nuestro diseño sin necesidad de tocar una línea de código.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Algunas de las características que destacan a este builder, son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Velocidad&lt;/strong&gt;: es mucho más rápido y liviano que otros builders&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gratuito y open source&lt;/strong&gt;: si hay algo que nos gusta, es que sea open source y que no tengamos que pagar un peso&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fácil de usar&lt;/strong&gt; y no se necesita tocar una línea de código para realizar diseños increíbles&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compatibilidad&lt;/strong&gt;: funciona con cualquier tema, página y entrada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://elementor.com/&#34;&gt;Elementor&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/javascript/index.xml</link>
+    <description>Recent content in Javascript on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lanzador de aplicaciones al estilo Spotlight en Windows</title>
+      <link>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</link>
+      <pubDate>Tue, 10 May 2016 18:00:20 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</guid>
+      <description>&lt;p&gt;Apple tiene &lt;em&gt;Spotlight&lt;/em&gt; y &lt;em&gt;Alfred&lt;/em&gt;, &lt;em&gt;Linux/Ubuntu&lt;/em&gt; tiene &lt;em&gt;Unity&lt;/em&gt; y ahora &lt;em&gt;Windows&lt;/em&gt; tiene &lt;strong&gt;Hain&lt;/strong&gt;, el lanzador de aplicaciones y buscador de archivos &lt;a href=&#34;https://www.alberro.xyz/tag/open-source/&#34;&gt;open-source&lt;/a&gt;. Al mejor estilo &lt;em&gt;Spotlight&lt;/em&gt;, &lt;strong&gt;Hain&lt;/strong&gt; no es solo un buscador, es una herramienta que nos simplifica de manera notoria el uso de la computadora y nos da velocidad a la hora de ejecutar comandos.&lt;/p&gt;
+
+&lt;p&gt;Hain se ejecuta de manera muy sencilla, solo tenemos que descargarnos el archivo y abrir el &lt;em&gt;.exe&lt;/em&gt;, por suerte no necesita instalación. Luego con solo presionar las teclas &lt;kbd&gt;alt&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;space&lt;/kbd&gt; (se puede cambiar en caso de que no nos sea cómoda esa combinación de teclas) se nos abre una ventana para ingresar texto y ahí podemos buscar archivos o aplicaciones instaladas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter wp-image-383 size-full&#34; src=&#34;https://alberro.xyz/images//2016/05/demo.gif&#34; alt=&#34;demo&#34; width=&#34;600&#34; height=&#34;384&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Posee tolerancia a los errores de escritura, es decir que si ingresamos la palabra &lt;em&gt;WRD&lt;/em&gt; nos va a traer &lt;em&gt;Word&lt;/em&gt; y todas las palabras y archivos que tengan un nombre similar. Funciona también con URLs, si escribimos una dirección web y presionamos &lt;kbd&gt;enter&lt;/kbd&gt; nos va a abrir nuestro navegador por defecto con la URLs que ingresamos.&lt;/p&gt;
+
+&lt;p&gt;Podemos hacer uso de internet para usar &lt;strong&gt;Hain&lt;/strong&gt; como diccionario con solo poner el &lt;kbd&gt;?&lt;/kbd&gt; delante de nuestra palabra a consultar como así también realizar operaciones matemáticas con solo escribir la fórmula.&lt;/p&gt;
+
+&lt;p&gt;Y lo más interesante, es que se puede extender el funcionamiento de Hain a través de plugins logrando llevar la configuración a lo que realmente necesités.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hain&lt;/strong&gt; está desarrollado en &lt;a href=&#34;https://www.alberro.xyz/tag/javascript/&#34;&gt;Javascript&lt;/a&gt; bajo la plataforma &lt;em&gt;Electron&lt;/em&gt;, una herramienta que permite crear aplicaciones nativas para todos los OS disponibles con un mismo código fuente.&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://github.com/appetizermonster/hain&#34;&gt;Hain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo aumentar la performance de AngularJS?</title>
+      <link>https://alberro.xyz/como-aumentar-la-performance-de-angularjs/</link>
+      <pubDate>Sun, 12 Jul 2015 22:18:05 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/como-aumentar-la-performance-de-angularjs/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El &lt;em&gt;framework&lt;/em&gt; de desarrollo &lt;strong&gt;AngularJS &lt;/strong&gt;ha tenido varias quejas con respecto a la performance de las aplicaciones desarrolladas con él. A continuación veremos algunos tips para mejorar la velocidad y el consumo de memoria con solo hacer algunos cambios ligeros o solo agregando un par de líneas.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  1. Data Binding
+&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Uno de los grandes problemas de &lt;strong&gt;AngularJS&lt;/strong&gt; es el &lt;em&gt;2-way data binding &lt;/em&gt;innecesario, es decir tener un &lt;em&gt;watcher&lt;/em&gt; que está continuamente escuchando por cambios. Si no necesitamos de esta funcionalidad, podemos aplicar lo siguiente para evitar ese consumo indeseado
+&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: justify;&#34;&gt;
+  Angular 1.2
+&lt;/h3&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:js decode:true&#34; title=&#34;BindOnce directive&#34;&gt;app.directive(&#39;bindOnce&#39;, function($scope, $timeout) {
+    return {
+        scope: true,
+        link: function( $scope ) {
+            $timeout(function() {
+                $scope.$destroy();
+            }, 0);
+        }
+    }
+});&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Y luego en nuestro código directamente llamamos a esa directiva
+&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Angular 1.2&#34;&gt;&amp;lt;div class=&#34;my-class&#34; bind-once&amp;gt;{{myValue}}&amp;lt;/div&amp;gt;
+&amp;lt;div class=&#34;other-class&#34; ng-bind=&#34;anotherValue&#34; bind-once&amp;gt;&amp;lt;/div&amp;gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;angular-1-3&#34;&gt;Angular 1.3&lt;/h3&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true &#34; title=&#34;Angular 1.3&#34;&gt;&amp;lt;div class=&#34;my-class&#34;&amp;gt;{{::myValue}}&amp;lt;/div&amp;gt;&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En &lt;em&gt;Angular 1.3&lt;/em&gt; ya se dieron cuenta de este problema e implementaron la funcionalidad de los dobles dos puntos (::).
+&lt;/p&gt;
+
+&lt;h2 id=&#34;2-debuginfo&#34;&gt;2. DebugInfo&lt;/h2&gt;
+
+&lt;p&gt;Otra mejora que se puede realizar, sin importar la versión de &lt;em&gt;Angular&lt;/em&gt;, es la de deshabilitar el &lt;em&gt;debugInfo&lt;/em&gt; dentro del &lt;em&gt;$compileProvider&lt;/em&gt;. Solo deberían modificar el sitio de desarrollo, que en este caso usé &lt;em&gt;mysite.dev&lt;/em&gt; y listo.&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;CompileProvider&#34;&gt;app.config(function($compileProvider) {
+  if (!location.host.match(/mysite.dev/)) {
+    $compileProvider.debugInfoEnabled(false);
+  }
+});&lt;/pre&gt;
+
+&lt;h2 id=&#34;3-ng-repeat&#34;&gt;3. ng-repeat&lt;/h2&gt;
+
+&lt;p&gt;Otra mejora significativa está en el uso de &lt;em&gt;ng-repeat&lt;/em&gt; seguido de &lt;em&gt;track&lt;/em&gt;, algo como&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true &#34; title=&#34;Track by&#34;&gt;&amp;lt;ul class=&#34;my-list&#34; ng-repeat=&#34;user in users track by $index&#34;&amp;gt;
+  &amp;lt;li&amp;gt;{{::user.name}}&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&lt;/pre&gt;
+
+&lt;p&gt;Agregar el &lt;em&gt;track by&lt;/em&gt; a un &lt;em&gt;ng-repeat&lt;/em&gt; incrementa &lt;strong&gt;notablemente&lt;/strong&gt; la velocidad dentro del &lt;em&gt;loop&lt;/em&gt; en los elementos de una colección, sin importar si usan o no el &lt;em&gt;$index&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-watchcollection-vs-watch&#34;&gt;4. $watchCollection vs. $watch&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El uso de &lt;em&gt;$watchCollection&lt;/em&gt; en vez de &lt;em&gt;$watch&lt;/em&gt; es más performante ya que el segundo realiza, con un tercer parámetro, la comprobación de los objetos en todos los niveles mientras que el primero no.
+&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;WatchCollection&#34;&gt;$scope.$watchCollection(&#34;collection&#34;, function( newValue, oldValue ) {
+  console.log(newValue, oldValue);
+});&lt;/pre&gt;
+
+&lt;h2 id=&#34;5-ng-if-vs-ng-show&#34;&gt;5. ng-if vs. ng-show&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Si vamos a realizar comprobaciones en el &lt;em&gt;DOM&lt;/em&gt; en donde sacamos código en base a diferentes variables, es mejor usar &lt;em&gt;ng-if&lt;/em&gt; ya que directamente elimina el &lt;em&gt;DOM&lt;/em&gt; mientras que &lt;em&gt;ng-show&lt;/em&gt; solo muestra u oculta el contenido, pero el código sigue estando haciendo nuestra app más pesada.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para poder comprobar si hemos mejorado o no nuestra aplicación, podemos usar la extensión &lt;a href=&#34;https://chrome.google.com/webstore/detail/angularjs-batarang-stable/niopocochgahfkiccpjmmpchncjoapek&#34; target=&#34;_blank&#34;&gt;Batarang&lt;/a&gt; en Chrome o directamente definir &lt;em&gt;timers&lt;/em&gt; usando &lt;em&gt;console&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true &#34; title=&#34;Timers&#34;&gt;console.time(&#34;procesoVentas&#34;);
+$timeout(function(){
+    console.timeEnd(&#34;procesoVentas&#34;);
+}, 500);
+
+// Resultado por consola $: procesoVentas: 500.611ms&lt;/pre&gt;
+
+&lt;p&gt;Con todos estos tips, tu aplicación debería estar funcionando mucho más rápido que antes 🙂&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: center;&#34;&gt;
+  &lt;span style=&#34;color: #3366ff;&#34;&gt;¿Alguna sugerencia para mejorar la perfomance?&lt;/span&gt;
+&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>¿Estás preparado para aprender Javascript?</title>
+      <link>https://alberro.xyz/estas-preparado-para-aprender-javascript/</link>
+      <pubDate>Thu, 18 Jun 2015 21:42:29 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/estas-preparado-para-aprender-javascript/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Javascript ha ganado muchísimo terreno en estos últimos años y es un lenguaje de scripting que nunca para de evolucionar y mejorar. Recientemente se aprobó el &lt;a href=&#34;http://www.ecma-international.org/ecma-262/6.0/&#34; target=&#34;_blank&#34;&gt;ECMAScript 6&lt;/a&gt; que trae muchísimas mejoras al lenguaje y ahora podés aprenderlas online gratis, ¿estás preparado?
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Javascript.com es un sitio desarrollado por el equipo de Code School, famosos por hacer recursos &lt;em&gt;online&lt;/em&gt; para aprendizaje de lenguajes de programación. Si bien el sitio arranca desde un nivel muy inicial, va a escalando de a poco que hasta los más experimentados se van a ver sorprendidos con las cosas que explica.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/2015-06-18_18-27-38.png&#34;&gt;&lt;img class=&#34;alignnone wp-image-35 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/2015-06-18_18-27-38.png&#34; alt=&#34;2015-06-18_18-27-38&#34; width=&#34;1366&#34; height=&#34;426&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medir on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/medir/index.xml</link>
+    <description>Recent content in Medir on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/medir/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>El nuevo servicio gratuito de Netflix para medir la velocidad</title>
+      <link>https://alberro.xyz/el-nuevo-servicio-gratuito-de-netflix-para-medir-la-velocidad/</link>
+      <pubDate>Mon, 23 May 2016 12:07:25 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/el-nuevo-servicio-gratuito-de-netflix-para-medir-la-velocidad/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El gigante del streaming lanzó recientemente un nuevo servicio gratuito para medir la velocidad de nuestra conexión de internet. Con solo ingresar a la página web y esperar unos segundos, ya sabremos nuestra velocidad de conexión, es bien sencillo de usar.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Por ahora, y no creo que lo implementen, solo ofrece medir la velocidad de descarga, es decir que la velocidad de upload no se mide con esta herramienta. Está claro que esta herramienta es un complemento para &lt;strong&gt;Netflix&lt;/strong&gt; ya que solo se interesa en medir la velocidad de bajada de datos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Y si queremos un resultado un poco más exacto, nos permite comparar la velocidad medida en Fast con la velocidad que arroja &lt;a href=&#34;http://www.speedtest.net/&#34;&gt;SpeedTest&lt;/a&gt;, otro de los grandes y mejores medidores de velocidad de conexión.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Esta herramienta nos puede llegar a ser útil para comparar nuestra velocidad contra la que estamos pagando, ya que en Argentina no siempre se obtiene lo que uno paga, y realizar el reclamo pertinente a nuestro &lt;span style=&#34;text-decoration: underline;&#34;&gt;&lt;strong&gt;&lt;acronym title=&#34;Internet Service Provider&#34;&gt;ISP&lt;/acronym&gt;&lt;/strong&gt;&lt;/span&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://fast.com/&#34;&gt;Fast&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

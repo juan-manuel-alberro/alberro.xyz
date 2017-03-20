@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cms on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/cms/index.xml</link>
+    <description>Recent content in Cms on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sitecake – CMS para crear sitios estáticos</title>
+      <link>https://alberro.xyz/sitecake-cms-para-crear-sitios-estaticos/</link>
+      <pubDate>Sun, 21 Jun 2015 22:35:27 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/sitecake-cms-para-crear-sitios-estaticos/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Sitecake &lt;/strong&gt;es un gestor de contenidos, &lt;em&gt;Content Management System&lt;/em&gt; en inglés, que permite crear y administrar páginas webs estáticas, sin necesidad de utilizar una base de datos para almacenar los posts. Soporta todos los frameworks más conocidos del mercado como &lt;em&gt;Bootstrap&lt;/em&gt;, &lt;em&gt;Foundation&lt;/em&gt; y &lt;em&gt;HTML5 Boilerplate&lt;/em&gt;, entre otros.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Algunas de las ventajas de &lt;em&gt;Sitecake&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Diseñador visual mediante &lt;em&gt;Drag &amp;amp; drop&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Trabaja con HTML plano, no necesita de un servidor para procesar
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  No requiere base de datos
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Y es OpenSource 😀
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Acá pueden ingresar a un &lt;a href=&#34;http://sitecake.com/demo&#34;&gt;demo&lt;/a&gt; online con la contraseña &lt;strong&gt;&lt;em&gt;admin&lt;/em&gt;&lt;/strong&gt;. Es bien sencillo, ideal para almacenar sitios estáticos en Github pages, por ejemplo.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seguridad on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/seguridad/index.xml</link>
+    <description>Recent content in Seguridad on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/seguridad/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuevo virus que se distribuye entre los mensajes de Facebook</title>
+      <link>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</link>
+      <pubDate>Thu, 06 Oct 2016 00:37:15 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</guid>
+      <description>&lt;p&gt;Otra vez, Facebook es víctima de los virus y malwares. La empresa de seguridad Norton detectó hace unos días una nueva variante del virus Fake AV Redirect 2 de Windows el cual envía un mensaje a todos tus contactos de Facebook con un link el cual contiene el virus y de esa manera continúa su propagación.&lt;/p&gt;
+
+&lt;p&gt;Todo comienza cuando se recibe un mensaje de un amigo con un link de un sitio web. Al entrar en ese sitio web, aparece un aviso solicitando la actualización del sistema, este es un aviso personalizado ya que incluye los datos del teléfono que estamos usando. Al pulsar en el link, muchas personas creen esas cosas lamentablemente, la víctima es infectada y enviará el malware a sus contactos de &lt;strong&gt;Facebook&lt;/strong&gt;, los cuales recibirán un mensaje similar.&lt;/p&gt;
+
+&lt;p&gt;Es muy posible que una vez instalado el &lt;em&gt;malware&lt;/em&gt; en el teléfono, exista algún tipo de robo de información, envío de datos a algún servidor externo o algún otro método similar por lo que se recomienda controlar y tomar acciones ante cualquier comportamiento sospechoso.&lt;/p&gt;
+
+&lt;p&gt;Si ven que un amigo les manda un link medio raro, o que la forma de redacción no es la de él, no le presten atención e ignoren el contenido del mensaje. &lt;em&gt;Recuerden que el mejor antivirus, para cualquier dispositivo, es el sentido común&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://olhardigital.uol.com.br/fique_seguro/noticia/virus-que-se-espalha-por-mensagens-diretas-do-facebook-e-detectado/62759&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nunca más te olvides una contraseña con Enpass</title>
+      <link>https://alberro.xyz/nunca-mas-te-olvides-una-contrasena-con-enpass/</link>
+      <pubDate>Wed, 11 May 2016 15:00:48 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nunca-mas-te-olvides-una-contrasena-con-enpass/</guid>
+      <description>&lt;p&gt;Es normal, por lo menos en mi caso, que tengamos una contraseña diferente para cada aplicación web, red social, &lt;em&gt;apps&lt;/em&gt; del teléfono, pines para las tarjetas de débito y un largo etcétera. Es por eso que existen los administradores de contraseñas, los cuales almacenan todas las contraseñas bajo una única contraseña maestra la cual obviamente tiene que ser muy fuerte.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images//2016/05/Enpass.png&#34;&gt;&lt;img class=&#34;wp-image-400 size-full aligncenter&#34; src=&#34;https://alberro.xyz/images//2016/05/Enpass.png&#34; alt=&#34;Enpass&#34; width=&#34;875&#34; height=&#34;565&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es el caso de &lt;strong&gt;Enpass&lt;/strong&gt;, una aplicación gratuita que funciona en &lt;strong&gt;Windows&lt;/strong&gt;, &lt;strong&gt;Linux&lt;/strong&gt; y &lt;strong&gt;Mac OS&lt;/strong&gt; como así también en dispositivos móviles pero con la restricción de que puede almacenar solo un total de 20 contraseñas, si querés más tenés que comprar la aplicación.&lt;/p&gt;
+
+&lt;p&gt;A su vez la aplicación cuenta con extensiones (o &lt;em&gt;addons&lt;/em&gt;) para los navegadores más populares de manera que cada vez que ingresemos a un sitio web con un usuario y contraseña, tome esos datos y los almacena dentro de la aplicación. Y también, cuenta con un generador de contraseñas para darle mayor seguridad a nuestros accesos.&lt;/p&gt;
+
+&lt;p&gt;Una de las grandes virtudes que tiene &lt;strong&gt;Enpass&lt;/strong&gt; es que se sincroniza automáticamente a modo de &lt;em&gt;backup&lt;/em&gt; con muchos servicios, como por ejemplo Dropbox, Google Drive, One Drive, Box y un par más.&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://www.enpass.io/&#34;&gt;Enpass&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

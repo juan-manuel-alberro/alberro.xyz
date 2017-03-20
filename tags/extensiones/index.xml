@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extensiones on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/extensiones/index.xml</link>
+    <description>Recent content in Extensiones on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/extensiones/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Administra tus pestañas de Google Chrome con Toby</title>
+      <link>https://alberro.xyz/administra-tus-pestanas-de-google-chrome-con-toby/</link>
+      <pubDate>Sat, 07 Jan 2017 23:35:11 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/administra-tus-pestanas-de-google-chrome-con-toby/</guid>
+      <description>&lt;p&gt;No sé si a todos les pasa lo mismo que a mi, pero después de estar dos horas trabajando es normal que tenga por lo menos diez o quince pestañas abiertas por la cantidad de cosas que tengo que ir viendo. A medida que pasan las horas, llega un momento en que esto se torna inviable, y ni hablar de la cantidad de memoria &lt;em&gt;RAM&lt;/em&gt; que usa &lt;strong&gt;Chrome&lt;/strong&gt; con cada uno de los procesos (pestañas) que tiene que mantener abierto.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p id=&#34;RgNZauo&#34;&gt;
+  &lt;img class=&#34;size-full wp-image-710 aligncenter&#34; src=&#34;https://alberro.xyz/images//2017/01/img_587175a24419f.png&#34; alt=&#34;&#34; srcset=&#34;https://alberro.xyz/images//2017/01/img_587175a24419f.png 650w, https://alberro.xyz/images//2017/01/img_587175a24419f-300x115.png 300w&#34; sizes=&#34;(max-width: 650px) 100vw, 650px&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Existen muchas aplicaciones para mejorar el manejo de la memoria, lo que hacen básicamente es &lt;em&gt;dormir&lt;/em&gt; la pestaña, dejándola en una especie de limbo hasta que vuelva a tener el foco y es ahí cuando se vuelve a recargar. A mi eso no me sirve ya que estoy continuamente alternando entre estas pestañas por lo que ralentiza mi trabajo. Es acá cuando entra &lt;strong&gt;Toby&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toby&lt;/strong&gt; es una aplicación web, y extensión de &lt;strong&gt;Chrome&lt;/strong&gt;, para administrar nuestras pestañas abiertas de una manera mucho más sencilla pudiendo hacer &lt;em&gt;drag &amp;amp; drop&lt;/em&gt; a cada una de ellas y enviarlas a una determina lista que creamos previamente, por ejemplo una lista del trabajo, una lista para novedades, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;http://www.gettoby.com/img/features/drag.svg&#34; /&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://www.gettoby.com/img/features/savesession.svg&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#34;clear: both;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Si tu idea es guardar dentro de la aplicación miles de pestañas, &lt;strong&gt;Toby&lt;/strong&gt; brinda una opción para poder buscarlas y así hacer más sencillo el proceso&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;http://www.gettoby.com/img/features/search.svg&#34; /&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://www.gettoby.com/img/features/popup.svg&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#34;clear: both;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Además esta extensión modifica la funcionalidad cuando abrís una pestaña y te la reemplaza por todas las listas de pestañas que tenés dentro de &lt;strong&gt;Toby&lt;/strong&gt;, de esa forma quedan a mano para cualquier consulta.&lt;/p&gt;
+
+&lt;p&gt;Realmente vale la pena probar esta extensión, la pueden descargar desde el sitio oficial de &lt;a href=&#34;https://chrome.google.com/webstore/detail/toby-manage-your-tabs/hddnkoipeenegfoeaoibdmnaalmgkpip/related?hl=es-419&#34;&gt;Google Chrome&lt;/a&gt; o desde su &lt;a href=&#34;http://www.gettoby.com/&#34;&gt;web&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

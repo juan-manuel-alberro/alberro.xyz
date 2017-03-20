@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Alberro.xyz</title>
+    <link>https://alberro.xyz/categories/linux/index.xml</link>
+    <description>Recent content in Linux on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crea circuitos de una manera muy sencilla</title>
+      <link>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</link>
+      <pubDate>Tue, 01 Sep 2015 23:57:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Gracias a &lt;strong&gt;Fritzing&lt;/strong&gt;, vamos a poder desarrollar nuestros propios circuitos de manera interactiva incluyendo una variedad muy amplia de componentes hasta &lt;em&gt;boards&lt;/em&gt; &lt;em&gt;Arduino&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Fritzing&lt;/strong&gt; es una iniciativa &lt;em&gt;open source&lt;/em&gt; que hace a la electrónica accesibles para cualquier persona. Permite diseñar un circuito desde el &lt;em&gt;protoboard / breadboard&lt;/em&gt; y luego exportarlo hasta en formato de ¡circuito impreso! Una verdadera maravilla. Y además, cuando una de las tantas vistas que posee es cambiada, automáticamente actualiza las demás vistas por lo que si agregás un capacitor en un lado, aparecerá en el otro instantáneamente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A continuación pueden ver algunas de las tantas funcionalidades que nos ofrece este software.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  También ofrecen la impresión de los circuitos &lt;em&gt;PCB&lt;/em&gt; como así también la posibilidad de encargar todos los componentes usados en tu diseño pero solo está disponible en el país de Estados Unidos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Vale aclarar que el software &lt;strong&gt;Fritzing&lt;/strong&gt; funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt; y &lt;em&gt;Mac OS&lt;/em&gt;, así que no hay excusa que valga para no empezar a diseñar tu propio prototipo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Descarga sitios webs con Darcy Ripper</title>
+      <link>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</link>
+      <pubDate>Sun, 12 Jul 2015 19:24:32 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Darcy Ripper&lt;/strong&gt; es una aplicación gratuita para descargar sitios webs completos, pudiendo definir los niveles de profundidad que tiene que &lt;em&gt;escavar&lt;/em&gt;. Se puede utilizar para bajar sitios y leerlos &lt;em&gt;offline&lt;/em&gt; o simplemente investigar los recursos que posee. 
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Los requerimientos que posee esta aplicación son prácticamente nulos, solo necesita tener instalado la versión de &lt;em&gt;Java 1.6&lt;/em&gt; en adelante. Es completamente independiente del sistema operativo que se corra, ya que está desarrollada en &lt;em&gt;Java&lt;/em&gt; y funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OS X&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A su vez permite la configuración por cada uno de los proyectos que se manden a la cola de procesamiento, pudiendo definir a cada uno de ellos la profundidad de escaneo, el filtro de imágenes, la cantidad de descargas en paralelo y muchas opciones más! Ideal para entrar a esas webs que venden &lt;em&gt;themes&lt;/em&gt; cof cof&amp;#8230;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-151 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34; alt=&#34;darcy-ripper&#34; width=&#34;1366&#34; height=&#34;725&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elementary OS se despide de Sourceforge</title>
+      <link>https://alberro.xyz/elementary-os-se-despide-de-sourceforge/</link>
+      <pubDate>Thu, 18 Jun 2015 18:49:10 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/elementary-os-se-despide-de-sourceforge/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Después de varios años, el sistema operativo Elementary OS, deja de &lt;em&gt;hostear&lt;/em&gt; su código en los servidores de &lt;em&gt;Sourceforge&lt;/em&gt; debido al problema que hubo recientemente con los ad-ware que se utilizaban en los instaladores. Para los que no conocen Elementary OS, es una distribución de Linux con características e interfaz similar a los sistemas operativos de Apple.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  De ahora en más, el servidor elegido por Elementary OS es Digital Ocean, la misma empresa de &lt;em&gt;hosting&lt;/em&gt; que almacena este humilde blog. Van a utilizar diferentes locaciones para administrar el tráfico que genera la descarga del sistema operativo ya que una imagen pesa más de 700Mb.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/map.png&#34;&gt;&lt;img class=&#34; size-full wp-image-29 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/map.png&#34; alt=&#34;map&#34; width=&#34;500&#34; height=&#34;313&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Además van a ofrecer el protocolo HTTPS con el estándar A+ y con un &lt;em&gt;failback&lt;/em&gt; a HTTP para los navegadores que soporten dicha encriptación.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

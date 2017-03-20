@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consola on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/consola/index.xml</link>
+    <description>Recent content in Consola on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/consola/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Consola de Unix para Windows</title>
+      <link>https://alberro.xyz/consola-de-unix-para-windows/</link>
+      <pubDate>Mon, 10 Aug 2015 13:27:41 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/consola-de-unix-para-windows/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Uno de los grandes problemas que tiene &lt;em&gt;Windows&lt;/em&gt;, desde la versión 3.1 hasta la recientemente lanzada versión 10, es que no cuenta con una buena consola. El famoso &lt;strong&gt;cmd&lt;/strong&gt; es bastante limitado si se lo compara contra la &lt;em&gt;consola / terminal&lt;/em&gt; de una plataforma &lt;em&gt;Unix&lt;/em&gt;, ya sea &lt;em&gt;Linux&lt;/em&gt; o &lt;em&gt;Mac OS&lt;/em&gt;. Con este emulador vas a poder tener la misma consola de &lt;em&gt;Unix&lt;/em&gt; sobre &lt;em&gt;Windows&lt;/em&gt; y encima es portable.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo bueno de &lt;strong&gt;Cmder&lt;/strong&gt; es que está basada sobre &lt;em&gt;ConEmu&lt;/em&gt;, uno de los mejores emuladores para &lt;em&gt;Windows&lt;/em&gt; y por supuesto, &lt;strong&gt;Cmder&lt;/strong&gt; hereda todas las ventajas de él.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además, &lt;strong&gt;Cmder&lt;/strong&gt; cuenta con integración para &lt;em&gt;Git&lt;/em&gt; poniendo adornos en la consola, como el nombre del branch, cambios hechos y demás mejoras. El diseño posee colores basados en el &lt;em&gt;theme Monokai&lt;/em&gt;, el cual hace atractiva la consola para su uso diario.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+   &lt;a href=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-296 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34; alt=&#34;cmder&#34; width=&#34;1366&#34; height=&#34;703&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar basado en &lt;em&gt;ConEmu&lt;/em&gt;, &lt;strong&gt;Cmder&lt;/strong&gt; permite tener en una sola ventana muchas consolas como se puede ver en la captura de arriba. El diseño de cómo se pueden ubicar, está limitado a la imaginación del usuario que la usa 🙂
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

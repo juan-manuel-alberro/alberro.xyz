@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nodejs on Alberro.xyz</title>
+    <link>https://alberro.xyz/categories/nodejs/index.xml</link>
+    <description>Recent content in Nodejs on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/categories/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interfaz de consola para utilizar Git</title>
+      <link>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</link>
+      <pubDate>Sat, 18 Jul 2015 13:42:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Git&lt;/strong&gt;, el famoso software para control de código, puede ser utilizado desde la consola a través de diversos comandos. Ahora, con &lt;strong&gt;Git Commander&lt;/strong&gt;, vas a poder utilizarlo en la consola pero a través de una interfaz gráfica bien definida.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hasta el momento, &lt;strong&gt;Git Commander&lt;/strong&gt; soporta las siguientes funcionalidades&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add [files]&lt;/li&gt;
+&lt;li&gt;git reset &amp;#8212; [files]&lt;/li&gt;
+&lt;li&gt;git commit [files]&lt;/li&gt;
+&lt;li&gt;git log&lt;/li&gt;
+&lt;li&gt;git reset&lt;/li&gt;
+&lt;li&gt;git diff file&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y en breve estarán incluyendo las funciones de &lt;em&gt;git branch&lt;/em&gt;, &lt;em&gt;git merge (handling conflict)&lt;/em&gt; y &lt;em&gt;git push&lt;/em&gt;. A continuación vemos cómo funciona esta aplicación.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-193 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34; alt=&#34;git-commander&#34; width=&#34;666&#34; height=&#34;568&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los requisitos de software para que &lt;strong&gt;Git Commander&lt;/strong&gt; funcione, son&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git &amp;gt;= 2.4&lt;/li&gt;
+&lt;li&gt;nodejs &amp;gt;= 0.12&lt;/li&gt;
+&lt;li&gt;blessed &amp;gt;= 0.1.7&lt;/li&gt;
+&lt;li&gt;lodash &amp;gt;= 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y para su instalación solo tenemos que ejecutar los siguientes comandos en una consola, ya sea de Linux, Mac o Windows&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;npm install -g git-commander&lt;/pre&gt;
+
+&lt;p&gt;Y luego para ejecutarlo&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;git-commander
+&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar instalado en forma global, &lt;em&gt;git-commander&lt;/em&gt; queda disponible desde cualquier ubicación en la consola.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

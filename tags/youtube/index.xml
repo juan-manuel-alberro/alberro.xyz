@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/youtube/index.xml</link>
+    <description>Recent content in Youtube on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cómo activar el nuevo diseño de Youtube</title>
+      <link>https://alberro.xyz/como-activar-el-nuevo-diseno-de-youtube/</link>
+      <pubDate>Tue, 10 May 2016 02:45:40 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/como-activar-el-nuevo-diseno-de-youtube/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt; presentó en estos días el nuevo rediseño de su sitio web basado en Material Design, llevando de esta forma la imagen de sus productos a una transición &lt;em&gt;seamless&lt;/em&gt; entre Desktop y Android.&lt;/p&gt;
+
+&lt;p&gt;Si bien el nuevo diseño &lt;strong&gt;no está habilitado&lt;/strong&gt; para todos los usuarios existe una forma, un poco compleja para algunos especialmente los que no son desarrolladores, de activarla. Para ello vamos a realizar los siguientes pasos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ingresar a la URL &lt;a href=&#34;https://www.youtube.com/?gl=US&#34;&gt;https://www.youtube.com/?gl=US&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abrir la consola de desarrollo presionando la tecla &lt;kbd&gt;F12&lt;/kbd&gt; o la combinación &lt;kbd&gt;ctrl&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;shift&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;i&lt;/kbd&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ir a la pestaña con nombre Resources y luego del árbol de la izquierda ir hasta cookies y borrar la que tiene de nombre &lt;code&gt;VISITOR_INFO1_LIVE&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Presionar la tecla escape para que se abra la consola y pegar&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;document.cookie=&amp;quot;VISITOR_INFO1_LIVE=Qa1hUZu3gtk;path=/;domain=.youtube.com&amp;quot;;&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Recargar la página y listo 🙂&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Si hiciste todos los pasos vas a estar viendo el nuevo diseño de Youtube como el que está en la imagen que sigue. Seguramente en el transcurso de estos meses, Google estará haciendo público el diseño para todo el mundo pero mientras tanto podemos ir jugando antes que el resto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images//2016/05/YouTube-Google-Chrome_001.png&#34;&gt;&lt;img class=&#34;alignnone wp-image-391 size-full&#34; src=&#34;https://alberro.xyz/images//2016/05/YouTube-Google-Chrome_001.png&#34; alt=&#34;YouTube - Google Chrome_001&#34; width=&#34;1366&#34; height=&#34;630&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

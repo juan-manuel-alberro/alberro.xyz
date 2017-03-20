@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Os on Alberro.xyz</title>
+    <link>https://alberro.xyz/categories/os/index.xml</link>
+    <description>Recent content in Os on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/categories/os/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crea circuitos de una manera muy sencilla</title>
+      <link>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</link>
+      <pubDate>Tue, 01 Sep 2015 23:57:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Gracias a &lt;strong&gt;Fritzing&lt;/strong&gt;, vamos a poder desarrollar nuestros propios circuitos de manera interactiva incluyendo una variedad muy amplia de componentes hasta &lt;em&gt;boards&lt;/em&gt; &lt;em&gt;Arduino&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Fritzing&lt;/strong&gt; es una iniciativa &lt;em&gt;open source&lt;/em&gt; que hace a la electrónica accesibles para cualquier persona. Permite diseñar un circuito desde el &lt;em&gt;protoboard / breadboard&lt;/em&gt; y luego exportarlo hasta en formato de ¡circuito impreso! Una verdadera maravilla. Y además, cuando una de las tantas vistas que posee es cambiada, automáticamente actualiza las demás vistas por lo que si agregás un capacitor en un lado, aparecerá en el otro instantáneamente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A continuación pueden ver algunas de las tantas funcionalidades que nos ofrece este software.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  También ofrecen la impresión de los circuitos &lt;em&gt;PCB&lt;/em&gt; como así también la posibilidad de encargar todos los componentes usados en tu diseño pero solo está disponible en el país de Estados Unidos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Vale aclarar que el software &lt;strong&gt;Fritzing&lt;/strong&gt; funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt; y &lt;em&gt;Mac OS&lt;/em&gt;, así que no hay excusa que valga para no empezar a diseñar tu propio prototipo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Consola de Unix para Windows</title>
+      <link>https://alberro.xyz/consola-de-unix-para-windows/</link>
+      <pubDate>Mon, 10 Aug 2015 13:27:41 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/consola-de-unix-para-windows/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Uno de los grandes problemas que tiene &lt;em&gt;Windows&lt;/em&gt;, desde la versión 3.1 hasta la recientemente lanzada versión 10, es que no cuenta con una buena consola. El famoso &lt;strong&gt;cmd&lt;/strong&gt; es bastante limitado si se lo compara contra la &lt;em&gt;consola / terminal&lt;/em&gt; de una plataforma &lt;em&gt;Unix&lt;/em&gt;, ya sea &lt;em&gt;Linux&lt;/em&gt; o &lt;em&gt;Mac OS&lt;/em&gt;. Con este emulador vas a poder tener la misma consola de &lt;em&gt;Unix&lt;/em&gt; sobre &lt;em&gt;Windows&lt;/em&gt; y encima es portable.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo bueno de &lt;strong&gt;Cmder&lt;/strong&gt; es que está basada sobre &lt;em&gt;ConEmu&lt;/em&gt;, uno de los mejores emuladores para &lt;em&gt;Windows&lt;/em&gt; y por supuesto, &lt;strong&gt;Cmder&lt;/strong&gt; hereda todas las ventajas de él.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además, &lt;strong&gt;Cmder&lt;/strong&gt; cuenta con integración para &lt;em&gt;Git&lt;/em&gt; poniendo adornos en la consola, como el nombre del branch, cambios hechos y demás mejoras. El diseño posee colores basados en el &lt;em&gt;theme Monokai&lt;/em&gt;, el cual hace atractiva la consola para su uso diario.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+   &lt;a href=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-296 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34; alt=&#34;cmder&#34; width=&#34;1366&#34; height=&#34;703&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar basado en &lt;em&gt;ConEmu&lt;/em&gt;, &lt;strong&gt;Cmder&lt;/strong&gt; permite tener en una sola ventana muchas consolas como se puede ver en la captura de arriba. El diseño de cómo se pueden ubicar, está limitado a la imaginación del usuario que la usa 🙂
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo forzar la descarga e instalación de Windows 10?</title>
+      <link>https://alberro.xyz/como-forzar-la-descarga-e-instalacion-de-windows-10/</link>
+      <pubDate>Thu, 30 Jul 2015 20:07:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/como-forzar-la-descarga-e-instalacion-de-windows-10/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En Argentina, la actualización de &lt;a href=&#34;http://www.alberro.xyz/category/os/windows/&#34;&gt;Windows 10&lt;/a&gt; se está haciendo paulatinamente dándole mayor prioridad a los países del norte. Con este sencillo truco, vas a poder forzar la descarga e instalación del nuevo sistema operativo de &lt;em&gt;Microsoft&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ya es sabido que &lt;em&gt;Windows 10&lt;/em&gt; es gratuito para los usuarios &lt;strong&gt;legales&lt;/strong&gt; de &lt;em&gt;Windows 7&lt;/em&gt; en adelante, pero a pesar de que tengas ese sistema operativo, puede que la actualización no te haya aparecido.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El truco, si es que se le puede llamar así, es crear un nuevo valor dentro del registro de &lt;em&gt;Windows&lt;/em&gt; para indicarle que está permitido hacer un &lt;em&gt;upgrade&lt;/em&gt; del sistema operativo.
+&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: justify;&#34;&gt;
+  Instrucciones
+&lt;/h3&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Abrir el editor del registro desde el menú de inicio escribiendo el nombre de &lt;em&gt;regedit.exe&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Navegar por las carpetas del registro hasta llegar a &lt;pre class=&#34;&#34;&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade&lt;/pre&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Editar o crear una nueva clave con nombre &lt;strong&gt;AllowOSUpgrade&lt;/strong&gt;. Para crearla hacemos clic con el botón derecho en la parte derecha de la pantalla y &lt;em&gt;Nuevo&lt;/em&gt; → &lt;em&gt;Valor de DWORD (32 bits)&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Luego le cambiamos el valor por 1 y listo, debería quedarte así
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-55-33.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-241 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-55-33.png&#34; alt=&#34;2015-07-30_16-55-33&#34; width=&#34;754&#34; height=&#34;205&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Si ya hiciste todos los pasos y te quedó como en el &lt;em&gt;screenshot&lt;/em&gt; de arriba, entonces ahora falta ir al &lt;em&gt;Panel de Control&lt;/em&gt; → &lt;em&gt;Windows Update&lt;/em&gt;. Cuando lo abras, ya vas a ver el logo nuevo de &lt;strong&gt;Windows 10&lt;/strong&gt;! 😎
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-18-12.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-242 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-18-12.png&#34; alt=&#34;2015-07-30_16-18-12&#34; width=&#34;739&#34; height=&#34;384&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ahora solo resta esperar a que termine de bajarte los +2Gb y listo, vas a estar disfrutando del último sistema operativo de &lt;em&gt;Microsoft&lt;/em&gt; 👌
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

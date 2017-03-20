@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotografía on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/fotograf%C3%ADa/index.xml</link>
+    <description>Recent content in Fotografía on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/fotograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imágenes gratuitas para todos tus proyectos</title>
+      <link>https://alberro.xyz/imagenes-gratuitas-para-todos-tus-proyectos/</link>
+      <pubDate>Mon, 03 Aug 2015 22:59:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/imagenes-gratuitas-para-todos-tus-proyectos/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Unsplash It&lt;/strong&gt; es un servicio &lt;em&gt;online&lt;/em&gt; de &lt;em&gt;placeholders&lt;/em&gt; de imágenes, ideal para &lt;em&gt;maquetar &lt;/em&gt;los proyectos que se encuentran en etapa de desarrollo. El servicio es gratuito y está basado en &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;, otro servicio gratuito para descargar imágenes libres de licencia.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para utilizar &lt;em&gt;Unsplash It&lt;/em&gt; solo tenemos que &lt;em&gt;pegarle&lt;/em&gt; a una URL y listo, ya tendremos una imagen aleatoria en nuestro proyecto.
+&lt;/p&gt;
+
+&lt;h3 id=&#34;ejemplo&#34;&gt;Ejemplo&lt;/h3&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true &#34;&gt;https://unsplash.it/800/600
+&lt;/pre&gt;
+
+&lt;p&gt;Generaría una imagen aleatoria de tamaño 800&amp;#215;600 píxeles como esta&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para generar siempre una imagen aleatoria, tenemos que agregar el parámetro &lt;strong&gt;?random&lt;/strong&gt; al final de la &lt;em&gt;URL.&lt;/em&gt; Refrescá la página para ver una nueva imagen.&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/800/600/?random&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600/?random&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si queremos que la imagen que nos muestra sea en &lt;strong&gt;escala de grises&lt;/strong&gt;, hay que modificar la ruta de la siguiente manera&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/g/800/600&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/g/800/600/&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para efecto &lt;em&gt;blurred&lt;/em&gt; o difuminada, hay que agregarle el parámetro &lt;strong&gt;?blur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/g/800/600/?blur
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600/?blur&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo bueno del servicio, es que ofrece sus imágenes a través del &lt;em&gt;protocolo HTTPS&lt;/em&gt;. Para conocer el resto de las opciones, ingresá a la web de &lt;em&gt;Unsplash It 🙂&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Review de lentes macro y ojo de pez para celulares</title>
+      <link>https://alberro.xyz/review-de-lentes-macro-y-ojo-de-pez-para-celulares/</link>
+      <pubDate>Tue, 30 Jun 2015 02:45:57 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/review-de-lentes-macro-y-ojo-de-pez-para-celulares/</guid>
+      <description>
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Hoy les traigo una &lt;em&gt;review&lt;/em&gt; de los lentes &lt;em&gt;3-in-1&lt;/em&gt; para celulares de origen Chino, como todo lo que viene hoy en día, para poder sacarle más provecho a la cámara de nuestro celular. Los lentes que vienen dentro de la caja son tres: &lt;em&gt;macro&lt;/em&gt;, &lt;em&gt;macro+wide&lt;/em&gt; y &lt;em&gt;fish-eye&lt;/em&gt; u ojo de pez confeccionados con cuerpo en aluminio, lente de cristal, protectores plásticos y funda de terciopelo para guardarlos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Estas lentes se pueden conseguir en diferentes lugares y el precio &lt;a href=&#34;http://listado.mercadolibre.com.ar/lente-celulares#D[A:lente-celulares]&#34; target=&#34;_blank&#34;&gt;no supera los $200&lt;/a&gt; en Argentina, ya ese precio determina que no sirven para un uso profesional sino más bien para darle un agregado extra de funcionalidad a nuestro celular y divertirnos un rato.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-117 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/lentes2.jpg&#34; alt=&#34;lentes2&#34; width=&#34;739&#34; height=&#34;495&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 style=&#34;text-align: justify;&#34;&gt;
+  Lente macro
+&lt;/h5&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La lente macro posee una muy buena calidad al momento de capturar imágenes y hay que acercarse demasiado al objeto a capturar y por tal motivo, hay que utilizar una fuente externa para iluminar o hacerlo al rayo del sol.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;td-modal-image td-scroll-e-image-zoom-in wp-image-115 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/macro.jpg&#34; alt=&#34;Máquina de reloj&#34; width=&#34;800&#34; height=&#34;453&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;lente-macro-wide&#34;&gt;Lente macro+wide&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La lente wide funciona sobre la lente macro, los dos lentes tienen que estar juntos para funcionar. Si bien este lente amplía el espectro de la imagen que capturar el celular, es uno de los más flojos del conjunto ya que, al menos para mi, no posee demasiada utilidad.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/wide.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-118 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/wide.jpg&#34; alt=&#34;wide&#34; width=&#34;800&#34; height=&#34;449&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h5 style=&#34;text-align: justify;&#34;&gt;
+  Lente ojo de pez
+&lt;/h5&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Este lente genera el conocido efecto circular en las imágenes, efecto que se puede lograr por software pero es mucho mejor hacerlo con una lente externa. La calidad de la foto dependerá directamente de cómo esté colocada la lente, ya que a los extremos parece que la calidad baja y la imagen se ve borrosa. Si se logra ubicar perfectamente en el centro, se pueden lograr resultados muy buenos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/Fisheye_jpg.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-116 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/Fisheye_jpg.jpg&#34; alt=&#34;Fisheye_jpg&#34; width=&#34;689&#34; height=&#34;518&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h5 style=&#34;text-align: justify;&#34;&gt;
+  TL;DR
+&lt;/h5&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Tres lentes a un buen precio, ideal para divertirse y capturar momentos con el celular de una forma diferente. No tienen una calidad de lo que podrían ser las lentes para las reflex, pero obviamente no es lógica la comparación, y sin embargo se pueden lograr lindos resultados y por tal motivo es que los recomiendo.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

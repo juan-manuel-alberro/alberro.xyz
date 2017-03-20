@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Alberro.xyz</title>
+    <link>https://alberro.xyz/categories/windows/index.xml</link>
+    <description>Recent content in Windows on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lanzador de aplicaciones al estilo Spotlight en Windows</title>
+      <link>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</link>
+      <pubDate>Tue, 10 May 2016 18:00:20 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</guid>
+      <description>&lt;p&gt;Apple tiene &lt;em&gt;Spotlight&lt;/em&gt; y &lt;em&gt;Alfred&lt;/em&gt;, &lt;em&gt;Linux/Ubuntu&lt;/em&gt; tiene &lt;em&gt;Unity&lt;/em&gt; y ahora &lt;em&gt;Windows&lt;/em&gt; tiene &lt;strong&gt;Hain&lt;/strong&gt;, el lanzador de aplicaciones y buscador de archivos &lt;a href=&#34;https://www.alberro.xyz/tag/open-source/&#34;&gt;open-source&lt;/a&gt;. Al mejor estilo &lt;em&gt;Spotlight&lt;/em&gt;, &lt;strong&gt;Hain&lt;/strong&gt; no es solo un buscador, es una herramienta que nos simplifica de manera notoria el uso de la computadora y nos da velocidad a la hora de ejecutar comandos.&lt;/p&gt;
+
+&lt;p&gt;Hain se ejecuta de manera muy sencilla, solo tenemos que descargarnos el archivo y abrir el &lt;em&gt;.exe&lt;/em&gt;, por suerte no necesita instalación. Luego con solo presionar las teclas &lt;kbd&gt;alt&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;space&lt;/kbd&gt; (se puede cambiar en caso de que no nos sea cómoda esa combinación de teclas) se nos abre una ventana para ingresar texto y ahí podemos buscar archivos o aplicaciones instaladas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter wp-image-383 size-full&#34; src=&#34;https://alberro.xyz/images//2016/05/demo.gif&#34; alt=&#34;demo&#34; width=&#34;600&#34; height=&#34;384&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Posee tolerancia a los errores de escritura, es decir que si ingresamos la palabra &lt;em&gt;WRD&lt;/em&gt; nos va a traer &lt;em&gt;Word&lt;/em&gt; y todas las palabras y archivos que tengan un nombre similar. Funciona también con URLs, si escribimos una dirección web y presionamos &lt;kbd&gt;enter&lt;/kbd&gt; nos va a abrir nuestro navegador por defecto con la URLs que ingresamos.&lt;/p&gt;
+
+&lt;p&gt;Podemos hacer uso de internet para usar &lt;strong&gt;Hain&lt;/strong&gt; como diccionario con solo poner el &lt;kbd&gt;?&lt;/kbd&gt; delante de nuestra palabra a consultar como así también realizar operaciones matemáticas con solo escribir la fórmula.&lt;/p&gt;
+
+&lt;p&gt;Y lo más interesante, es que se puede extender el funcionamiento de Hain a través de plugins logrando llevar la configuración a lo que realmente necesités.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hain&lt;/strong&gt; está desarrollado en &lt;a href=&#34;https://www.alberro.xyz/tag/javascript/&#34;&gt;Javascript&lt;/a&gt; bajo la plataforma &lt;em&gt;Electron&lt;/em&gt;, una herramienta que permite crear aplicaciones nativas para todos los OS disponibles con un mismo código fuente.&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://github.com/appetizermonster/hain&#34;&gt;Hain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crea circuitos de una manera muy sencilla</title>
+      <link>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</link>
+      <pubDate>Tue, 01 Sep 2015 23:57:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Gracias a &lt;strong&gt;Fritzing&lt;/strong&gt;, vamos a poder desarrollar nuestros propios circuitos de manera interactiva incluyendo una variedad muy amplia de componentes hasta &lt;em&gt;boards&lt;/em&gt; &lt;em&gt;Arduino&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Fritzing&lt;/strong&gt; es una iniciativa &lt;em&gt;open source&lt;/em&gt; que hace a la electrónica accesibles para cualquier persona. Permite diseñar un circuito desde el &lt;em&gt;protoboard / breadboard&lt;/em&gt; y luego exportarlo hasta en formato de ¡circuito impreso! Una verdadera maravilla. Y además, cuando una de las tantas vistas que posee es cambiada, automáticamente actualiza las demás vistas por lo que si agregás un capacitor en un lado, aparecerá en el otro instantáneamente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A continuación pueden ver algunas de las tantas funcionalidades que nos ofrece este software.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  También ofrecen la impresión de los circuitos &lt;em&gt;PCB&lt;/em&gt; como así también la posibilidad de encargar todos los componentes usados en tu diseño pero solo está disponible en el país de Estados Unidos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Vale aclarar que el software &lt;strong&gt;Fritzing&lt;/strong&gt; funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt; y &lt;em&gt;Mac OS&lt;/em&gt;, así que no hay excusa que valga para no empezar a diseñar tu propio prototipo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Consola de Unix para Windows</title>
+      <link>https://alberro.xyz/consola-de-unix-para-windows/</link>
+      <pubDate>Mon, 10 Aug 2015 13:27:41 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/consola-de-unix-para-windows/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Uno de los grandes problemas que tiene &lt;em&gt;Windows&lt;/em&gt;, desde la versión 3.1 hasta la recientemente lanzada versión 10, es que no cuenta con una buena consola. El famoso &lt;strong&gt;cmd&lt;/strong&gt; es bastante limitado si se lo compara contra la &lt;em&gt;consola / terminal&lt;/em&gt; de una plataforma &lt;em&gt;Unix&lt;/em&gt;, ya sea &lt;em&gt;Linux&lt;/em&gt; o &lt;em&gt;Mac OS&lt;/em&gt;. Con este emulador vas a poder tener la misma consola de &lt;em&gt;Unix&lt;/em&gt; sobre &lt;em&gt;Windows&lt;/em&gt; y encima es portable.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo bueno de &lt;strong&gt;Cmder&lt;/strong&gt; es que está basada sobre &lt;em&gt;ConEmu&lt;/em&gt;, uno de los mejores emuladores para &lt;em&gt;Windows&lt;/em&gt; y por supuesto, &lt;strong&gt;Cmder&lt;/strong&gt; hereda todas las ventajas de él.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además, &lt;strong&gt;Cmder&lt;/strong&gt; cuenta con integración para &lt;em&gt;Git&lt;/em&gt; poniendo adornos en la consola, como el nombre del branch, cambios hechos y demás mejoras. El diseño posee colores basados en el &lt;em&gt;theme Monokai&lt;/em&gt;, el cual hace atractiva la consola para su uso diario.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+   &lt;a href=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-296 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34; alt=&#34;cmder&#34; width=&#34;1366&#34; height=&#34;703&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar basado en &lt;em&gt;ConEmu&lt;/em&gt;, &lt;strong&gt;Cmder&lt;/strong&gt; permite tener en una sola ventana muchas consolas como se puede ver en la captura de arriba. El diseño de cómo se pueden ubicar, está limitado a la imaginación del usuario que la usa 🙂
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo forzar la descarga e instalación de Windows 10?</title>
+      <link>https://alberro.xyz/como-forzar-la-descarga-e-instalacion-de-windows-10/</link>
+      <pubDate>Thu, 30 Jul 2015 20:07:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/como-forzar-la-descarga-e-instalacion-de-windows-10/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En Argentina, la actualización de &lt;a href=&#34;http://www.alberro.xyz/category/os/windows/&#34;&gt;Windows 10&lt;/a&gt; se está haciendo paulatinamente dándole mayor prioridad a los países del norte. Con este sencillo truco, vas a poder forzar la descarga e instalación del nuevo sistema operativo de &lt;em&gt;Microsoft&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ya es sabido que &lt;em&gt;Windows 10&lt;/em&gt; es gratuito para los usuarios &lt;strong&gt;legales&lt;/strong&gt; de &lt;em&gt;Windows 7&lt;/em&gt; en adelante, pero a pesar de que tengas ese sistema operativo, puede que la actualización no te haya aparecido.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El truco, si es que se le puede llamar así, es crear un nuevo valor dentro del registro de &lt;em&gt;Windows&lt;/em&gt; para indicarle que está permitido hacer un &lt;em&gt;upgrade&lt;/em&gt; del sistema operativo.
+&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: justify;&#34;&gt;
+  Instrucciones
+&lt;/h3&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Abrir el editor del registro desde el menú de inicio escribiendo el nombre de &lt;em&gt;regedit.exe&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Navegar por las carpetas del registro hasta llegar a &lt;pre class=&#34;&#34;&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade&lt;/pre&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Editar o crear una nueva clave con nombre &lt;strong&gt;AllowOSUpgrade&lt;/strong&gt;. Para crearla hacemos clic con el botón derecho en la parte derecha de la pantalla y &lt;em&gt;Nuevo&lt;/em&gt; → &lt;em&gt;Valor de DWORD (32 bits)&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Luego le cambiamos el valor por 1 y listo, debería quedarte así
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-55-33.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-241 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-55-33.png&#34; alt=&#34;2015-07-30_16-55-33&#34; width=&#34;754&#34; height=&#34;205&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Si ya hiciste todos los pasos y te quedó como en el &lt;em&gt;screenshot&lt;/em&gt; de arriba, entonces ahora falta ir al &lt;em&gt;Panel de Control&lt;/em&gt; → &lt;em&gt;Windows Update&lt;/em&gt;. Cuando lo abras, ya vas a ver el logo nuevo de &lt;strong&gt;Windows 10&lt;/strong&gt;! 😎
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-18-12.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-242 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-18-12.png&#34; alt=&#34;2015-07-30_16-18-12&#34; width=&#34;739&#34; height=&#34;384&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ahora solo resta esperar a que termine de bajarte los +2Gb y listo, vas a estar disfrutando del último sistema operativo de &lt;em&gt;Microsoft&lt;/em&gt; 👌
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Las actualizaciones de Windows 10 no pueden cancelarse</title>
+      <link>https://alberro.xyz/las-actualizaciones-de-windows-10-no-pueden-cancelarse/</link>
+      <pubDate>Tue, 21 Jul 2015 12:16:42 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/las-actualizaciones-de-windows-10-no-pueden-cancelarse/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A menos de dos semanas de la &lt;em&gt;release&lt;/em&gt; gratuita de &lt;strong&gt;Windows 10&lt;/strong&gt;, &lt;strong&gt;Microsoft&lt;/strong&gt; confirma que las actualizaciones de dicho sistema operativo no puede detenerse ni cancelarse. La idea de &lt;em&gt;Microsoft&lt;/em&gt; detrás de todo esto, es que los usuarios no corran el sistema desactualizado.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La licencia, que fue actualizada hace unos días, dice lo siguiente
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  The software periodically checks for system and app updates, and downloads and installs them for you. You may obtain updates only from Microsoft or authorized sources, and Microsoft may need to update your system to provide you with those updates. By accepting this agreement, you agree to receive these types of automatic updates without any additional notice.
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;tl-dr&#34;&gt;TL;DR&lt;/h3&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El software verifica periódicamente por actualizaciones, las descarga e instala por vos y que las actualizaciones serán obtenidas solo de &lt;em&gt;Microsoft&lt;/em&gt; o fuentes autorizadas sin poder cancelarlas o &lt;em&gt;apagar&lt;/em&gt; el actualizador.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La razón principal de Microsoft al optar por esta solución, es la de evitar tener computadoras con Windows 10 desactualizados. Las actualizaciones, en teoría, arreglan bugs y potenciales exploits que usan los virus.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo malo de esto es que se siente que uno pierde el control sobre lo que hace y deja de hacer el sistema operativo. Veremos qué pasa cuando el &lt;em&gt;deploy&lt;/em&gt; de Windows 10 se haga realidad, hasta entonces no vale la pena preocuparse demasiado.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Descarga sitios webs con Darcy Ripper</title>
+      <link>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</link>
+      <pubDate>Sun, 12 Jul 2015 19:24:32 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Darcy Ripper&lt;/strong&gt; es una aplicación gratuita para descargar sitios webs completos, pudiendo definir los niveles de profundidad que tiene que &lt;em&gt;escavar&lt;/em&gt;. Se puede utilizar para bajar sitios y leerlos &lt;em&gt;offline&lt;/em&gt; o simplemente investigar los recursos que posee. 
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Los requerimientos que posee esta aplicación son prácticamente nulos, solo necesita tener instalado la versión de &lt;em&gt;Java 1.6&lt;/em&gt; en adelante. Es completamente independiente del sistema operativo que se corra, ya que está desarrollada en &lt;em&gt;Java&lt;/em&gt; y funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OS X&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A su vez permite la configuración por cada uno de los proyectos que se manden a la cola de procesamiento, pudiendo definir a cada uno de ellos la profundidad de escaneo, el filtro de imágenes, la cantidad de descargas en paralelo y muchas opciones más! Ideal para entrar a esas webs que venden &lt;em&gt;themes&lt;/em&gt; cof cof&amp;#8230;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-151 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34; alt=&#34;darcy-ripper&#34; width=&#34;1366&#34; height=&#34;725&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

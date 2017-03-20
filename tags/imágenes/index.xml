@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imágenes on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/im%C3%A1genes/index.xml</link>
+    <description>Recent content in Imágenes on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/im%C3%A1genes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imágenes gratuitas para todos tus proyectos</title>
+      <link>https://alberro.xyz/imagenes-gratuitas-para-todos-tus-proyectos/</link>
+      <pubDate>Mon, 03 Aug 2015 22:59:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/imagenes-gratuitas-para-todos-tus-proyectos/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Unsplash It&lt;/strong&gt; es un servicio &lt;em&gt;online&lt;/em&gt; de &lt;em&gt;placeholders&lt;/em&gt; de imágenes, ideal para &lt;em&gt;maquetar &lt;/em&gt;los proyectos que se encuentran en etapa de desarrollo. El servicio es gratuito y está basado en &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;, otro servicio gratuito para descargar imágenes libres de licencia.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para utilizar &lt;em&gt;Unsplash It&lt;/em&gt; solo tenemos que &lt;em&gt;pegarle&lt;/em&gt; a una URL y listo, ya tendremos una imagen aleatoria en nuestro proyecto.
+&lt;/p&gt;
+
+&lt;h3 id=&#34;ejemplo&#34;&gt;Ejemplo&lt;/h3&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true &#34;&gt;https://unsplash.it/800/600
+&lt;/pre&gt;
+
+&lt;p&gt;Generaría una imagen aleatoria de tamaño 800&amp;#215;600 píxeles como esta&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para generar siempre una imagen aleatoria, tenemos que agregar el parámetro &lt;strong&gt;?random&lt;/strong&gt; al final de la &lt;em&gt;URL.&lt;/em&gt; Refrescá la página para ver una nueva imagen.&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/800/600/?random&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600/?random&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si queremos que la imagen que nos muestra sea en &lt;strong&gt;escala de grises&lt;/strong&gt;, hay que modificar la ruta de la siguiente manera&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/g/800/600&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/g/800/600/&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para efecto &lt;em&gt;blurred&lt;/em&gt; o difuminada, hay que agregarle el parámetro &lt;strong&gt;?blur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/g/800/600/?blur
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600/?blur&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo bueno del servicio, es que ofrece sus imágenes a través del &lt;em&gt;protocolo HTTPS&lt;/em&gt;. Para conocer el resto de las opciones, ingresá a la web de &lt;em&gt;Unsplash It 🙂&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

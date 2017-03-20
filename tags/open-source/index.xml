@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/open-source/index.xml</link>
+    <description>Recent content in Open Source on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Framework CSS extremadamente liviano</title>
+      <link>https://alberro.xyz/framework-css-extremadamente-liviano/</link>
+      <pubDate>Sat, 11 Jun 2016 15:09:12 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/framework-css-extremadamente-liviano/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Wing&lt;/strong&gt; es un framework CSS muy liviano y sencillo de usar, ideal si no necesitas de todas las opciones que posee Bootstrap o Fundation. Se caracteriza por pesar solamente 4kb, absolutamente nada, por ser open source y por ser compatible con la mayoría de los navegadores del mercado.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Grid&lt;/h3&gt;
+Soporte de columnas con hasta 12 columnas individuales y con una manera muy sencilla de aplicarlos, solo con agregar la clase &lt;em&gt;one&lt;/em&gt;, &lt;em&gt;two&lt;/em&gt;, &amp;hellip; hasta &lt;em&gt;eleven&lt;/em&gt;.
+&lt;h3&gt;Tipografías&lt;/h3&gt;
+Utilizando la fuente &lt;em&gt;Quicksand&lt;/em&gt;, todos los elementos / tags &lt;em&gt;H1&lt;/em&gt; hasta el &lt;em&gt;H6&lt;/em&gt; ya vienen configurados y para ser utilizados con la medida &lt;strong&gt;rems&lt;/strong&gt;.
+&lt;h3&gt;Botones&lt;/h3&gt;
+Los botones poseen su propio estilo y viene con diferentes variantes como &lt;em&gt;Primary&lt;/em&gt;, &lt;em&gt;Outline&lt;/em&gt;, &lt;em&gt;Clear&lt;/em&gt; y nos da un ejemplo de cómo customizar los botones a nuestro propio diseño.
+&lt;h3&gt;Formularios&lt;/h3&gt;
+Los formularios están diseñados para ser vistosos, limpios y sin necesidad de agregar ninguna clase.
+&lt;h3&gt;Listas&lt;/h3&gt;
+El funcionamiento de las listas es muy sencillo, con solo definir las &lt;em&gt;UL&lt;/em&gt; y &lt;em&gt;LI&lt;/em&gt; ya estamos usando el diseño que nos provee &lt;strong&gt;Wing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;También cuenta con utilidades ya conocidas si utilizaste alguna vez algún otro framework de CSS como las típicas &lt;em&gt;pull-right&lt;/em&gt;, &lt;em&gt;pull-left&lt;/em&gt; y demás.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://usewing.ml/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lanzador de aplicaciones al estilo Spotlight en Windows</title>
+      <link>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</link>
+      <pubDate>Tue, 10 May 2016 18:00:20 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</guid>
+      <description>&lt;p&gt;Apple tiene &lt;em&gt;Spotlight&lt;/em&gt; y &lt;em&gt;Alfred&lt;/em&gt;, &lt;em&gt;Linux/Ubuntu&lt;/em&gt; tiene &lt;em&gt;Unity&lt;/em&gt; y ahora &lt;em&gt;Windows&lt;/em&gt; tiene &lt;strong&gt;Hain&lt;/strong&gt;, el lanzador de aplicaciones y buscador de archivos &lt;a href=&#34;https://www.alberro.xyz/tag/open-source/&#34;&gt;open-source&lt;/a&gt;. Al mejor estilo &lt;em&gt;Spotlight&lt;/em&gt;, &lt;strong&gt;Hain&lt;/strong&gt; no es solo un buscador, es una herramienta que nos simplifica de manera notoria el uso de la computadora y nos da velocidad a la hora de ejecutar comandos.&lt;/p&gt;
+
+&lt;p&gt;Hain se ejecuta de manera muy sencilla, solo tenemos que descargarnos el archivo y abrir el &lt;em&gt;.exe&lt;/em&gt;, por suerte no necesita instalación. Luego con solo presionar las teclas &lt;kbd&gt;alt&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;space&lt;/kbd&gt; (se puede cambiar en caso de que no nos sea cómoda esa combinación de teclas) se nos abre una ventana para ingresar texto y ahí podemos buscar archivos o aplicaciones instaladas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter wp-image-383 size-full&#34; src=&#34;https://alberro.xyz/images//2016/05/demo.gif&#34; alt=&#34;demo&#34; width=&#34;600&#34; height=&#34;384&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Posee tolerancia a los errores de escritura, es decir que si ingresamos la palabra &lt;em&gt;WRD&lt;/em&gt; nos va a traer &lt;em&gt;Word&lt;/em&gt; y todas las palabras y archivos que tengan un nombre similar. Funciona también con URLs, si escribimos una dirección web y presionamos &lt;kbd&gt;enter&lt;/kbd&gt; nos va a abrir nuestro navegador por defecto con la URLs que ingresamos.&lt;/p&gt;
+
+&lt;p&gt;Podemos hacer uso de internet para usar &lt;strong&gt;Hain&lt;/strong&gt; como diccionario con solo poner el &lt;kbd&gt;?&lt;/kbd&gt; delante de nuestra palabra a consultar como así también realizar operaciones matemáticas con solo escribir la fórmula.&lt;/p&gt;
+
+&lt;p&gt;Y lo más interesante, es que se puede extender el funcionamiento de Hain a través de plugins logrando llevar la configuración a lo que realmente necesités.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hain&lt;/strong&gt; está desarrollado en &lt;a href=&#34;https://www.alberro.xyz/tag/javascript/&#34;&gt;Javascript&lt;/a&gt; bajo la plataforma &lt;em&gt;Electron&lt;/em&gt;, una herramienta que permite crear aplicaciones nativas para todos los OS disponibles con un mismo código fuente.&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://github.com/appetizermonster/hain&#34;&gt;Hain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crea circuitos de una manera muy sencilla</title>
+      <link>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</link>
+      <pubDate>Tue, 01 Sep 2015 23:57:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Gracias a &lt;strong&gt;Fritzing&lt;/strong&gt;, vamos a poder desarrollar nuestros propios circuitos de manera interactiva incluyendo una variedad muy amplia de componentes hasta &lt;em&gt;boards&lt;/em&gt; &lt;em&gt;Arduino&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Fritzing&lt;/strong&gt; es una iniciativa &lt;em&gt;open source&lt;/em&gt; que hace a la electrónica accesibles para cualquier persona. Permite diseñar un circuito desde el &lt;em&gt;protoboard / breadboard&lt;/em&gt; y luego exportarlo hasta en formato de ¡circuito impreso! Una verdadera maravilla. Y además, cuando una de las tantas vistas que posee es cambiada, automáticamente actualiza las demás vistas por lo que si agregás un capacitor en un lado, aparecerá en el otro instantáneamente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A continuación pueden ver algunas de las tantas funcionalidades que nos ofrece este software.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  También ofrecen la impresión de los circuitos &lt;em&gt;PCB&lt;/em&gt; como así también la posibilidad de encargar todos los componentes usados en tu diseño pero solo está disponible en el país de Estados Unidos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Vale aclarar que el software &lt;strong&gt;Fritzing&lt;/strong&gt; funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt; y &lt;em&gt;Mac OS&lt;/em&gt;, así que no hay excusa que valga para no empezar a diseñar tu propio prototipo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¡Atom 1.0 salió a la luz!</title>
+      <link>https://alberro.xyz/atom-1-0-salio-a-la-luz/</link>
+      <pubDate>Thu, 25 Jun 2015 23:04:58 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/atom-1-0-salio-a-la-luz/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Desde hoy ya se puede descargar la versión 1.0 del entorno de desarrollo &lt;strong&gt;Atom&lt;/strong&gt;, el IDE gratuito y &lt;em&gt;hackeable&lt;/em&gt; de &lt;em&gt;Github&lt;/em&gt;. Para los que no lo conocen, este editor es la competencia más fuerte que posee &lt;em&gt;SublimeText&lt;/em&gt;, con la diferencia de que &lt;strong&gt;Atom&lt;/strong&gt; es completamente gratuito.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/packages-cecf2ebf6a75a875eedcadda92be6f1d.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-94 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/packages-cecf2ebf6a75a875eedcadda92be6f1d.gif&#34; alt=&#34;packages-cecf2ebf6a75a875eedcadda92be6f1d&#34; width=&#34;410&#34; height=&#34;470&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Siendo la competencia de &lt;em&gt;ST&lt;/em&gt;, &lt;strong&gt;Atom&lt;/strong&gt; no se podía quedar atrás e incorpora dentro de su motor la capacidad de agregar temas (&lt;em&gt;themes&lt;/em&gt;), paquetes de lenguajes y funciones (&lt;em&gt;packages&lt;/em&gt;) y diferentes customizaciones para poder configurar el editor como a uno más le quede conveniente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para la release 1.0, los muchachos de &lt;strong&gt;Atom&lt;/strong&gt; lanzaron un video un poco particular, basado en la década del &amp;#8217;60, aproximadamente, donde se muestra a &lt;strong&gt;Atom&lt;/strong&gt; &lt;em&gt;corriendo&lt;/em&gt; en una terminal muy antigua.
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Y7aEiVwBAdk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Este &lt;em&gt;IDE&lt;/em&gt; funciona en todas las plataformas más conocidas ya que es &lt;em&gt;cross-platform&lt;/em&gt;: &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OSX&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;. Posee capacidades de autocompletar a medida que el desarrollador tipea comandos, navegador de archivos, capacidad para dividir el &lt;em&gt;IDE&lt;/em&gt; en múltiples columnas y muchas opciones más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/2015-06-25_19-54-15.png&#34;&gt;&lt;img class=&#34;td-modal-image td-scroll-e-image-fixed aligncenter wp-image-95 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/2015-06-25_19-54-15.png&#34; alt=&#34;2015-06-25_19-54-15&#34; width=&#34;598&#34; height=&#34;319&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

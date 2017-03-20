@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugs on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/bugs/index.xml</link>
+    <description>Recent content in Bugs on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/bugs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google paga hasta u$s 40.000 por encontrar errores en Android</title>
+      <link>https://alberro.xyz/google-paga-us-40-000-encontrar-errores-android/</link>
+      <pubDate>Thu, 18 Jun 2015 13:38:26 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/google-paga-us-40-000-encontrar-errores-android/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Tal como lo anunció el programa de seguridad de Android (formalmente conocido como Android Security Rewards program), compensará con hasta u$s 40.000 a todos aquellos que encuentren vulnerabilidades y errores en el sistema operativo de la empresa Google.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En el 2014, este mismo programa pagó más de u$s 1.5 millones a todos aquellos que encontraron problemas en Android y debido al auge que tuvo, en este 2015 redoblan la apuesta.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La siguiente tabla muestra el importe que pagarán en caso de encontrar un error, cuanto más severo sea el error encontrado, más plata van a recibir.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/tabla.png&#34;&gt;&lt;img class=&#34; size-full wp-image-20 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/tabla.png&#34; alt=&#34;Pagos&#34; width=&#34;528&#34; height=&#34;168&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Cualquiera puede participar de este programa, ya sean programadores, &lt;em&gt;testers&lt;/em&gt; o simplemente usuarios finales del producto. Es necesario inscribirse en el programa para poder participar de esta &lt;em&gt;cacería&lt;/em&gt;, el link de inscripción lo podés encontrar al pie de la nota.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En caso de que alguien que encuentre un bug crítico en Android y sea capaz de resolver el problema por sí mismo creando un parche que lo solucione, podría llevarse un bonus de hasta u$s 30.000.
+&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: justify;&#34;&gt;
+  &lt;span style=&#34;color: #99ccff;&#34;&gt;Para participar en el programa por ahora sólo se pueden utilizar los últimos dispositivos Nexus de la compañía, el Nexus 6 y Nexus 9.&lt;/span&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/plugin/index.xml</link>
+    <description>Recent content in Plugin on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enviar correos con auto-destrucción en GMail</title>
+      <link>https://alberro.xyz/enviar-correos-con-auto-destruccion-en-gmail/</link>
+      <pubDate>Sun, 26 Jul 2015 22:29:16 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/enviar-correos-con-auto-destruccion-en-gmail/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al mejor estilo &lt;em&gt;James Bond&lt;/em&gt;, ahora es posible enviar &lt;em&gt;e-mails&lt;/em&gt; desde &lt;strong&gt;GMail&lt;/strong&gt; con una opción de auto-destrucción 💣 para que los correos se eliminen automáticamente en la casilla del receptor en un determinado periodo.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para poder activar esta funcionalidad hay que instalar una extensión en &lt;a href=&#34;http://www.alberro.xyz/tag/chrome/&#34;&gt;Chrome&lt;/a&gt; la cual agrega una opción al momento de redactar el e-mail desde la interfaz de GMail. Ésta nueva opción aparece como &lt;strong&gt;Send with DMail&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/dmail.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-235 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/dmail.jpg&#34; alt=&#34;dmail&#34; width=&#34;640&#34; height=&#34;400&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La extensión permite definir el tiempo de auto-destrucción al momento de enviar el correo, como una hora o una semana después de haber sido visto. Además permite la recepción de una copia del correo que se envía simplemente para verificar su funcionamiento.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Instala la extensión &lt;a href=&#34;https://chrome.google.com/webstore/detail/dmail/fblelgmhengcpjogkpmmhjghbcelaake&#34;&gt;DMail desde acá&lt;/a&gt; y contanos cualquier problema que tengas 🙂
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

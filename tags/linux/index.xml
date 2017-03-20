@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/linux/index.xml</link>
+    <description>Recent content in Linux on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lanzador de aplicaciones al estilo Spotlight en Windows</title>
+      <link>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</link>
+      <pubDate>Tue, 10 May 2016 18:00:20 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</guid>
+      <description>&lt;p&gt;Apple tiene &lt;em&gt;Spotlight&lt;/em&gt; y &lt;em&gt;Alfred&lt;/em&gt;, &lt;em&gt;Linux/Ubuntu&lt;/em&gt; tiene &lt;em&gt;Unity&lt;/em&gt; y ahora &lt;em&gt;Windows&lt;/em&gt; tiene &lt;strong&gt;Hain&lt;/strong&gt;, el lanzador de aplicaciones y buscador de archivos &lt;a href=&#34;https://www.alberro.xyz/tag/open-source/&#34;&gt;open-source&lt;/a&gt;. Al mejor estilo &lt;em&gt;Spotlight&lt;/em&gt;, &lt;strong&gt;Hain&lt;/strong&gt; no es solo un buscador, es una herramienta que nos simplifica de manera notoria el uso de la computadora y nos da velocidad a la hora de ejecutar comandos.&lt;/p&gt;
+
+&lt;p&gt;Hain se ejecuta de manera muy sencilla, solo tenemos que descargarnos el archivo y abrir el &lt;em&gt;.exe&lt;/em&gt;, por suerte no necesita instalación. Luego con solo presionar las teclas &lt;kbd&gt;alt&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;space&lt;/kbd&gt; (se puede cambiar en caso de que no nos sea cómoda esa combinación de teclas) se nos abre una ventana para ingresar texto y ahí podemos buscar archivos o aplicaciones instaladas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter wp-image-383 size-full&#34; src=&#34;https://alberro.xyz/images//2016/05/demo.gif&#34; alt=&#34;demo&#34; width=&#34;600&#34; height=&#34;384&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Posee tolerancia a los errores de escritura, es decir que si ingresamos la palabra &lt;em&gt;WRD&lt;/em&gt; nos va a traer &lt;em&gt;Word&lt;/em&gt; y todas las palabras y archivos que tengan un nombre similar. Funciona también con URLs, si escribimos una dirección web y presionamos &lt;kbd&gt;enter&lt;/kbd&gt; nos va a abrir nuestro navegador por defecto con la URLs que ingresamos.&lt;/p&gt;
+
+&lt;p&gt;Podemos hacer uso de internet para usar &lt;strong&gt;Hain&lt;/strong&gt; como diccionario con solo poner el &lt;kbd&gt;?&lt;/kbd&gt; delante de nuestra palabra a consultar como así también realizar operaciones matemáticas con solo escribir la fórmula.&lt;/p&gt;
+
+&lt;p&gt;Y lo más interesante, es que se puede extender el funcionamiento de Hain a través de plugins logrando llevar la configuración a lo que realmente necesités.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hain&lt;/strong&gt; está desarrollado en &lt;a href=&#34;https://www.alberro.xyz/tag/javascript/&#34;&gt;Javascript&lt;/a&gt; bajo la plataforma &lt;em&gt;Electron&lt;/em&gt;, una herramienta que permite crear aplicaciones nativas para todos los OS disponibles con un mismo código fuente.&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://github.com/appetizermonster/hain&#34;&gt;Hain&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consola de Unix para Windows</title>
+      <link>https://alberro.xyz/consola-de-unix-para-windows/</link>
+      <pubDate>Mon, 10 Aug 2015 13:27:41 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/consola-de-unix-para-windows/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Uno de los grandes problemas que tiene &lt;em&gt;Windows&lt;/em&gt;, desde la versión 3.1 hasta la recientemente lanzada versión 10, es que no cuenta con una buena consola. El famoso &lt;strong&gt;cmd&lt;/strong&gt; es bastante limitado si se lo compara contra la &lt;em&gt;consola / terminal&lt;/em&gt; de una plataforma &lt;em&gt;Unix&lt;/em&gt;, ya sea &lt;em&gt;Linux&lt;/em&gt; o &lt;em&gt;Mac OS&lt;/em&gt;. Con este emulador vas a poder tener la misma consola de &lt;em&gt;Unix&lt;/em&gt; sobre &lt;em&gt;Windows&lt;/em&gt; y encima es portable.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo bueno de &lt;strong&gt;Cmder&lt;/strong&gt; es que está basada sobre &lt;em&gt;ConEmu&lt;/em&gt;, uno de los mejores emuladores para &lt;em&gt;Windows&lt;/em&gt; y por supuesto, &lt;strong&gt;Cmder&lt;/strong&gt; hereda todas las ventajas de él.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además, &lt;strong&gt;Cmder&lt;/strong&gt; cuenta con integración para &lt;em&gt;Git&lt;/em&gt; poniendo adornos en la consola, como el nombre del branch, cambios hechos y demás mejoras. El diseño posee colores basados en el &lt;em&gt;theme Monokai&lt;/em&gt;, el cual hace atractiva la consola para su uso diario.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+   &lt;a href=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-296 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/cmder.jpg&#34; alt=&#34;cmder&#34; width=&#34;1366&#34; height=&#34;703&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar basado en &lt;em&gt;ConEmu&lt;/em&gt;, &lt;strong&gt;Cmder&lt;/strong&gt; permite tener en una sola ventana muchas consolas como se puede ver en la captura de arriba. El diseño de cómo se pueden ubicar, está limitado a la imaginación del usuario que la usa 🙂
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elementary OS se despide de Sourceforge</title>
+      <link>https://alberro.xyz/elementary-os-se-despide-de-sourceforge/</link>
+      <pubDate>Thu, 18 Jun 2015 18:49:10 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/elementary-os-se-despide-de-sourceforge/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Después de varios años, el sistema operativo Elementary OS, deja de &lt;em&gt;hostear&lt;/em&gt; su código en los servidores de &lt;em&gt;Sourceforge&lt;/em&gt; debido al problema que hubo recientemente con los ad-ware que se utilizaban en los instaladores. Para los que no conocen Elementary OS, es una distribución de Linux con características e interfaz similar a los sistemas operativos de Apple.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  De ahora en más, el servidor elegido por Elementary OS es Digital Ocean, la misma empresa de &lt;em&gt;hosting&lt;/em&gt; que almacena este humilde blog. Van a utilizar diferentes locaciones para administrar el tráfico que genera la descarga del sistema operativo ya que una imagen pesa más de 700Mb.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/map.png&#34;&gt;&lt;img class=&#34; size-full wp-image-29 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/map.png&#34; alt=&#34;map&#34; width=&#34;500&#34; height=&#34;313&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Además van a ofrecer el protocolo HTTPS con el estándar A+ y con un &lt;em&gt;failback&lt;/em&gt; a HTTP para los navegadores que soporten dicha encriptación.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

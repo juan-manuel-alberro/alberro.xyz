@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/web/index.xml</link>
+    <description>Recent content in Web on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Administra tus pestañas de Google Chrome con Toby</title>
+      <link>https://alberro.xyz/administra-tus-pestanas-de-google-chrome-con-toby/</link>
+      <pubDate>Sat, 07 Jan 2017 23:35:11 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/administra-tus-pestanas-de-google-chrome-con-toby/</guid>
+      <description>&lt;p&gt;No sé si a todos les pasa lo mismo que a mi, pero después de estar dos horas trabajando es normal que tenga por lo menos diez o quince pestañas abiertas por la cantidad de cosas que tengo que ir viendo. A medida que pasan las horas, llega un momento en que esto se torna inviable, y ni hablar de la cantidad de memoria &lt;em&gt;RAM&lt;/em&gt; que usa &lt;strong&gt;Chrome&lt;/strong&gt; con cada uno de los procesos (pestañas) que tiene que mantener abierto.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p id=&#34;RgNZauo&#34;&gt;
+  &lt;img class=&#34;size-full wp-image-710 aligncenter&#34; src=&#34;https://alberro.xyz/images//2017/01/img_587175a24419f.png&#34; alt=&#34;&#34; srcset=&#34;https://alberro.xyz/images//2017/01/img_587175a24419f.png 650w, https://alberro.xyz/images//2017/01/img_587175a24419f-300x115.png 300w&#34; sizes=&#34;(max-width: 650px) 100vw, 650px&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Existen muchas aplicaciones para mejorar el manejo de la memoria, lo que hacen básicamente es &lt;em&gt;dormir&lt;/em&gt; la pestaña, dejándola en una especie de limbo hasta que vuelva a tener el foco y es ahí cuando se vuelve a recargar. A mi eso no me sirve ya que estoy continuamente alternando entre estas pestañas por lo que ralentiza mi trabajo. Es acá cuando entra &lt;strong&gt;Toby&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toby&lt;/strong&gt; es una aplicación web, y extensión de &lt;strong&gt;Chrome&lt;/strong&gt;, para administrar nuestras pestañas abiertas de una manera mucho más sencilla pudiendo hacer &lt;em&gt;drag &amp;amp; drop&lt;/em&gt; a cada una de ellas y enviarlas a una determina lista que creamos previamente, por ejemplo una lista del trabajo, una lista para novedades, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;http://www.gettoby.com/img/features/drag.svg&#34; /&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://www.gettoby.com/img/features/savesession.svg&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#34;clear: both;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Si tu idea es guardar dentro de la aplicación miles de pestañas, &lt;strong&gt;Toby&lt;/strong&gt; brinda una opción para poder buscarlas y así hacer más sencillo el proceso&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;http://www.gettoby.com/img/features/search.svg&#34; /&gt;&lt;img class=&#34;alignright&#34; src=&#34;http://www.gettoby.com/img/features/popup.svg&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#34;clear: both;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Además esta extensión modifica la funcionalidad cuando abrís una pestaña y te la reemplaza por todas las listas de pestañas que tenés dentro de &lt;strong&gt;Toby&lt;/strong&gt;, de esa forma quedan a mano para cualquier consulta.&lt;/p&gt;
+
+&lt;p&gt;Realmente vale la pena probar esta extensión, la pueden descargar desde el sitio oficial de &lt;a href=&#34;https://chrome.google.com/webstore/detail/toby-manage-your-tabs/hddnkoipeenegfoeaoibdmnaalmgkpip/related?hl=es-419&#34;&gt;Google Chrome&lt;/a&gt; o desde su &lt;a href=&#34;http://www.gettoby.com/&#34;&gt;web&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nuevo diseñador de contenido en tiempo real</title>
+      <link>https://alberro.xyz/nuevo-disenador-de-contenido-en-tiempo-real/</link>
+      <pubDate>Tue, 07 Jun 2016 23:47:15 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nuevo-disenador-de-contenido-en-tiempo-real/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;WordPress&lt;/strong&gt; es uno de los más famosos y más utilizados &lt;strong&gt;CMS&lt;/strong&gt; en el mundo de Internet. Se estima que un 35% de los blogs en el mundo, funcionan con este motor de noticias. Sin embargo, uno de los puntos flojos es el diseñador o editor que posee de manera nativa. Al escribir una noticia o diseñar una página nos vamos a ver forzados a utilizar un editor muy básico que apenas permite dar unos pocos formatos. Este problema se terminó cuando surgieron los&lt;strong&gt; builder&lt;/strong&gt;, estos son plugins que permiten arrastrar contenido a nuestra página y diseñar en tiempo real utilizando diferentes tipos de columnas, &lt;em&gt;shortcodes&lt;/em&gt; y mucho más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Recientemente, para ser más precisos el 1 de junio, se lanzó de manera oficial el &lt;strong&gt;builder&lt;/strong&gt; &lt;strong&gt;Elementor&lt;/strong&gt;, un plugin para WordPress open source que va a dar que hablar en los próximos meses. La primera versión es muy completa y prometen para futuras releases ir incorporando nuevos elementos como carruseles, caja de imágenes, caja de íconos y hasta una galería, todo para ser utilizado en nuestro diseño sin necesidad de tocar una línea de código.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Algunas de las características que destacan a este builder, son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Velocidad&lt;/strong&gt;: es mucho más rápido y liviano que otros builders&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gratuito y open source&lt;/strong&gt;: si hay algo que nos gusta, es que sea open source y que no tengamos que pagar un peso&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fácil de usar&lt;/strong&gt; y no se necesita tocar una línea de código para realizar diseños increíbles&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compatibilidad&lt;/strong&gt;: funciona con cualquier tema, página y entrada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://elementor.com/&#34;&gt;Elementor&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un navegador gratuito y potente para desarrolladores web</title>
+      <link>https://alberro.xyz/un-navegador-gratuito-y-potente-para-desarrolladores-web/</link>
+      <pubDate>Mon, 23 May 2016 23:41:05 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/un-navegador-gratuito-y-potente-para-desarrolladores-web/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Blisk&lt;/strong&gt; es un navegador gratuito creado exclusivamente para personas que se dedican al desarrollo web. Este navegador tiene la particularidad que puede ser usado desde cualquier etapa de desarrollo, desde la creación de prototipos hasta el &lt;em&gt;testing&lt;/em&gt; en diferentes &lt;em&gt;devices&lt;/em&gt; a través de los emuladores integrados que posee.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;https://bliskstatic.azureedge.net/static/dev-phases/develop-blisk.png&#34; alt=&#34;Develop with Blisk&#34; width=&#34;256&#34; height=&#34;192&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una de las características nativas que posee, y que en otros navegadores solo se logra añadiendo &lt;em&gt;plugins&lt;/em&gt;, es la sincronizar el &lt;em&gt;scroll&lt;/em&gt; en diferentes vistas de manera que si nos movemos dentro de un sitio web, la vista en el emulador también se mueve y de esa manera podemos comparar como responde el diseño desde una misma ubicación.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Blisk&lt;/strong&gt; trae incorporado emuladores para diversos tipos de dispositivos como ser celulares, tablets y hasta PC de escritorio. Por nombrar algunos, trae los emuladores pre-instalados de:
+&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPhone 4, 5, 6 y 6 Plus
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Nokia N9 y Lumia 625
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Samsung S3, S4 y S6
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPad Mini
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPad Air Retina
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Dell Inspiration 5748
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  entre otros
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además trae lo que se conoce como &lt;em&gt;watcher&lt;/em&gt;, a medida que uno realiza un cambio en el código de nuestra aplicación o página web, automáticamente &lt;strong&gt;Blisk&lt;/strong&gt; refresca la pantalla para mostrarnos la última versión. Funciona para las extensiones &lt;em&gt;html&lt;/em&gt;, &lt;em&gt;css&lt;/em&gt;, &lt;em&gt;js&lt;/em&gt;, &lt;em&gt;saas&lt;/em&gt;, &lt;em&gt;cshtml&lt;/em&gt;, &lt;em&gt;php&lt;/em&gt; y muchas más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Incorpora dentro de su motor, un &lt;em&gt;Analytics&lt;/em&gt; para detectar errores de &lt;em&gt;Javascript&lt;/em&gt; y para realizar recomendaciones sobre cómo mejorar la velocidad de la web, sobre si tu web es compatible con otros navegadores como &lt;strong&gt;Chrome&lt;/strong&gt;, &lt;strong&gt;Firefox&lt;/strong&gt; o &lt;strong&gt;IE/Edge&lt;/strong&gt;, y además verifica enlaces rotos para recursos &lt;em&gt;css&lt;/em&gt; y fuentes.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Te dije que captura pantallas en todos los &lt;em&gt;devices&lt;/em&gt; y vistas abiertas con un solo clic? Ideal para los &lt;em&gt;testers&lt;/em&gt; / QA.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Y por si querías más, en un futuro no muy lejano, van a implementar las integraciones con otros sitios web para poder subir o reportar errores directamente desde el &lt;em&gt;browser&lt;/em&gt; a &lt;strong&gt;Jira&lt;/strong&gt;, &lt;strong&gt;Github&lt;/strong&gt; y otras herramientas.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo &lt;strong&gt;&lt;span style=&#34;color: #800000;&#34;&gt;negativo&lt;/span&gt;&lt;/strong&gt;, y que por suerte algo temporal, es que sólo está disponible para el sistema operativo &lt;strong&gt;Windows&lt;/strong&gt; (&lt;em&gt;WTF&lt;/em&gt; right?). Para &lt;strong&gt;Linux&lt;/strong&gt; y &lt;strong&gt;Mac&lt;/strong&gt; todavía no hay versión disponible para descargar, pero están trabajando en eso ya que si no lo hacen pierden muchísimo mercado ya que son los dos sistemas operativos más utilizados para el diseño y desarrollo web.
+&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://blisk.io/&#34;&gt;Blisk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

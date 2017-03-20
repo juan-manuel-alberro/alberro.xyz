@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virus on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/virus/index.xml</link>
+    <description>Recent content in Virus on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/virus/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuevo virus que se distribuye entre los mensajes de Facebook</title>
+      <link>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</link>
+      <pubDate>Thu, 06 Oct 2016 00:37:15 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</guid>
+      <description>&lt;p&gt;Otra vez, Facebook es víctima de los virus y malwares. La empresa de seguridad Norton detectó hace unos días una nueva variante del virus Fake AV Redirect 2 de Windows el cual envía un mensaje a todos tus contactos de Facebook con un link el cual contiene el virus y de esa manera continúa su propagación.&lt;/p&gt;
+
+&lt;p&gt;Todo comienza cuando se recibe un mensaje de un amigo con un link de un sitio web. Al entrar en ese sitio web, aparece un aviso solicitando la actualización del sistema, este es un aviso personalizado ya que incluye los datos del teléfono que estamos usando. Al pulsar en el link, muchas personas creen esas cosas lamentablemente, la víctima es infectada y enviará el malware a sus contactos de &lt;strong&gt;Facebook&lt;/strong&gt;, los cuales recibirán un mensaje similar.&lt;/p&gt;
+
+&lt;p&gt;Es muy posible que una vez instalado el &lt;em&gt;malware&lt;/em&gt; en el teléfono, exista algún tipo de robo de información, envío de datos a algún servidor externo o algún otro método similar por lo que se recomienda controlar y tomar acciones ante cualquier comportamiento sospechoso.&lt;/p&gt;
+
+&lt;p&gt;Si ven que un amigo les manda un link medio raro, o que la forma de redacción no es la de él, no le presten atención e ignoren el contenido del mensaje. &lt;em&gt;Recuerden que el mejor antivirus, para cualquier dispositivo, es el sentido común&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://olhardigital.uol.com.br/fique_seguro/noticia/virus-que-se-espalha-por-mensagens-diretas-do-facebook-e-detectado/62759&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facebook on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/facebook/index.xml</link>
+    <description>Recent content in Facebook on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Qué oculta Facebook en tus imágenes</title>
+      <link>https://alberro.xyz/que-oculta-facebook-en-tus-imagenes/</link>
+      <pubDate>Wed, 04 Jan 2017 03:29:57 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/que-oculta-facebook-en-tus-imagenes/</guid>
+      <description>&lt;p&gt;Todos sabemos que el negocio de &lt;strong&gt;Facebook&lt;/strong&gt; está en la gran cantidad de información que almacena, por ese motivo que es &lt;em&gt;Mark&lt;/em&gt; invierte tanto dinero en sistemas de D&lt;em&gt;eep Learning&lt;/em&gt;. Uno de los últimos avances de &lt;strong&gt;Facebook&lt;/strong&gt;, y que todavía no tiene una funcionalidad muy específica dentro de la web, es la de catalogar la imagen.&lt;/p&gt;
+
+&lt;p&gt;Antes de meternos de lleno en esta función oculta de &lt;strong&gt;Facebook&lt;/strong&gt;, primero tenemos que entender qué es &lt;em&gt;Deep Learning&lt;/em&gt;. Se puede entender como &lt;em&gt;Deep Learning&lt;/em&gt; a un conjunto de algoritmos que imitan al cerebro humano para hacer cosas como pensar posibles soluciones a un determinado problema, buscar el mejor camino para un destino específico y otras mucho más complicadas.&lt;/p&gt;
+
+&lt;p&gt;Ahora bien, cómo hacemos para unir lo que se explicó antes con &lt;strong&gt;Facebook&lt;/strong&gt;? Muy sencillo, cuando uno sube una imagen a la red social, se disparan un montón de procesos de fondo el cual uno de ellos es un analizador de imágenes. Su nombre es &lt;strong&gt;Deep ConvNet&lt;/strong&gt; y permite describir con una exactitud inigualable lo que está pasando en esa foto.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, si analizamos una de mis fotos podemos ver que dentro del atributo &lt;em&gt;alt&lt;/em&gt; de la imágenes, &lt;strong&gt;Facebook&lt;/strong&gt; está agregando una descripción de lo que el analizador ve&lt;/p&gt;
+
+&lt;div id=&#34;plugin-title&#34; class=&#34;with-banner&#34;&gt;
+  &lt;p id=&#34;vYSkCeD&#34;&gt;
+    &lt;img class=&#34;alignnone size-full wp-image-691 &#34; src=&#34;https://alberro.xyz/images//2017/01/img_586c66b069b94.png&#34; alt=&#34;&#34; srcset=&#34;https://alberro.xyz/images//2017/01/img_586c66b069b94.png 1040w, https://alberro.xyz/images//2017/01/img_586c66b069b94-300x116.png 300w, https://alberro.xyz/images//2017/01/img_586c66b069b94-768x297.png 768w, https://alberro.xyz/images//2017/01/img_586c66b069b94-1024x396.png 1024w, https://alberro.xyz/images//2017/01/img_586c66b069b94-758x293.png 758w&#34; sizes=&#34;(max-width: 1040px) 100vw, 1040px&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Vamos a ver si con una imagen más compleja el analizador funciona bien&amp;#8230;
+  &lt;/p&gt;
+  
+  &lt;p id=&#34;rbwAVyw&#34;&gt;
+    &lt;img class=&#34;alignnone size-full wp-image-693 &#34; src=&#34;https://alberro.xyz/images//2017/01/img_586c680d57883.png&#34; alt=&#34;&#34; srcset=&#34;https://alberro.xyz/images//2017/01/img_586c680d57883.png 910w, https://alberro.xyz/images//2017/01/img_586c680d57883-300x81.png 300w, https://alberro.xyz/images//2017/01/img_586c680d57883-768x208.png 768w, https://alberro.xyz/images//2017/01/img_586c680d57883-758x205.png 758w&#34; sizes=&#34;(max-width: 910px) 100vw, 910px&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Nuevamente el analizador logró interpretar la imagen de manera correcta, lo cual es bastante asombroso. Si bien no se sabe hasta la fecha cuál es la idea de &lt;strong&gt;Facebook&lt;/strong&gt; con todo esto, seguramente este análisis que estén realizando es para poder vender luego las imágenes de una forma más sencilla y segmentada.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Si querés ver qué detecta &lt;strong&gt;Facebook&lt;/strong&gt; con tus fotos, simplemente Inspecciona el código en tu navegador o instalá una extensión, como por ejemplo &lt;a href=&#34;https://chrome.google.com/webstore/detail/show-facebook-computer-vi/elafbihhbfmfihdflghclaclcilcnmie?hl=en-US&amp;gl=US&#34;&gt;ésta&lt;/a&gt; y vas a ver luego algo así
+  &lt;/p&gt;
+  
+  &lt;p id=&#34;RqfTldg&#34;&gt;
+    &lt;img class=&#34;alignnone size-full wp-image-694 &#34; src=&#34;https://alberro.xyz/images//2017/01/img_586c68d8cf07a.png&#34; alt=&#34;&#34; srcset=&#34;https://alberro.xyz/images//2017/01/img_586c68d8cf07a.png 640w, https://alberro.xyz/images//2017/01/img_586c68d8cf07a-300x188.png 300w&#34; sizes=&#34;(max-width: 640px) 100vw, 640px&#34; /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ahora el Messenger de Facebook incluirá juegos</title>
+      <link>https://alberro.xyz/ahora-el-messenger-de-facebook-incluira-juegos/</link>
+      <pubDate>Wed, 30 Nov 2016 00:04:41 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/ahora-el-messenger-de-facebook-incluira-juegos/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Facebook acaba de lanzar Instant Games para la aplicación Messenger y nos ofrece una acotada variedad de juegos, todos realizados en HTML5, por lo que su descarga solo demorará unos segundos. Esto no es ninguna novedad, ya que &lt;strong&gt;Telegram 💪&lt;/strong&gt; posee juegos integrados dentro de la aplicación desde hace unos meses y que además permite competir con la persona que estás chateando&amp;#8230;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;wp-image-672 size-full aligncenter&#34; src=&#34;https://alberro.xyz/images//2016/11/newsroom-games.png&#34; alt=&#34;newsroom-games&#34; width=&#34;1024&#34; height=&#34;638&#34; srcset=&#34;https://alberro.xyz/images//2016/11/newsroom-games.png 1024w, https://alberro.xyz/images//2016/11/newsroom-games-300x187.png 300w, https://alberro.xyz/images//2016/11/newsroom-games-768x479.png 768w, https://alberro.xyz/images//2016/11/newsroom-games-758x472.png 758w&#34; sizes=&#34;(max-width: 1024px) 100vw, 1024px&#34; /&gt;Algunos de los juegos que ya están disponibles son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PAC-MAN&lt;/li&gt;
+&lt;li&gt;Galaga&lt;/li&gt;
+&lt;li&gt;SPACE INVADERS&lt;/li&gt;
+&lt;li&gt;EverWing&lt;/li&gt;
+&lt;li&gt;TRACK &amp;amp; FIELD 100M&lt;/li&gt;
+&lt;li&gt;Words with Friends: Frenzy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Y prometen que la lista de juegos va a ir creciendo con el paso del tiempo. No caben dudas de que esto será así ya que uno de los negocios más importantes de Facebook es la fidelización de sus clientes a través de los juegos y los diferentes métodos de monetización.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://newsroom.fb.com/news/2016/11/game-on-you-can-now-play-games-on-messenger/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nuevo virus que se distribuye entre los mensajes de Facebook</title>
+      <link>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</link>
+      <pubDate>Thu, 06 Oct 2016 00:37:15 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</guid>
+      <description>&lt;p&gt;Otra vez, Facebook es víctima de los virus y malwares. La empresa de seguridad Norton detectó hace unos días una nueva variante del virus Fake AV Redirect 2 de Windows el cual envía un mensaje a todos tus contactos de Facebook con un link el cual contiene el virus y de esa manera continúa su propagación.&lt;/p&gt;
+
+&lt;p&gt;Todo comienza cuando se recibe un mensaje de un amigo con un link de un sitio web. Al entrar en ese sitio web, aparece un aviso solicitando la actualización del sistema, este es un aviso personalizado ya que incluye los datos del teléfono que estamos usando. Al pulsar en el link, muchas personas creen esas cosas lamentablemente, la víctima es infectada y enviará el malware a sus contactos de &lt;strong&gt;Facebook&lt;/strong&gt;, los cuales recibirán un mensaje similar.&lt;/p&gt;
+
+&lt;p&gt;Es muy posible que una vez instalado el &lt;em&gt;malware&lt;/em&gt; en el teléfono, exista algún tipo de robo de información, envío de datos a algún servidor externo o algún otro método similar por lo que se recomienda controlar y tomar acciones ante cualquier comportamiento sospechoso.&lt;/p&gt;
+
+&lt;p&gt;Si ven que un amigo les manda un link medio raro, o que la forma de redacción no es la de él, no le presten atención e ignoren el contenido del mensaje. &lt;em&gt;Recuerden que el mejor antivirus, para cualquier dispositivo, es el sentido común&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://olhardigital.uol.com.br/fique_seguro/noticia/virus-que-se-espalha-por-mensagens-diretas-do-facebook-e-detectado/62759&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Truco sencillo para vidas ilimitadas en juegos de Facebook</title>
+      <link>https://alberro.xyz/truco-sencillo-para-vidas-ilimitadas-en-juegos-de-facebook/</link>
+      <pubDate>Fri, 17 Jul 2015 00:13:23 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/truco-sencillo-para-vidas-ilimitadas-en-juegos-de-facebook/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  No hay nada más molesto que los juegos de &lt;em&gt;Facebook&lt;/em&gt;, especialmente aquellos que necesitás enviar cincuenta solicitudes por día &lt;em&gt;mendigando&lt;/em&gt; vidas para poder seguir jugando. Con este simple truco, vas a poder jugar &lt;span style=&#34;color: #333399;&#34;&gt;ilimitadamente&lt;/span&gt; a juegos como &lt;strong&gt;Farm Heroes Saga&lt;/strong&gt;, &lt;strong&gt;Candy Crush Saga&lt;/strong&gt;, &lt;strong&gt;Angry Birds&lt;/strong&gt;, &lt;strong&gt;Zulma Blitz&lt;/strong&gt; y muchos más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Creo que si estás leyendo esto es porque no te interesa mucho el término de &lt;em&gt;competencia desleal&lt;/em&gt;, pero no importa, nadie se va a enterar que estás haciendo trampa. Ni el juego, ni Facebook, ni tus amigos sabrán que estás usando este truco.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Los juegos que se pueden &lt;em&gt;trampear&lt;/em&gt; con esto son los siguientes:
+&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Angry Birds
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Bejeweled Blitz
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Bubble Island
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Bubble Witch 2 Saga
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Bubble Witch Saga
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Candy Crush Saga
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Diamond Dash
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Farm Heroes Saga
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Marvel: Avengers Alliance
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Monster World
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Slotomania
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Solitaire Blitz
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Zuma Blitz
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: justify;&#34;&gt;
+  Pasos
+&lt;/h3&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Instalar &lt;em&gt;&lt;a href=&#34;https://www.mozilla.org/es-AR/firefox/new/&#34; target=&#34;_blank&#34;&gt;Mozilla Firefox&lt;/a&gt;&lt;/em&gt;, en caso de que no lo tengas. Este truco funciona solamente con ese navegador, imposible de hacerlo con &lt;em&gt;Chrome&lt;/em&gt; y mucho menos con &lt;em&gt;IE&lt;/em&gt; en cualquiera de sus versiones.
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Abrir el navegador &lt;em&gt;Mozilla Firefox&lt;/em&gt; e ingresar a &lt;a href=&#34;http://leethax.net/extension/&#34; target=&#34;_blank&#34;&gt;esta dirección&lt;/a&gt; para poder instalar una extensión que hará toda la magia por nosotros. No se preocupen, esta extensión ha sido altamente analizada y es completamente segura. Los demás trucos que andan por la red, son mentira.
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Listo, ahora es cuestión de entrar a algún juego y empezar a sumar puntos y pasar niveles con los &lt;em&gt;helpers&lt;/em&gt; y vidas ilimitadas. Estas vidas ilimitadas y demás cuestiones que esta extensión habilita, son solamente temporales mientras se juegue. Si van a seguir jugando en otra PC o en el teléfono celular, no podrán de disponer de este truco.
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/leethax.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-179 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/leethax.jpg&#34; alt=&#34;leethax&#34; width=&#34;826&#34; height=&#34;346&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Bien sencillo, pero si tuviste algún problema para instalar o utilizar este truco, dejá un comentario y vemos cómo lo resolvemos 🙂&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¿Quién me borró de Facebook?</title>
+      <link>https://alberro.xyz/quien-me-borro-de-facebook/</link>
+      <pubDate>Wed, 08 Jul 2015 11:22:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/quien-me-borro-de-facebook/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Por fin es posible averiguar quiénes dejan de ser nuestros amigos en Facebook a través de esta aplicación y sin contagiarse de virus. Casi todas las aplicaciones de este tipo son virus, pero &lt;strong&gt;Who deleted Me on Facebook&lt;/strong&gt; no, y funciona.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Esta aplicación funciona en el navegador Chrome, Firefox, Opera como así también en iOS y Android. Su funcionamiento es muy sencillo, nos bajamos la aplicación y escanea los amigos que tenemos. La próxima vez que entremos a Facebook compara esa lista descargada con los amigos y si hay diferencias, notifica quién nos borró.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/whodeleted2.jpg&#34;&gt;&lt;img class=&#34;td-modal-image td-scroll-e-image-fixed aligncenter wp-image-145 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/whodeleted2.jpg&#34; alt=&#34;whodeleted2&#34; width=&#34;1279&#34; height=&#34;492&#34; /&gt;&lt;/a&gt;Además tiene como opción la de color un ícono dentro de Facebook que nos notifica cuando nos borra alguien. Actualmente la web está saturada por la cantidad de visitas que recibe, pero es cuestión de esperar un poco para que vuelva a funcionar con normalidad.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

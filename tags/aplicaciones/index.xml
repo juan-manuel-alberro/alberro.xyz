@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aplicaciones on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/aplicaciones/index.xml</link>
+    <description>Recent content in Aplicaciones on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/aplicaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Guarda tus links de una forma original gracias a Stash</title>
+      <link>https://alberro.xyz/guarda-tus-links-de-una-forma-original-gracias-a-stash/</link>
+      <pubDate>Thu, 06 Oct 2016 00:13:43 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/guarda-tus-links-de-una-forma-original-gracias-a-stash/</guid>
+      <description>&lt;p&gt;Si sos realmente un nerd, ya sabés de qué se trata esta aplicación ya que hace analogía al comando &lt;em&gt;stash&lt;/em&gt; de &lt;em&gt;git&lt;/em&gt; y que seguramente su autor puso ese nombre en honor a ese comando. Si no sos un nerd, entonces paso a explicarte que esta aplicación sirve para guardar las páginas webs y poder consultarlas en otro momento, algo parecido a lo que sería &lt;em&gt;Pocket&lt;/em&gt; por ejemplo.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stash&lt;/em&gt; sabe si lo que estamos guardando es una noticia, una receta de cocina o un video de Youtube, por ejemplo; consigue identificar el contenido y lo guarda con una estructura predefinida para que no se pierda entre tantos links que puedas guardar.&lt;/p&gt;
+
+&lt;p&gt;Como &lt;em&gt;Stash&lt;/em&gt; guarda todo en la nube, podés enviar contenido desde tu notebook, tablet o teléfono y luego podrás usarlo donde te sea más cómodo. Por ahora la aplicación es gratuita, no creo que alguna vez fueran a cobrar ya que si lo hicieran perderían muchísimo terreno con las demás aplicaciones ya existentes. De hecho, y es una opinión completamente personal, le va costar mucho destronar a los reyes de estilo, como ser *Evernote* y &lt;em&gt;Pocket&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A favor, viene en versión desktop ya que funciona desde el navegador a través de extensiones o plugins y además para plataformas iOS y Android.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://stash.ai/landing&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aumentar la creatividad con Coffitivity</title>
+      <link>https://alberro.xyz/aumentar-la-creatividad-con-coffitivity/</link>
+      <pubDate>Sun, 08 May 2016 14:30:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/aumentar-la-creatividad-con-coffitivity/</guid>
+      <description>&lt;p&gt;En Internet uno puede encontrar cualquier cosa pero nunca me hubiese imaginado que existía un sitio tan raro como &lt;em&gt;Coffitivity&lt;/em&gt;. Seguramente este sitio surgió con la moda de los self-employees o freelance que trabajan desde Starbucks o alguna otra cafetería trendy, con sus barbas largas y tiradores al mejor estilo hipster.&lt;/p&gt;
+
+&lt;p&gt;Aparentemente existe un estudio de la &lt;strong&gt;Universidad de British Columbia&lt;/strong&gt; afirmando que el ruido ambiente ayuda al aumento de la creatividad. Este estudio se hizo en unos 300 participantes los cuales ayudaron a determinar que el ruido que se escucha en una cafetería ayuda a la estimulación sensorial y por ende la creatividad sale a flote.&lt;/p&gt;
+
+&lt;p&gt;Por suerte, el sitio &lt;strong&gt;Coffitivity&lt;/strong&gt; nos ofrece de manera gratuita ese ruido ambiente sin necesidad de irnos hasta una cafetería con nuestra notebook a refutar el estudio de la afamada universidad canadiense.&lt;/p&gt;
+
+&lt;p&gt;No solo funciona a través de la web sino que también está disponible para &lt;em&gt;Android&lt;/em&gt; y &lt;em&gt;iOS&lt;/em&gt; de manera gratuita, para aquellos que quieren llevarse la cafetería a cuestas.&lt;/p&gt;
+
+&lt;p&gt;Sitio &lt;a href=&#34;https://coffitivity.com&#34; target=&#34;_blank&#34;&gt;Coffitivity&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ejecutar aplicaciones de Android desde el navegador</title>
+      <link>https://alberro.xyz/ejecutar-aplicaciones-de-android-desde-el-navegador/</link>
+      <pubDate>Wed, 05 Aug 2015 23:15:28 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/ejecutar-aplicaciones-de-android-desde-el-navegador/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Sí, leíste bien. Ahora es posible ejecutar aplicaciones de &lt;em&gt;Android&lt;/em&gt; desde el navegador &lt;em&gt;Chrome&lt;/em&gt; en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt;, &lt;em&gt;Mac OS&lt;/em&gt; y también &lt;em&gt;Chrome OS&lt;/em&gt;. Esto es gracias a la extensión &lt;strong&gt;ARC Welder&lt;/strong&gt;, un empaquetador de aplicaciones para el sistema operativo de &lt;em&gt;Google&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para poder ejecutar las aplicaciones de &lt;em&gt;Android&lt;/em&gt; en nuestro sistema operativo, tenemos que conseguir el archivo &lt;em&gt;APK&lt;/em&gt;, que corresponde a la aplicación en sí. La forma más fácil de hacerlo, ingresando a &lt;a href=&#34;http://apps.evozi.com/apk-downloader/&#34; target=&#34;_blank&#34;&gt;APK Downloader&lt;/a&gt; e ingresar el &lt;em&gt;link&lt;/em&gt; de una aplicación, por ejemplo este link: &lt;em&gt;https://play.google.com/store/apps/details?id=com.rovio.baba&lt;/em&gt; (&lt;strong&gt;Angry Birds 2&lt;/strong&gt;). Ahora presionamos &lt;em&gt;Generate Download Link&lt;/em&gt; y luego&lt;em&gt; Click here to download&amp;#8230;&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/APK_Downloader_Latest_Download_Directly__Chrome_2015-08-05_19-39-48.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-271 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/APK_Downloader_Latest_Download_Directly__Chrome_2015-08-05_19-39-48.png&#34; alt=&#34;APK_Downloader_[Latest]_Download_Directly__Chrome_2015-08-05_19-39-48&#34; width=&#34;1148&#34; height=&#34;524&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Bien, si seguiste los pasos al pie de la letra ya deberías tener el archivo &lt;em&gt;APK&lt;/em&gt; en tu computadora. Ahora hay que ingresar a la web de &lt;em&gt;extensions&lt;/em&gt; de &lt;em&gt;Google Chrome&lt;/em&gt; y &lt;a href=&#34;https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn&#34; target=&#34;_blank&#34;&gt;descargar ARC Welder&lt;/a&gt;. La descarga puede demorar, es una extensión que pesa cerca de 30Mb y realiza varias verificaciones.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una vez que tenemos instalada la extensión, la abrimos y vamos a ver una pantalla como la siguiente
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-44-16.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-272 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-44-16.png&#34; alt=&#34;2015-08-05_19-44-16&#34; width=&#34;371&#34; height=&#34;675&#34; /&gt;&lt;/a&gt;Lo que tenemos que hacer ahora, es definir una carpeta en donde se van a guardar las aplicaciones de Android que &lt;em&gt;transformemos&lt;/em&gt;. No hay preferencia alguna, puede ser en tu Escritorio, en Documentos o donde más te guste.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Definida la carpeta, lo que tenemos que hacer ahora es buscar nuestra aplicación e instalarla dentro de &lt;em&gt;ARC Welder&lt;/em&gt;. Para ello, presionamos el botón &lt;em&gt;Add your APK&lt;/em&gt; y buscamos el archivo &lt;em&gt;APK&lt;/em&gt; que descargamos en el primer paso. Cuando elegimos el archivo &lt;em&gt;APK&lt;/em&gt;, lo va a analizar y nos va a dar una lista de opciones de cómo queremos correr la aplicación
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-50-09.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-273 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-50-09.png&#34; alt=&#34;2015-08-05_19-50-09&#34; width=&#34;363&#34; height=&#34;672&#34; /&gt;&lt;/a&gt;Acá podemos elegir si el tamaño de la aplicación tiene que ser el de un celular o una &lt;em&gt;tablet&lt;/em&gt;, si tiene acceso o no al &lt;em&gt;clipboard&lt;/em&gt; (portapapeles) del sistema operativo, si tiene que ejecutarse en modo &lt;em&gt;portrait&lt;/em&gt; o &lt;em&gt;landscape&lt;/em&gt;. Elegimos lo que más nos guste y luego presionamos &lt;em&gt;Launch App&lt;/em&gt;. Esto creará un acceso directo para ejecutar la aplicación directamente desde &lt;em&gt;Chrome&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-54-41.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-274 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-54-41.png&#34; alt=&#34;2015-08-05_19-54-41&#34; width=&#34;398&#34; height=&#34;378&#34; /&gt;&lt;/a&gt;Solo nos resta abrir la aplicación de &lt;em&gt;Android&lt;/em&gt; y ponernos a jugar desde nuestra PC 🙂
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-55-54.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-275 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-55-54.png&#34; alt=&#34;2015-08-05_19-55-54&#34; width=&#34;959&#34; height=&#34;631&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Según el desarrollador de la extensión, no todas las aplicaciones de Android son compatibles así que no te preocupes si ves que alguna no te funciona?
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

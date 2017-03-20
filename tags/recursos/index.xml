@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursos on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/recursos/index.xml</link>
+    <description>Recent content in Recursos on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/recursos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Librerías de íconos para aplicaciones</title>
+      <link>https://alberro.xyz/librerias-de-iconos-para-aplicaciones/</link>
+      <pubDate>Thu, 02 Jul 2015 23:33:55 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/librerias-de-iconos-para-aplicaciones/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ya sea porque estás desarrollando una aplicación web, una presentación para la facultad, un juego o lo que sea, vas a necesitar íconos para hacer tu trabajo más vistoso. A continuación les traigo una lista de recursos gratuitos para &lt;em&gt;embeber&lt;/em&gt; en sus proyectos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;h4 id=&#34;font-awesome&#34;&gt;Font Awesome&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Si hablamos de librerías de íconos, &lt;strong&gt;Font Awesome&lt;/strong&gt; es probablemente una de las más conocidas. Una fuente con +510 íconos y una muy buena documentación van a hacer que tu trabajo llame realmente la atención.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&gt;&lt;img class=&#34;aligncenter wp-image-130 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-02_19-58-49.png&#34; alt=&#34;2015-07-02_19-58-49&#34; width=&#34;1113&#34; height=&#34;453&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;open-iconic&#34;&gt;Open Iconic&lt;/h4&gt;
+
+&lt;p&gt;Un set con +220 íconos en formato &lt;em&gt;SVG&lt;/em&gt;, &lt;em&gt;webfont&lt;/em&gt; y &lt;em&gt;raster&lt;/em&gt;.  Muy buena documentación para todos sus formatos, ideal para aplicaciones web.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://useiconic.com/open/&#34;&gt;&lt;img class=&#34; size-full wp-image-131 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Open_Iconic_a_free_and_open_icon_set_-_Google_Chr_2015-07-02_20-03-19.png&#34; alt=&#34;Open_Iconic,_a_free_and_open_icon_set_-_Google_Chr_2015-07-02_20-03-19&#34; width=&#34;1163&#34; height=&#34;468&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;typicons&#34;&gt;Typicons&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una fuente con +330 íconos a nivel de &lt;em&gt;pixel perfect&lt;/em&gt;, según sus creadores. La documentación no es tan grande pero alcanza como para aprender a usar esta librería. Los íconos tienen un toque particular, un no sé qué que van a caracterizar tu proyecto.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.typicons.com/&#34;&gt;&lt;img class=&#34; size-full wp-image-132 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Typicons_-_Google_Chrome_2015-07-02_20-06-17.png&#34; alt=&#34;Typicons_-_Google_Chrome_2015-07-02_20-06-17&#34; width=&#34;967&#34; height=&#34;475&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;entypo&#34;&gt;Entypo&lt;/h4&gt;
+
+&lt;p&gt;Una suite con +400 íconos, muy bien diseñados y en diferentes tamaños. La documentación no existe, solo una FAQ que tiene un poco de información. Esta librería ya no viene más como una fuente, vale la aclaración.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.entypo.com/index.php&#34;&gt;&lt;img class=&#34; size-full wp-image-133 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Entypo_-_Google_Chrome_2015-07-02_20-08-24.png&#34; alt=&#34;Entypo_-_Google_Chrome_2015-07-02_20-08-24&#34; width=&#34;1080&#34; height=&#34;499&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;linecons&#34;&gt;Linecons&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Del juego de palabras &lt;em&gt;line+icons&lt;/em&gt;, íconos y líneas. Cuenta con un pequeño set de solo 40 íconos pero todos muy lindos y bien pensados. Se pueden bajar uno a uno o todos juntos, además cuenta con la posibilidad de &lt;em&gt;embeberlos&lt;/em&gt; como BASE64 entre otros formatos.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flaticon.com/packs/linecons&#34;&gt;&lt;img class=&#34; size-full wp-image-134 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Linecons_-40_free_icons_SVG_EPS_PSD_PNG_files_2015-07-02_20-12-29.png&#34; alt=&#34;Linecons_+40_free_icons_(SVG,_EPS,_PSD,_PNG_files)_2015-07-02_20-12-29&#34; width=&#34;1030&#34; height=&#34;494&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;icomoon&#34;&gt;IcoMoon&lt;/h4&gt;
+
+&lt;p&gt;Además de ser un set de íconos, cuenta con una app que permite seleccionar los íconos que querramos y exportarlos en una fuente, ideal para no sobrecargar el peso del archivo si solo necesitamos un par de íconos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://icomoon.io/#home&#34;&gt;&lt;img class=&#34; size-full wp-image-135 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Icon_Font__SVG_Icon_Sets_IcoMoon_-_Google_Chrom_2015-07-02_20-15-55.png&#34; alt=&#34;Icon_Font_&amp;_SVG_Icon_Sets_�??_IcoMoon_-_Google_Chrom_2015-07-02_20-15-55&#34; width=&#34;1083&#34; height=&#34;458&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo on Alberro.xyz</title>
+    <link>https://alberro.xyz/categories/desarrollo/index.xml</link>
+    <description>Recent content in Desarrollo on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/categories/desarrollo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Generar microservicios de administración con Lumber</title>
+      <link>https://alberro.xyz/generar-microservicios-de-administracion-con-lumber/</link>
+      <pubDate>Sun, 27 Nov 2016 18:11:11 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/generar-microservicios-de-administracion-con-lumber/</guid>
+      <description>&lt;p&gt;Lumber es una herramienta open source que funciona sobre NodeJS para generar microservicios de administración. Nos da como resultado un REST API conectado directamente a una base de datos.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Lumber genera una aplicación web que sirve una API REST conectada directamente a su base de datos, por lo que funciona de forma ininterrumpida para motores como MySQL y Postgres.&lt;/p&gt;
+
+&lt;p&gt;Su funcionalidad es muy sencilla ya que se realiza todo a través de un par de preguntas al momento de correr Lumber. Con solo responder con algunos parámetros de configuración, ya automáticamente Lumber nos genera todo el código de la aplicación.&lt;/p&gt;
+
+&lt;p&gt;Por el momento solo funciona con bases de datos MySQL y Postgre pero tienen pensando aumentar la compatibilidad y soportar las DBs más populares del momento. Como punto negativo, no hay novedades si van a soportar bases NoSQL como MongoDB por lo que habrá que esperar hasta recibir una información oficial&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.forestadmin.com/lumber&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Framework CSS extremadamente liviano</title>
+      <link>https://alberro.xyz/framework-css-extremadamente-liviano/</link>
+      <pubDate>Sat, 11 Jun 2016 15:09:12 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/framework-css-extremadamente-liviano/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Wing&lt;/strong&gt; es un framework CSS muy liviano y sencillo de usar, ideal si no necesitas de todas las opciones que posee Bootstrap o Fundation. Se caracteriza por pesar solamente 4kb, absolutamente nada, por ser open source y por ser compatible con la mayoría de los navegadores del mercado.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Grid&lt;/h3&gt;
+Soporte de columnas con hasta 12 columnas individuales y con una manera muy sencilla de aplicarlos, solo con agregar la clase &lt;em&gt;one&lt;/em&gt;, &lt;em&gt;two&lt;/em&gt;, &amp;hellip; hasta &lt;em&gt;eleven&lt;/em&gt;.
+&lt;h3&gt;Tipografías&lt;/h3&gt;
+Utilizando la fuente &lt;em&gt;Quicksand&lt;/em&gt;, todos los elementos / tags &lt;em&gt;H1&lt;/em&gt; hasta el &lt;em&gt;H6&lt;/em&gt; ya vienen configurados y para ser utilizados con la medida &lt;strong&gt;rems&lt;/strong&gt;.
+&lt;h3&gt;Botones&lt;/h3&gt;
+Los botones poseen su propio estilo y viene con diferentes variantes como &lt;em&gt;Primary&lt;/em&gt;, &lt;em&gt;Outline&lt;/em&gt;, &lt;em&gt;Clear&lt;/em&gt; y nos da un ejemplo de cómo customizar los botones a nuestro propio diseño.
+&lt;h3&gt;Formularios&lt;/h3&gt;
+Los formularios están diseñados para ser vistosos, limpios y sin necesidad de agregar ninguna clase.
+&lt;h3&gt;Listas&lt;/h3&gt;
+El funcionamiento de las listas es muy sencillo, con solo definir las &lt;em&gt;UL&lt;/em&gt; y &lt;em&gt;LI&lt;/em&gt; ya estamos usando el diseño que nos provee &lt;strong&gt;Wing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;También cuenta con utilidades ya conocidas si utilizaste alguna vez algún otro framework de CSS como las típicas &lt;em&gt;pull-right&lt;/em&gt;, &lt;em&gt;pull-left&lt;/em&gt; y demás.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://usewing.ml/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tu sitio web disponible hasta sin conexión</title>
+      <link>https://alberro.xyz/tu-sitio-web-disponible-hasta-sin-conexion/</link>
+      <pubDate>Mon, 07 Sep 2015 23:05:37 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/tu-sitio-web-disponible-hasta-sin-conexion/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;UpUp&lt;/strong&gt; es una librería que permite agregar contenido a tu página web de modo que sea visible cuando los usuarios perdieron la conexión en su dispositivo o computadora. No solo permite agregar leyendas de texto sino también archivos &lt;em&gt;CSS&lt;/em&gt;, imágenes y por supuesto, contenido en &lt;em&gt;HTML&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Su forma de uso es muy sencilla, solo necesitamos incluir en nuestro sitio web la librería JS de &lt;strong&gt;UpUp&lt;/strong&gt; y luego definimos el contenido que queremos mostrar.
+&lt;/p&gt;
+
+&lt;pre class=&#34;lang:js decode:true &#34;&gt;&amp;lt;script src=&#34;https://alberro.xyz/upup.min.js&#34;&amp;gt;&amp;lt;/script&amp;gt;
+  &amp;lt;script&amp;gt;
+    UpUp.start({
+      &#39;content-url&#39;: &#39;offline.html&#39; // muestra esta página a los usuarios sin conexión
+    });
+  &amp;lt;/script&amp;gt;&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En este ejemplo bastante sencillo, podemos observar que en caso de que el usuario esté sin conexión, se va a mostrar el diseño de una página llamada &lt;em&gt;offline.html&lt;/em&gt; y no el típico mensaje de &lt;strong&gt;404&lt;/strong&gt; propio de cada navegador.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;UpUp&lt;/strong&gt; es una herramienta &lt;em&gt;open source&lt;/em&gt; y cualquiera puede contribuir con mejoras en caso de que quiera, como así también de reportar errores a través de su repositorio oficial de &lt;em&gt;Github&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Posee una documentación bastante sencilla pero que cumple con su cometido explicando cada uno de sus parámetros y cómo utilizarlos; y además cuenta con un tutorial paso por paso que va a servirte en caso de que quieras conocer todo lo que puede hacer esta librería.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Imágenes gratuitas para todos tus proyectos</title>
+      <link>https://alberro.xyz/imagenes-gratuitas-para-todos-tus-proyectos/</link>
+      <pubDate>Mon, 03 Aug 2015 22:59:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/imagenes-gratuitas-para-todos-tus-proyectos/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Unsplash It&lt;/strong&gt; es un servicio &lt;em&gt;online&lt;/em&gt; de &lt;em&gt;placeholders&lt;/em&gt; de imágenes, ideal para &lt;em&gt;maquetar &lt;/em&gt;los proyectos que se encuentran en etapa de desarrollo. El servicio es gratuito y está basado en &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;, otro servicio gratuito para descargar imágenes libres de licencia.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para utilizar &lt;em&gt;Unsplash It&lt;/em&gt; solo tenemos que &lt;em&gt;pegarle&lt;/em&gt; a una URL y listo, ya tendremos una imagen aleatoria en nuestro proyecto.
+&lt;/p&gt;
+
+&lt;h3 id=&#34;ejemplo&#34;&gt;Ejemplo&lt;/h3&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true &#34;&gt;https://unsplash.it/800/600
+&lt;/pre&gt;
+
+&lt;p&gt;Generaría una imagen aleatoria de tamaño 800&amp;#215;600 píxeles como esta&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para generar siempre una imagen aleatoria, tenemos que agregar el parámetro &lt;strong&gt;?random&lt;/strong&gt; al final de la &lt;em&gt;URL.&lt;/em&gt; Refrescá la página para ver una nueva imagen.&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/800/600/?random&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600/?random&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si queremos que la imagen que nos muestra sea en &lt;strong&gt;escala de grises&lt;/strong&gt;, hay que modificar la ruta de la siguiente manera&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/g/800/600&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/g/800/600/&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para efecto &lt;em&gt;blurred&lt;/em&gt; o difuminada, hay que agregarle el parámetro &lt;strong&gt;?blur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34;&gt;https://unsplash.it/g/800/600/?blur
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://unsplash.it/800/600/?blur&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;600&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo bueno del servicio, es que ofrece sus imágenes a través del &lt;em&gt;protocolo HTTPS&lt;/em&gt;. Para conocer el resto de las opciones, ingresá a la web de &lt;em&gt;Unsplash It 🙂&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interfaz de consola para utilizar Git</title>
+      <link>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</link>
+      <pubDate>Sat, 18 Jul 2015 13:42:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Git&lt;/strong&gt;, el famoso software para control de código, puede ser utilizado desde la consola a través de diversos comandos. Ahora, con &lt;strong&gt;Git Commander&lt;/strong&gt;, vas a poder utilizarlo en la consola pero a través de una interfaz gráfica bien definida.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hasta el momento, &lt;strong&gt;Git Commander&lt;/strong&gt; soporta las siguientes funcionalidades&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add [files]&lt;/li&gt;
+&lt;li&gt;git reset &amp;#8212; [files]&lt;/li&gt;
+&lt;li&gt;git commit [files]&lt;/li&gt;
+&lt;li&gt;git log&lt;/li&gt;
+&lt;li&gt;git reset&lt;/li&gt;
+&lt;li&gt;git diff file&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y en breve estarán incluyendo las funciones de &lt;em&gt;git branch&lt;/em&gt;, &lt;em&gt;git merge (handling conflict)&lt;/em&gt; y &lt;em&gt;git push&lt;/em&gt;. A continuación vemos cómo funciona esta aplicación.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-193 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34; alt=&#34;git-commander&#34; width=&#34;666&#34; height=&#34;568&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los requisitos de software para que &lt;strong&gt;Git Commander&lt;/strong&gt; funcione, son&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git &amp;gt;= 2.4&lt;/li&gt;
+&lt;li&gt;nodejs &amp;gt;= 0.12&lt;/li&gt;
+&lt;li&gt;blessed &amp;gt;= 0.1.7&lt;/li&gt;
+&lt;li&gt;lodash &amp;gt;= 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y para su instalación solo tenemos que ejecutar los siguientes comandos en una consola, ya sea de Linux, Mac o Windows&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;npm install -g git-commander&lt;/pre&gt;
+
+&lt;p&gt;Y luego para ejecutarlo&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;git-commander
+&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar instalado en forma global, &lt;em&gt;git-commander&lt;/em&gt; queda disponible desde cualquier ubicación en la consola.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Librerías de íconos para aplicaciones</title>
+      <link>https://alberro.xyz/librerias-de-iconos-para-aplicaciones/</link>
+      <pubDate>Thu, 02 Jul 2015 23:33:55 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/librerias-de-iconos-para-aplicaciones/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ya sea porque estás desarrollando una aplicación web, una presentación para la facultad, un juego o lo que sea, vas a necesitar íconos para hacer tu trabajo más vistoso. A continuación les traigo una lista de recursos gratuitos para &lt;em&gt;embeber&lt;/em&gt; en sus proyectos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;h4 id=&#34;font-awesome&#34;&gt;Font Awesome&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Si hablamos de librerías de íconos, &lt;strong&gt;Font Awesome&lt;/strong&gt; es probablemente una de las más conocidas. Una fuente con +510 íconos y una muy buena documentación van a hacer que tu trabajo llame realmente la atención.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&gt;&lt;img class=&#34;aligncenter wp-image-130 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-02_19-58-49.png&#34; alt=&#34;2015-07-02_19-58-49&#34; width=&#34;1113&#34; height=&#34;453&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;open-iconic&#34;&gt;Open Iconic&lt;/h4&gt;
+
+&lt;p&gt;Un set con +220 íconos en formato &lt;em&gt;SVG&lt;/em&gt;, &lt;em&gt;webfont&lt;/em&gt; y &lt;em&gt;raster&lt;/em&gt;.  Muy buena documentación para todos sus formatos, ideal para aplicaciones web.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://useiconic.com/open/&#34;&gt;&lt;img class=&#34; size-full wp-image-131 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Open_Iconic_a_free_and_open_icon_set_-_Google_Chr_2015-07-02_20-03-19.png&#34; alt=&#34;Open_Iconic,_a_free_and_open_icon_set_-_Google_Chr_2015-07-02_20-03-19&#34; width=&#34;1163&#34; height=&#34;468&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;typicons&#34;&gt;Typicons&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una fuente con +330 íconos a nivel de &lt;em&gt;pixel perfect&lt;/em&gt;, según sus creadores. La documentación no es tan grande pero alcanza como para aprender a usar esta librería. Los íconos tienen un toque particular, un no sé qué que van a caracterizar tu proyecto.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.typicons.com/&#34;&gt;&lt;img class=&#34; size-full wp-image-132 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Typicons_-_Google_Chrome_2015-07-02_20-06-17.png&#34; alt=&#34;Typicons_-_Google_Chrome_2015-07-02_20-06-17&#34; width=&#34;967&#34; height=&#34;475&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;entypo&#34;&gt;Entypo&lt;/h4&gt;
+
+&lt;p&gt;Una suite con +400 íconos, muy bien diseñados y en diferentes tamaños. La documentación no existe, solo una FAQ que tiene un poco de información. Esta librería ya no viene más como una fuente, vale la aclaración.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.entypo.com/index.php&#34;&gt;&lt;img class=&#34; size-full wp-image-133 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Entypo_-_Google_Chrome_2015-07-02_20-08-24.png&#34; alt=&#34;Entypo_-_Google_Chrome_2015-07-02_20-08-24&#34; width=&#34;1080&#34; height=&#34;499&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;linecons&#34;&gt;Linecons&lt;/h4&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Del juego de palabras &lt;em&gt;line+icons&lt;/em&gt;, íconos y líneas. Cuenta con un pequeño set de solo 40 íconos pero todos muy lindos y bien pensados. Se pueden bajar uno a uno o todos juntos, además cuenta con la posibilidad de &lt;em&gt;embeberlos&lt;/em&gt; como BASE64 entre otros formatos.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flaticon.com/packs/linecons&#34;&gt;&lt;img class=&#34; size-full wp-image-134 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Linecons_-40_free_icons_SVG_EPS_PSD_PNG_files_2015-07-02_20-12-29.png&#34; alt=&#34;Linecons_+40_free_icons_(SVG,_EPS,_PSD,_PNG_files)_2015-07-02_20-12-29&#34; width=&#34;1030&#34; height=&#34;494&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;icomoon&#34;&gt;IcoMoon&lt;/h4&gt;
+
+&lt;p&gt;Además de ser un set de íconos, cuenta con una app que permite seleccionar los íconos que querramos y exportarlos en una fuente, ideal para no sobrecargar el peso del archivo si solo necesitamos un par de íconos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://icomoon.io/#home&#34;&gt;&lt;img class=&#34; size-full wp-image-135 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/Icon_Font__SVG_Icon_Sets_IcoMoon_-_Google_Chrom_2015-07-02_20-15-55.png&#34; alt=&#34;Icon_Font_&amp;_SVG_Icon_Sets_�??_IcoMoon_-_Google_Chrom_2015-07-02_20-15-55&#34; width=&#34;1083&#34; height=&#34;458&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>¡Atom 1.0 salió a la luz!</title>
+      <link>https://alberro.xyz/atom-1-0-salio-a-la-luz/</link>
+      <pubDate>Thu, 25 Jun 2015 23:04:58 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/atom-1-0-salio-a-la-luz/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Desde hoy ya se puede descargar la versión 1.0 del entorno de desarrollo &lt;strong&gt;Atom&lt;/strong&gt;, el IDE gratuito y &lt;em&gt;hackeable&lt;/em&gt; de &lt;em&gt;Github&lt;/em&gt;. Para los que no lo conocen, este editor es la competencia más fuerte que posee &lt;em&gt;SublimeText&lt;/em&gt;, con la diferencia de que &lt;strong&gt;Atom&lt;/strong&gt; es completamente gratuito.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/packages-cecf2ebf6a75a875eedcadda92be6f1d.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-94 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/packages-cecf2ebf6a75a875eedcadda92be6f1d.gif&#34; alt=&#34;packages-cecf2ebf6a75a875eedcadda92be6f1d&#34; width=&#34;410&#34; height=&#34;470&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Siendo la competencia de &lt;em&gt;ST&lt;/em&gt;, &lt;strong&gt;Atom&lt;/strong&gt; no se podía quedar atrás e incorpora dentro de su motor la capacidad de agregar temas (&lt;em&gt;themes&lt;/em&gt;), paquetes de lenguajes y funciones (&lt;em&gt;packages&lt;/em&gt;) y diferentes customizaciones para poder configurar el editor como a uno más le quede conveniente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para la release 1.0, los muchachos de &lt;strong&gt;Atom&lt;/strong&gt; lanzaron un video un poco particular, basado en la década del &amp;#8217;60, aproximadamente, donde se muestra a &lt;strong&gt;Atom&lt;/strong&gt; &lt;em&gt;corriendo&lt;/em&gt; en una terminal muy antigua.
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Y7aEiVwBAdk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Este &lt;em&gt;IDE&lt;/em&gt; funciona en todas las plataformas más conocidas ya que es &lt;em&gt;cross-platform&lt;/em&gt;: &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OSX&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;. Posee capacidades de autocompletar a medida que el desarrollador tipea comandos, navegador de archivos, capacidad para dividir el &lt;em&gt;IDE&lt;/em&gt; en múltiples columnas y muchas opciones más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/2015-06-25_19-54-15.png&#34;&gt;&lt;img class=&#34;td-modal-image td-scroll-e-image-fixed aligncenter wp-image-95 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/2015-06-25_19-54-15.png&#34; alt=&#34;2015-06-25_19-54-15&#34; width=&#34;598&#34; height=&#34;319&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Servicio gratuito de videos</title>
+      <link>https://alberro.xyz/servicio-gratuito-de-videos/</link>
+      <pubDate>Mon, 22 Jun 2015 12:35:28 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/servicio-gratuito-de-videos/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;em&gt;Coverr, o Co&gt;err,&lt;/em&gt; es un sitio web que ofrece videos en alta calidad para ser usados en nuestras páginas webs, algo muy utilizado últimamente en los diseños con los &lt;em&gt;sliders&lt;/em&gt; grandes en las&lt;em&gt; homepages&lt;/em&gt;. Los días lunes suben más de diez videos de entre 10 y 20 segundos de duración.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Existen varias categorías que podés utilizar para filtrar los videos y así encontrar de manera más rápida el que necesites, las categorías por ahora son:
+&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Comida
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Estado de ánimo
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Naturaleza
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Tecnología
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Arte
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Personas
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Urbano
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Animales
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Todos los videos son gratuitos y con &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34; target=&#34;_blank&#34;&gt;licencia&lt;/a&gt; prácticamente sin ninguna restricción. Si no sabés cómo utilizar estos videos de fondo, al final de la página explican con un ejemplo como deberían configurarse.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

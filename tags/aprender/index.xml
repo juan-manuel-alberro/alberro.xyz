@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aprender on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/aprender/index.xml</link>
+    <description>Recent content in Aprender on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/aprender/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>¿Estás preparado para aprender Javascript?</title>
+      <link>https://alberro.xyz/estas-preparado-para-aprender-javascript/</link>
+      <pubDate>Thu, 18 Jun 2015 21:42:29 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/estas-preparado-para-aprender-javascript/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Javascript ha ganado muchísimo terreno en estos últimos años y es un lenguaje de scripting que nunca para de evolucionar y mejorar. Recientemente se aprobó el &lt;a href=&#34;http://www.ecma-international.org/ecma-262/6.0/&#34; target=&#34;_blank&#34;&gt;ECMAScript 6&lt;/a&gt; que trae muchísimas mejoras al lenguaje y ahora podés aprenderlas online gratis, ¿estás preparado?
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Javascript.com es un sitio desarrollado por el equipo de Code School, famosos por hacer recursos &lt;em&gt;online&lt;/em&gt; para aprendizaje de lenguajes de programación. Si bien el sitio arranca desde un nivel muy inicial, va a escalando de a poco que hasta los más experimentados se van a ver sorprendidos con las cosas que explica.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/2015-06-18_18-27-38.png&#34;&gt;&lt;img class=&#34;alignnone wp-image-35 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/2015-06-18_18-27-38.png&#34; alt=&#34;2015-06-18_18-27-38&#34; width=&#34;1366&#34; height=&#34;426&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

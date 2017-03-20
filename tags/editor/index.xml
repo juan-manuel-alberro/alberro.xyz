@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editor on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/editor/index.xml</link>
+    <description>Recent content in Editor on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>¡Atom 1.0 salió a la luz!</title>
+      <link>https://alberro.xyz/atom-1-0-salio-a-la-luz/</link>
+      <pubDate>Thu, 25 Jun 2015 23:04:58 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/atom-1-0-salio-a-la-luz/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Desde hoy ya se puede descargar la versión 1.0 del entorno de desarrollo &lt;strong&gt;Atom&lt;/strong&gt;, el IDE gratuito y &lt;em&gt;hackeable&lt;/em&gt; de &lt;em&gt;Github&lt;/em&gt;. Para los que no lo conocen, este editor es la competencia más fuerte que posee &lt;em&gt;SublimeText&lt;/em&gt;, con la diferencia de que &lt;strong&gt;Atom&lt;/strong&gt; es completamente gratuito.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/packages-cecf2ebf6a75a875eedcadda92be6f1d.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-94 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/06/packages-cecf2ebf6a75a875eedcadda92be6f1d.gif&#34; alt=&#34;packages-cecf2ebf6a75a875eedcadda92be6f1d&#34; width=&#34;410&#34; height=&#34;470&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Siendo la competencia de &lt;em&gt;ST&lt;/em&gt;, &lt;strong&gt;Atom&lt;/strong&gt; no se podía quedar atrás e incorpora dentro de su motor la capacidad de agregar temas (&lt;em&gt;themes&lt;/em&gt;), paquetes de lenguajes y funciones (&lt;em&gt;packages&lt;/em&gt;) y diferentes customizaciones para poder configurar el editor como a uno más le quede conveniente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para la release 1.0, los muchachos de &lt;strong&gt;Atom&lt;/strong&gt; lanzaron un video un poco particular, basado en la década del &amp;#8217;60, aproximadamente, donde se muestra a &lt;strong&gt;Atom&lt;/strong&gt; &lt;em&gt;corriendo&lt;/em&gt; en una terminal muy antigua.
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Y7aEiVwBAdk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Este &lt;em&gt;IDE&lt;/em&gt; funciona en todas las plataformas más conocidas ya que es &lt;em&gt;cross-platform&lt;/em&gt;: &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OSX&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;. Posee capacidades de autocompletar a medida que el desarrollador tipea comandos, navegador de archivos, capacidad para dividir el &lt;em&gt;IDE&lt;/em&gt; en múltiples columnas y muchas opciones más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/06/2015-06-25_19-54-15.png&#34;&gt;&lt;img class=&#34;td-modal-image td-scroll-e-image-fixed aligncenter wp-image-95 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/2015-06-25_19-54-15.png&#34; alt=&#34;2015-06-25_19-54-15&#34; width=&#34;598&#34; height=&#34;319&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

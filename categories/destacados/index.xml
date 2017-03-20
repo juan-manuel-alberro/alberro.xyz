@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Destacados on Alberro.xyz</title>
+    <link>https://alberro.xyz/categories/destacados/index.xml</link>
+    <description>Recent content in Destacados on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/categories/destacados/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ejecutar aplicaciones de Android desde el navegador</title>
+      <link>https://alberro.xyz/ejecutar-aplicaciones-de-android-desde-el-navegador/</link>
+      <pubDate>Wed, 05 Aug 2015 23:15:28 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/ejecutar-aplicaciones-de-android-desde-el-navegador/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Sí, leíste bien. Ahora es posible ejecutar aplicaciones de &lt;em&gt;Android&lt;/em&gt; desde el navegador &lt;em&gt;Chrome&lt;/em&gt; en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt;, &lt;em&gt;Mac OS&lt;/em&gt; y también &lt;em&gt;Chrome OS&lt;/em&gt;. Esto es gracias a la extensión &lt;strong&gt;ARC Welder&lt;/strong&gt;, un empaquetador de aplicaciones para el sistema operativo de &lt;em&gt;Google&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para poder ejecutar las aplicaciones de &lt;em&gt;Android&lt;/em&gt; en nuestro sistema operativo, tenemos que conseguir el archivo &lt;em&gt;APK&lt;/em&gt;, que corresponde a la aplicación en sí. La forma más fácil de hacerlo, ingresando a &lt;a href=&#34;http://apps.evozi.com/apk-downloader/&#34; target=&#34;_blank&#34;&gt;APK Downloader&lt;/a&gt; e ingresar el &lt;em&gt;link&lt;/em&gt; de una aplicación, por ejemplo este link: &lt;em&gt;https://play.google.com/store/apps/details?id=com.rovio.baba&lt;/em&gt; (&lt;strong&gt;Angry Birds 2&lt;/strong&gt;). Ahora presionamos &lt;em&gt;Generate Download Link&lt;/em&gt; y luego&lt;em&gt; Click here to download&amp;#8230;&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/APK_Downloader_Latest_Download_Directly__Chrome_2015-08-05_19-39-48.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-271 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/APK_Downloader_Latest_Download_Directly__Chrome_2015-08-05_19-39-48.png&#34; alt=&#34;APK_Downloader_[Latest]_Download_Directly__Chrome_2015-08-05_19-39-48&#34; width=&#34;1148&#34; height=&#34;524&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Bien, si seguiste los pasos al pie de la letra ya deberías tener el archivo &lt;em&gt;APK&lt;/em&gt; en tu computadora. Ahora hay que ingresar a la web de &lt;em&gt;extensions&lt;/em&gt; de &lt;em&gt;Google Chrome&lt;/em&gt; y &lt;a href=&#34;https://chrome.google.com/webstore/detail/arc-welder/emfinbmielocnlhgmfkkmkngdoccbadn&#34; target=&#34;_blank&#34;&gt;descargar ARC Welder&lt;/a&gt;. La descarga puede demorar, es una extensión que pesa cerca de 30Mb y realiza varias verificaciones.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una vez que tenemos instalada la extensión, la abrimos y vamos a ver una pantalla como la siguiente
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-44-16.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-272 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-44-16.png&#34; alt=&#34;2015-08-05_19-44-16&#34; width=&#34;371&#34; height=&#34;675&#34; /&gt;&lt;/a&gt;Lo que tenemos que hacer ahora, es definir una carpeta en donde se van a guardar las aplicaciones de Android que &lt;em&gt;transformemos&lt;/em&gt;. No hay preferencia alguna, puede ser en tu Escritorio, en Documentos o donde más te guste.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Definida la carpeta, lo que tenemos que hacer ahora es buscar nuestra aplicación e instalarla dentro de &lt;em&gt;ARC Welder&lt;/em&gt;. Para ello, presionamos el botón &lt;em&gt;Add your APK&lt;/em&gt; y buscamos el archivo &lt;em&gt;APK&lt;/em&gt; que descargamos en el primer paso. Cuando elegimos el archivo &lt;em&gt;APK&lt;/em&gt;, lo va a analizar y nos va a dar una lista de opciones de cómo queremos correr la aplicación
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-50-09.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-273 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-50-09.png&#34; alt=&#34;2015-08-05_19-50-09&#34; width=&#34;363&#34; height=&#34;672&#34; /&gt;&lt;/a&gt;Acá podemos elegir si el tamaño de la aplicación tiene que ser el de un celular o una &lt;em&gt;tablet&lt;/em&gt;, si tiene acceso o no al &lt;em&gt;clipboard&lt;/em&gt; (portapapeles) del sistema operativo, si tiene que ejecutarse en modo &lt;em&gt;portrait&lt;/em&gt; o &lt;em&gt;landscape&lt;/em&gt;. Elegimos lo que más nos guste y luego presionamos &lt;em&gt;Launch App&lt;/em&gt;. Esto creará un acceso directo para ejecutar la aplicación directamente desde &lt;em&gt;Chrome&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-54-41.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-274 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-54-41.png&#34; alt=&#34;2015-08-05_19-54-41&#34; width=&#34;398&#34; height=&#34;378&#34; /&gt;&lt;/a&gt;Solo nos resta abrir la aplicación de &lt;em&gt;Android&lt;/em&gt; y ponernos a jugar desde nuestra PC 🙂
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-55-54.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-275 size-full&#34; src=&#34;https://alberro.xyz/images/2015/08/2015-08-05_19-55-54.png&#34; alt=&#34;2015-08-05_19-55-54&#34; width=&#34;959&#34; height=&#34;631&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Según el desarrollador de la extensión, no todas las aplicaciones de Android son compatibles así que no te preocupes si ves que alguna no te funciona?
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enviar correos con auto-destrucción en GMail</title>
+      <link>https://alberro.xyz/enviar-correos-con-auto-destruccion-en-gmail/</link>
+      <pubDate>Sun, 26 Jul 2015 22:29:16 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/enviar-correos-con-auto-destruccion-en-gmail/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al mejor estilo &lt;em&gt;James Bond&lt;/em&gt;, ahora es posible enviar &lt;em&gt;e-mails&lt;/em&gt; desde &lt;strong&gt;GMail&lt;/strong&gt; con una opción de auto-destrucción 💣 para que los correos se eliminen automáticamente en la casilla del receptor en un determinado periodo.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Para poder activar esta funcionalidad hay que instalar una extensión en &lt;a href=&#34;http://www.alberro.xyz/tag/chrome/&#34;&gt;Chrome&lt;/a&gt; la cual agrega una opción al momento de redactar el e-mail desde la interfaz de GMail. Ésta nueva opción aparece como &lt;strong&gt;Send with DMail&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/dmail.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-235 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/dmail.jpg&#34; alt=&#34;dmail&#34; width=&#34;640&#34; height=&#34;400&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  La extensión permite definir el tiempo de auto-destrucción al momento de enviar el correo, como una hora o una semana después de haber sido visto. Además permite la recepción de una copia del correo que se envía simplemente para verificar su funcionamiento.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Instala la extensión &lt;a href=&#34;https://chrome.google.com/webstore/detail/dmail/fblelgmhengcpjogkpmmhjghbcelaake&#34;&gt;DMail desde acá&lt;/a&gt; y contanos cualquier problema que tengas 🙂
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google Play Music disponible en Argentina</title>
+      <link>https://alberro.xyz/google-play-music-disponible-en-argentina/</link>
+      <pubDate>Mon, 29 Jun 2015 10:57:59 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/google-play-music-disponible-en-argentina/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A partir de hoy, el servicio de música de Google que compite con &lt;em&gt;Spotify&lt;/em&gt;, estará disponible en Argentina para todos los usuarios con un precio de &lt;strong&gt;$ 36&lt;/strong&gt; (+35% por compra en exterior de la AFIP).
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Google Play Music&lt;/strong&gt; cuesta lo mismo que &lt;em&gt;Spotify&lt;/em&gt; y ofrece un mes gratis para todos los que contraten el servicio y &lt;strong&gt;tres meses gratis&lt;/strong&gt; para aquellos usuarios de teléfonos Samsung. Además por el precio mencionado anteriormente, Google ofrece una función llamada &lt;em&gt;Locker&lt;/em&gt; que permite almacenar en la nube hasta 50.000 canciones propias.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Otra diferencia importante de &lt;strong&gt;Google Play Music&lt;/strong&gt; es que se pueden sincronizar hasta diez dispositivos al mismo tiempo.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/06/play.jpg&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-105 size-full&#34; src=&#34;https://alberro.xyz/images/2015/06/play.jpg&#34; alt=&#34;play&#34; width=&#34;770&#34; height=&#34;433&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Por si fuera poco, &lt;strong&gt;Google Play Music&lt;/strong&gt; ofrece un servicio para artistas llamado &lt;a href=&#34;https://play.google.com/artists/&#34; target=&#34;_blank&#34;&gt;Artist Hub&lt;/a&gt; en donde los músicos independientes pueden vender sus discos y cobrar hasta un 70% de la venta, un número bastante importante si uno se pone a pensar.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Por el momento, no hay una versión gratuita de &lt;strong&gt;Google Play Music&lt;/strong&gt; según comenta Ady Harley lo cuál puede llegar a ser una desventaja frente al gigante de &lt;em&gt;Spotify&lt;/em&gt;. Sin embargo, están evaluando en algún momento realizar una versión sustentada con publicidades.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &amp;#8220;Estamos atentos a las necesidades de los usuarios, pero por el momento no hay nada para anunciar. Esperamos que en algún momento podamos compartir información&amp;#8221;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: right;&#34;&gt;
+  Ady Harley
+&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

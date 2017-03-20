@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instalar on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/instalar/index.xml</link>
+    <description>Recent content in Instalar on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/instalar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>¿Cómo forzar la descarga e instalación de Windows 10?</title>
+      <link>https://alberro.xyz/como-forzar-la-descarga-e-instalacion-de-windows-10/</link>
+      <pubDate>Thu, 30 Jul 2015 20:07:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/como-forzar-la-descarga-e-instalacion-de-windows-10/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  En Argentina, la actualización de &lt;a href=&#34;http://www.alberro.xyz/category/os/windows/&#34;&gt;Windows 10&lt;/a&gt; se está haciendo paulatinamente dándole mayor prioridad a los países del norte. Con este sencillo truco, vas a poder forzar la descarga e instalación del nuevo sistema operativo de &lt;em&gt;Microsoft&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ya es sabido que &lt;em&gt;Windows 10&lt;/em&gt; es gratuito para los usuarios &lt;strong&gt;legales&lt;/strong&gt; de &lt;em&gt;Windows 7&lt;/em&gt; en adelante, pero a pesar de que tengas ese sistema operativo, puede que la actualización no te haya aparecido.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  El truco, si es que se le puede llamar así, es crear un nuevo valor dentro del registro de &lt;em&gt;Windows&lt;/em&gt; para indicarle que está permitido hacer un &lt;em&gt;upgrade&lt;/em&gt; del sistema operativo.
+&lt;/p&gt;
+
+&lt;h3 style=&#34;text-align: justify;&#34;&gt;
+  Instrucciones
+&lt;/h3&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Abrir el editor del registro desde el menú de inicio escribiendo el nombre de &lt;em&gt;regedit.exe&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Navegar por las carpetas del registro hasta llegar a &lt;pre class=&#34;&#34;&gt;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\OSUpgrade&lt;/pre&gt;
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Editar o crear una nueva clave con nombre &lt;strong&gt;AllowOSUpgrade&lt;/strong&gt;. Para crearla hacemos clic con el botón derecho en la parte derecha de la pantalla y &lt;em&gt;Nuevo&lt;/em&gt; → &lt;em&gt;Valor de DWORD (32 bits)&lt;/em&gt;
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Luego le cambiamos el valor por 1 y listo, debería quedarte así
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-55-33.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-241 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-55-33.png&#34; alt=&#34;2015-07-30_16-55-33&#34; width=&#34;754&#34; height=&#34;205&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Si ya hiciste todos los pasos y te quedó como en el &lt;em&gt;screenshot&lt;/em&gt; de arriba, entonces ahora falta ir al &lt;em&gt;Panel de Control&lt;/em&gt; → &lt;em&gt;Windows Update&lt;/em&gt;. Cuando lo abras, ya vas a ver el logo nuevo de &lt;strong&gt;Windows 10&lt;/strong&gt;! 😎
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-18-12.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-242 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/2015-07-30_16-18-12.png&#34; alt=&#34;2015-07-30_16-18-12&#34; width=&#34;739&#34; height=&#34;384&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ahora solo resta esperar a que termine de bajarte los +2Gb y listo, vas a estar disfrutando del último sistema operativo de &lt;em&gt;Microsoft&lt;/em&gt; 👌
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

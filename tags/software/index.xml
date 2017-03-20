@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/software/index.xml</link>
+    <description>Recent content in Software on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nunca más te olvides una contraseña con Enpass</title>
+      <link>https://alberro.xyz/nunca-mas-te-olvides-una-contrasena-con-enpass/</link>
+      <pubDate>Wed, 11 May 2016 15:00:48 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/nunca-mas-te-olvides-una-contrasena-con-enpass/</guid>
+      <description>&lt;p&gt;Es normal, por lo menos en mi caso, que tengamos una contraseña diferente para cada aplicación web, red social, &lt;em&gt;apps&lt;/em&gt; del teléfono, pines para las tarjetas de débito y un largo etcétera. Es por eso que existen los administradores de contraseñas, los cuales almacenan todas las contraseñas bajo una única contraseña maestra la cual obviamente tiene que ser muy fuerte.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images//2016/05/Enpass.png&#34;&gt;&lt;img class=&#34;wp-image-400 size-full aligncenter&#34; src=&#34;https://alberro.xyz/images//2016/05/Enpass.png&#34; alt=&#34;Enpass&#34; width=&#34;875&#34; height=&#34;565&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es el caso de &lt;strong&gt;Enpass&lt;/strong&gt;, una aplicación gratuita que funciona en &lt;strong&gt;Windows&lt;/strong&gt;, &lt;strong&gt;Linux&lt;/strong&gt; y &lt;strong&gt;Mac OS&lt;/strong&gt; como así también en dispositivos móviles pero con la restricción de que puede almacenar solo un total de 20 contraseñas, si querés más tenés que comprar la aplicación.&lt;/p&gt;
+
+&lt;p&gt;A su vez la aplicación cuenta con extensiones (o &lt;em&gt;addons&lt;/em&gt;) para los navegadores más populares de manera que cada vez que ingresemos a un sitio web con un usuario y contraseña, tome esos datos y los almacena dentro de la aplicación. Y también, cuenta con un generador de contraseñas para darle mayor seguridad a nuestros accesos.&lt;/p&gt;
+
+&lt;p&gt;Una de las grandes virtudes que tiene &lt;strong&gt;Enpass&lt;/strong&gt; es que se sincroniza automáticamente a modo de &lt;em&gt;backup&lt;/em&gt; con muchos servicios, como por ejemplo Dropbox, Google Drive, One Drive, Box y un par más.&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://www.enpass.io/&#34;&gt;Enpass&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crea circuitos de una manera muy sencilla</title>
+      <link>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</link>
+      <pubDate>Tue, 01 Sep 2015 23:57:01 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/crea-circuitos-de-una-manera-muy-sencilla/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Gracias a &lt;strong&gt;Fritzing&lt;/strong&gt;, vamos a poder desarrollar nuestros propios circuitos de manera interactiva incluyendo una variedad muy amplia de componentes hasta &lt;em&gt;boards&lt;/em&gt; &lt;em&gt;Arduino&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Fritzing&lt;/strong&gt; es una iniciativa &lt;em&gt;open source&lt;/em&gt; que hace a la electrónica accesibles para cualquier persona. Permite diseñar un circuito desde el &lt;em&gt;protoboard / breadboard&lt;/em&gt; y luego exportarlo hasta en formato de ¡circuito impreso! Una verdadera maravilla. Y además, cuando una de las tantas vistas que posee es cambiada, automáticamente actualiza las demás vistas por lo que si agregás un capacitor en un lado, aparecerá en el otro instantáneamente.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A continuación pueden ver algunas de las tantas funcionalidades que nos ofrece este software.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  También ofrecen la impresión de los circuitos &lt;em&gt;PCB&lt;/em&gt; como así también la posibilidad de encargar todos los componentes usados en tu diseño pero solo está disponible en el país de Estados Unidos.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Vale aclarar que el software &lt;strong&gt;Fritzing&lt;/strong&gt; funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;Linux&lt;/em&gt; y &lt;em&gt;Mac OS&lt;/em&gt;, así que no hay excusa que valga para no empezar a diseñar tu propio prototipo.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interfaz de consola para utilizar Git</title>
+      <link>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</link>
+      <pubDate>Sat, 18 Jul 2015 13:42:53 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/interfaz-de-consola-para-utilizar-git/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Git&lt;/strong&gt;, el famoso software para control de código, puede ser utilizado desde la consola a través de diversos comandos. Ahora, con &lt;strong&gt;Git Commander&lt;/strong&gt;, vas a poder utilizarlo en la consola pero a través de una interfaz gráfica bien definida.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hasta el momento, &lt;strong&gt;Git Commander&lt;/strong&gt; soporta las siguientes funcionalidades&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git status&lt;/li&gt;
+&lt;li&gt;git add [files]&lt;/li&gt;
+&lt;li&gt;git reset &amp;#8212; [files]&lt;/li&gt;
+&lt;li&gt;git commit [files]&lt;/li&gt;
+&lt;li&gt;git log&lt;/li&gt;
+&lt;li&gt;git reset&lt;/li&gt;
+&lt;li&gt;git diff file&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y en breve estarán incluyendo las funciones de &lt;em&gt;git branch&lt;/em&gt;, &lt;em&gt;git merge (handling conflict)&lt;/em&gt; y &lt;em&gt;git push&lt;/em&gt;. A continuación vemos cómo funciona esta aplicación.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34;&gt;&lt;img class=&#34; size-full wp-image-193 aligncenter&#34; src=&#34;https://alberro.xyz/images/2015/07/git-commander.gif&#34; alt=&#34;git-commander&#34; width=&#34;666&#34; height=&#34;568&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los requisitos de software para que &lt;strong&gt;Git Commander&lt;/strong&gt; funcione, son&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;git &amp;gt;= 2.4&lt;/li&gt;
+&lt;li&gt;nodejs &amp;gt;= 0.12&lt;/li&gt;
+&lt;li&gt;blessed &amp;gt;= 0.1.7&lt;/li&gt;
+&lt;li&gt;lodash &amp;gt;= 3.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y para su instalación solo tenemos que ejecutar los siguientes comandos en una consola, ya sea de Linux, Mac o Windows&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;npm install -g git-commander&lt;/pre&gt;
+
+&lt;p&gt;Y luego para ejecutarlo&lt;/p&gt;
+
+&lt;pre class=&#34;theme:monokai font:consolas lang:default decode:true&#34; title=&#34;Git Commander&#34;&gt;git-commander
+&lt;/pre&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Al estar instalado en forma global, &lt;em&gt;git-commander&lt;/em&gt; queda disponible desde cualquier ubicación en la consola.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Descarga sitios webs con Darcy Ripper</title>
+      <link>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</link>
+      <pubDate>Sun, 12 Jul 2015 19:24:32 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/descarga-sitios-webs-con-darcy-ripper/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Darcy Ripper&lt;/strong&gt; es una aplicación gratuita para descargar sitios webs completos, pudiendo definir los niveles de profundidad que tiene que &lt;em&gt;escavar&lt;/em&gt;. Se puede utilizar para bajar sitios y leerlos &lt;em&gt;offline&lt;/em&gt; o simplemente investigar los recursos que posee. 
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Los requerimientos que posee esta aplicación son prácticamente nulos, solo necesita tener instalado la versión de &lt;em&gt;Java 1.6&lt;/em&gt; en adelante. Es completamente independiente del sistema operativo que se corra, ya que está desarrollada en &lt;em&gt;Java&lt;/em&gt; y funciona en &lt;em&gt;Windows&lt;/em&gt;, &lt;em&gt;OS X&lt;/em&gt; y &lt;em&gt;Linux&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  A su vez permite la configuración por cada uno de los proyectos que se manden a la cola de procesamiento, pudiendo definir a cada uno de ellos la profundidad de escaneo, el filtro de imágenes, la cantidad de descargas en paralelo y muchas opciones más! Ideal para entrar a esas webs que venden &lt;em&gt;themes&lt;/em&gt; cof cof&amp;#8230;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34;&gt;&lt;img class=&#34; td-modal-image aligncenter wp-image-151 size-full&#34; src=&#34;https://alberro.xyz/images/2015/07/darcy-ripper.png&#34; alt=&#34;darcy-ripper&#34; width=&#34;1366&#34; height=&#34;725&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

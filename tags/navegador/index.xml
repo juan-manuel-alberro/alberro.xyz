@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navegador on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/navegador/index.xml</link>
+    <description>Recent content in Navegador on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/navegador/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Un navegador gratuito y potente para desarrolladores web</title>
+      <link>https://alberro.xyz/un-navegador-gratuito-y-potente-para-desarrolladores-web/</link>
+      <pubDate>Mon, 23 May 2016 23:41:05 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/un-navegador-gratuito-y-potente-para-desarrolladores-web/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Blisk&lt;/strong&gt; es un navegador gratuito creado exclusivamente para personas que se dedican al desarrollo web. Este navegador tiene la particularidad que puede ser usado desde cualquier etapa de desarrollo, desde la creación de prototipos hasta el &lt;em&gt;testing&lt;/em&gt; en diferentes &lt;em&gt;devices&lt;/em&gt; a través de los emuladores integrados que posee.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignleft&#34; src=&#34;https://bliskstatic.azureedge.net/static/dev-phases/develop-blisk.png&#34; alt=&#34;Develop with Blisk&#34; width=&#34;256&#34; height=&#34;192&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Una de las características nativas que posee, y que en otros navegadores solo se logra añadiendo &lt;em&gt;plugins&lt;/em&gt;, es la sincronizar el &lt;em&gt;scroll&lt;/em&gt; en diferentes vistas de manera que si nos movemos dentro de un sitio web, la vista en el emulador también se mueve y de esa manera podemos comparar como responde el diseño desde una misma ubicación.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;strong&gt;Blisk&lt;/strong&gt; trae incorporado emuladores para diversos tipos de dispositivos como ser celulares, tablets y hasta PC de escritorio. Por nombrar algunos, trae los emuladores pre-instalados de:
+&lt;/p&gt;
+
+&lt;p&gt;&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPhone 4, 5, 6 y 6 Plus
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Nokia N9 y Lumia 625
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Samsung S3, S4 y S6
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPad Mini
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  iPad Air Retina
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  Dell Inspiration 5748
+&lt;/li&gt;
+&lt;li style=&#34;text-align: justify;&#34;&gt;
+  entre otros
+&lt;/li&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Además trae lo que se conoce como &lt;em&gt;watcher&lt;/em&gt;, a medida que uno realiza un cambio en el código de nuestra aplicación o página web, automáticamente &lt;strong&gt;Blisk&lt;/strong&gt; refresca la pantalla para mostrarnos la última versión. Funciona para las extensiones &lt;em&gt;html&lt;/em&gt;, &lt;em&gt;css&lt;/em&gt;, &lt;em&gt;js&lt;/em&gt;, &lt;em&gt;saas&lt;/em&gt;, &lt;em&gt;cshtml&lt;/em&gt;, &lt;em&gt;php&lt;/em&gt; y muchas más.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Incorpora dentro de su motor, un &lt;em&gt;Analytics&lt;/em&gt; para detectar errores de &lt;em&gt;Javascript&lt;/em&gt; y para realizar recomendaciones sobre cómo mejorar la velocidad de la web, sobre si tu web es compatible con otros navegadores como &lt;strong&gt;Chrome&lt;/strong&gt;, &lt;strong&gt;Firefox&lt;/strong&gt; o &lt;strong&gt;IE/Edge&lt;/strong&gt;, y además verifica enlaces rotos para recursos &lt;em&gt;css&lt;/em&gt; y fuentes.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Te dije que captura pantallas en todos los &lt;em&gt;devices&lt;/em&gt; y vistas abiertas con un solo clic? Ideal para los &lt;em&gt;testers&lt;/em&gt; / QA.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Y por si querías más, en un futuro no muy lejano, van a implementar las integraciones con otros sitios web para poder subir o reportar errores directamente desde el &lt;em&gt;browser&lt;/em&gt; a &lt;strong&gt;Jira&lt;/strong&gt;, &lt;strong&gt;Github&lt;/strong&gt; y otras herramientas.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Lo &lt;strong&gt;&lt;span style=&#34;color: #800000;&#34;&gt;negativo&lt;/span&gt;&lt;/strong&gt;, y que por suerte algo temporal, es que sólo está disponible para el sistema operativo &lt;strong&gt;Windows&lt;/strong&gt; (&lt;em&gt;WTF&lt;/em&gt; right?). Para &lt;strong&gt;Linux&lt;/strong&gt; y &lt;strong&gt;Mac&lt;/strong&gt; todavía no hay versión disponible para descargar, pero están trabajando en eso ya que si no lo hacen pierden muchísimo mercado ya que son los dos sistemas operativos más utilizados para el diseño y desarrollo web.
+&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://blisk.io/&#34;&gt;Blisk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un navegador potente y personal exclusivo para vos</title>
+      <link>https://alberro.xyz/un-navegador-potente-y-personal-exclusivo-para-vos/</link>
+      <pubDate>Thu, 12 May 2016 15:00:16 +0000</pubDate>
+      
+      <guid>https://alberro.xyz/un-navegador-potente-y-personal-exclusivo-para-vos/</guid>
+      <description>&lt;p&gt;Así es como se define &lt;strong&gt;Vivaldi&lt;/strong&gt;, el navegador que está cada vez más en la boca de todos. Se caracteriza por ser un navegador altamente configurable, se puede cambiar absolutamente todo. La idea es que el navegador se adapte a vos, y no al revés.&lt;/p&gt;
+
+&lt;p&gt;Posee todas las características que cualquier otro navegador de primera línea como Chrome y Firefox, pero es extremadamente configurable y es por eso que se ganó la fama.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Todos somos únicos y queremos cosas diferentes. El navegador Vivaldi te permite hacer las cosas a tu modo, adaptándose a ti y no a la inversa. ¿Prefieres las pestañas en la parte inferior o en el lateral de la ventana? ¿Prefieres la barra de direcciones en otra posición? Adelante, personaliza tus gustos ya sean atajos de teclado, gestos del ratón, la apariencia o un sinfín de posibilidades más.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Vivaldi&lt;/strong&gt; está construido con tecnologías web, NodeJS y React para la interfaz, lo cual lo hace mucho más liviano y ligero que cualquiera de su clase.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Sitio: &lt;a href=&#34;https://vivaldi.com/&#34;&gt;Vivaldi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
