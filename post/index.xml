@@ -7,8 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <copyright>Todos los derechos reservados - 2017</copyright>
-    <lastBuildDate>Sat, 07 Jan 2017 23:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 21:45:39 -0300</lastBuildDate>
     <atom:link href="https://alberro.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cómo desactivar el keylogger de Windows 10</title>
+      <link>https://alberro.xyz/como-desactivar-keylogger-windows-10/</link>
+      <pubDate>Tue, 21 Mar 2017 21:45:39 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/como-desactivar-keylogger-windows-10/</guid>
+      <description>
+
+&lt;p&gt;Muchos usuarios de &lt;strong&gt;Windows 10&lt;/strong&gt;, sin saberlo, están enviando el contenido de cada pulsación dle teclado que hacen a &lt;strong&gt;Microsoft&lt;/strong&gt; debido a un keylogger habilitado por defecto en el sistema operativo. Esta función ha existido desde el principio de &lt;strong&gt;Windows 10&lt;/strong&gt; y es un excelente ejemplo de por qué nunca se debe pasar por alto las opciones en el proceso de instalación en cualquier sistema operativo.&lt;/p&gt;
+
+&lt;p&gt;La privacidad de &lt;strong&gt;Windows 10&lt;/strong&gt; ha sido un tema que dio que hablar desde su lanzamiento hace ya unos años.&lt;/p&gt;
+
+&lt;p&gt;Un claro ejemplo es el del gobierno francés que ya hizo su &lt;a href=&#34;https://www.theguardian.com/technology/2016/jul/20/france-microsoft-user-data-collection-privacy&#34;&gt;reclamo&lt;/a&gt; hace un año para reclamarle a &lt;strong&gt;Microsoft&lt;/strong&gt; que deje de recopilar información de sus usuarios&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Stop collecting excessive data and tracking browsing by users without their consent.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pero parece que **Microsoft **sólo prestó atención a la última mitad de esa advertencia. Sin embargo, muchos usuarios de &lt;strong&gt;Windows 10&lt;/strong&gt; pueden haber dado su consentimiento por error al momento de instalar el sistema operativo y por ende, siguen recopilando todo lo que escriben.&lt;/p&gt;
+
+&lt;h3 id=&#34;cómo-desactivar-el-keylogger&#34;&gt;Cómo desactivar el keylogger&lt;/h3&gt;
+
+&lt;p&gt;Para desactivar el keylogger de &lt;strong&gt;Windows 10&lt;/strong&gt;, lo que tenemos que hacer es abrir el &lt;strong&gt;Panel de Control&lt;/strong&gt; o directamente escribir en la barra de inicio &lt;strong&gt;Configuración de Privacidad&lt;/strong&gt;. Una vez que se abra la ventana, hay que desactivar la opción que dice&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Enviar información a Microsoft sobre cómo escribo y ayudar a mejorar el tecleo y la escritura en el futuro&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/privacidad.png&#34; alt=&#34;Debería quedar así&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si esto estuvo siempre encendido mientras usabas &lt;strong&gt;Windows 10&lt;/strong&gt;, no hay forma de que sepas que &lt;strong&gt;Microsoft&lt;/strong&gt; ha eliminado tu información. Con esto solo solucionás que deje de recopilar información de ahora en más, pero por ningún motivo van a eliminar lo que ya saben de vos&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;call-to-action&#34;&gt;
+  &lt;div class=&#34;left&#34;&gt;&lt;h4&gt;Más Información&lt;/h4&gt;&lt;/div&gt;
+  &lt;div class=&#34;right&#34;&gt;&lt;a class=&#34;mas&#34; href=&#34;http://www.pcworld.com/article/2974057/windows/how-to-turn-off-windows-10s-keylogger-yes-it-still-has-one.html&#34; target=&#34;_blank&#34;&gt;PC World&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Administra tus pestañas de Google Chrome con Toby</title>
@@ -454,31 +494,6 @@ En base a un rumor de unos de los famosos reporteros de USA, Google estaría tra
 &lt;p&gt;Descarga &lt;strong&gt;Cry of Fear&lt;/strong&gt;, el juego de terror psicológico completamente gratuito.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.cry-of-fear.com/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Framework CSS extremadamente liviano</title>
-      <link>https://alberro.xyz/framework-css-extremadamente-liviano/</link>
-      <pubDate>Sat, 11 Jun 2016 15:09:12 +0000</pubDate>
-      
-      <guid>https://alberro.xyz/framework-css-extremadamente-liviano/</guid>
-      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Wing&lt;/strong&gt; es un framework CSS muy liviano y sencillo de usar, ideal si no necesitas de todas las opciones que posee Bootstrap o Fundation. Se caracteriza por pesar solamente 4kb, absolutamente nada, por ser open source y por ser compatible con la mayoría de los navegadores del mercado.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Grid&lt;/h3&gt;
-Soporte de columnas con hasta 12 columnas individuales y con una manera muy sencilla de aplicarlos, solo con agregar la clase &lt;em&gt;one&lt;/em&gt;, &lt;em&gt;two&lt;/em&gt;, &amp;hellip; hasta &lt;em&gt;eleven&lt;/em&gt;.
-&lt;h3&gt;Tipografías&lt;/h3&gt;
-Utilizando la fuente &lt;em&gt;Quicksand&lt;/em&gt;, todos los elementos / tags &lt;em&gt;H1&lt;/em&gt; hasta el &lt;em&gt;H6&lt;/em&gt; ya vienen configurados y para ser utilizados con la medida &lt;strong&gt;rems&lt;/strong&gt;.
-&lt;h3&gt;Botones&lt;/h3&gt;
-Los botones poseen su propio estilo y viene con diferentes variantes como &lt;em&gt;Primary&lt;/em&gt;, &lt;em&gt;Outline&lt;/em&gt;, &lt;em&gt;Clear&lt;/em&gt; y nos da un ejemplo de cómo customizar los botones a nuestro propio diseño.
-&lt;h3&gt;Formularios&lt;/h3&gt;
-Los formularios están diseñados para ser vistosos, limpios y sin necesidad de agregar ninguna clase.
-&lt;h3&gt;Listas&lt;/h3&gt;
-El funcionamiento de las listas es muy sencillo, con solo definir las &lt;em&gt;UL&lt;/em&gt; y &lt;em&gt;LI&lt;/em&gt; ya estamos usando el diseño que nos provee &lt;strong&gt;Wing&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;También cuenta con utilidades ya conocidas si utilizaste alguna vez algún otro framework de CSS como las típicas &lt;em&gt;pull-right&lt;/em&gt;, &lt;em&gt;pull-left&lt;/em&gt; y demás.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://usewing.ml/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

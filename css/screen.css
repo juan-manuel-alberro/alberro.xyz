@@ -2200,3 +2200,7 @@ body:not(.post-template) .post-title {
   flex: 0.5;
   align-content: space-around;
 }
+
+header.post-header {
+  margin-bottom: 10px
+}
