@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://alberro.xyz/super-mario-run-ya-est%C3%A1-disponible-para-android/</loc>
+    <lastmod>2017-03-22T21:02:37-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alberro.xyz/como-desactivar-keylogger-windows-10/</loc>
     <lastmod>2017-03-21T21:45:39-03:00</lastmod>
   </url>
@@ -305,7 +310,7 @@
   
   <url>
     <loc>https://alberro.xyz/</loc>
-    <lastmod>2017-03-21T21:45:39-03:00</lastmod>
+    <lastmod>2017-03-22T21:02:37-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,7 +322,13 @@
   
   <url>
     <loc>https://alberro.xyz/categories/android/</loc>
-    <lastmod>2016-11-30T00:04:41+00:00</lastmod>
+    <lastmod>2017-03-22T21:02:37-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alberro.xyz/tags/android/</loc>
+    <lastmod>2017-03-22T21:02:37-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -694,7 +705,7 @@
   
   <url>
     <loc>https://alberro.xyz/tags/juegos/</loc>
-    <lastmod>2016-11-30T00:04:41+00:00</lastmod>
+    <lastmod>2017-03-22T21:02:37-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -862,7 +873,7 @@
   
   <url>
     <loc>https://alberro.xyz/post/</loc>
-    <lastmod>2017-03-21T21:45:39-03:00</lastmod>
+    <lastmod>2017-03-22T21:02:37-03:00</lastmod>
     <priority>0</priority>
   </url>
   
