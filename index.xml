@@ -7,8 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <copyright>Todos los derechos reservados - 2017</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 21:02:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 09:33:23 -0300</lastBuildDate>
     <atom:link href="https://alberro.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Entorno gráfico de Linux que funciona sobre Windows</title>
+      <link>https://alberro.xyz/entorno-grafico-de-linux-que-funciona-sobre-windows</link>
+      <pubDate>Thu, 23 Mar 2017 09:33:23 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/entorno-grafico-de-linux-que-funciona-sobre-windows</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Swan&lt;/strong&gt; es un entorno gráfico de &lt;strong&gt;Linux&lt;/strong&gt; 🐧 que funciona directamente en &lt;strong&gt;Windows&lt;/strong&gt; de 64 bits a través de &lt;code&gt;cygwin&lt;/code&gt;.
+&lt;/p&gt;
+
+&lt;div  style=&#34;background: #202020; width: 100%; margin: 20px 0&#34;&gt;
+  &lt;img src=&#34;https://alberro.xyz/images/2017/03/swan_logo.png&#34; alt=&#34;Swan&#34; width=&#34;150&#34; /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;características&#34;&gt;Características&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;X Window System
+
+&lt;ul&gt;
+&lt;li&gt;Utiliza el manager de ventanas de &lt;strong&gt;Windows&lt;/strong&gt; y se integra con el barra de tareas como así también con la funcionalidad de &lt;kbd&gt;alt&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;tab&lt;/kbd&gt;&lt;/li&gt;
+&lt;li&gt;Portapapeles compartido, lo que tengas en &lt;strong&gt;Windows&lt;/strong&gt; se puede usar en &lt;strong&gt;Linux&lt;/strong&gt; 🐧&lt;/li&gt;
+&lt;li&gt;Fuentes compartidas&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Escritorio con motor &lt;code&gt;Xfce&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Explorador &lt;code&gt;Thunar&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Terminal &lt;code&gt;Xfce&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Git&lt;/code&gt; preinstalado y listo para usar&lt;/li&gt;
+&lt;li&gt;Engrampa para manejar archivos compromidos&lt;/li&gt;
+&lt;li&gt;Utilidades generales como &lt;code&gt;ssh&lt;/code&gt;, &lt;code&gt;perl&lt;/code&gt;, &lt;code&gt;python&lt;/code&gt; y más&lt;/li&gt;
+&lt;li&gt;Soporte oficial para paquetes de &lt;code&gt;cygwin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;instalación&#34;&gt;Instalación&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Descargar el instalador y ejecutarlo&lt;/li&gt;
+&lt;li&gt;Al ejecutarlo un nuevo proceso va a descargar &lt;code&gt;cygwin&lt;/code&gt; y va a instalar &lt;code&gt;swan-base&lt;/code&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Si el &lt;strong&gt;Smart Screen&lt;/strong&gt; de &lt;strong&gt;Windows&lt;/strong&gt; aparece al momento de instalar este archivo, aprobar su instalación para continuar con el proceso&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Terminado el proceso de instalación, abrir la consola de &lt;strong&gt;Swan&lt;/strong&gt; y ejecutar &lt;code&gt;spm -i swan-desktop&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Preparar un café, un mate o algo más fuerte 🍹 ya que la instalación va a demorar bastante&lt;/li&gt;
+&lt;li&gt;Terminado todo, abrir el acceso directo &lt;strong&gt;Swan Xfce4 Desktop&lt;/strong&gt; y voilá, ya tenés &lt;strong&gt;Linux&lt;/strong&gt; 🐧 corriendo en &lt;strong&gt;Windows&lt;/strong&gt; 😄&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;call-to-action&#34;&gt;
+  &lt;div class=&#34;left&#34;&gt;&lt;h4&gt;Más Información&lt;/h4&gt;&lt;/div&gt;
+  &lt;div class=&#34;right&#34;&gt;&lt;a class=&#34;mas&#34; href=&#34;http://www.starlig.ht/install/&#34; target=&#34;_blank&#34;&gt;Swan Desktop&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Super Mario Run ya está disponible para Android</title>
@@ -469,32 +521,6 @@ En base a un rumor de unos de los famosos reporteros de USA, Google estaría tra
 
 &lt;p&gt;&lt;h2&gt;8. Pixel 3 Laptop&lt;/h2&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;Con el lanzamiento de &lt;strong&gt;Andromeda OS&lt;/strong&gt;, es de esperarse también que saquen al mercado una nueva &lt;em&gt;laptop&lt;/em&gt; para lucir su nuevo sistema operativo. La idea de &lt;strong&gt;Google&lt;/strong&gt; es competir con &lt;strong&gt;Windows&lt;/strong&gt; y &lt;strong&gt;Mac,&lt;/strong&gt; y ofrecer diferentes alternativas de &lt;em&gt;hardware&lt;/em&gt; pero todas con una premisa en particular: ofrecer más de 10 horas de autonomía.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Te gusta viajar? Entonces Google Trips es para vos!</title>
-      <link>https://alberro.xyz/te-gusta-viajar-entonces-google-trips-es-para-vos/</link>
-      <pubDate>Fri, 30 Sep 2016 21:14:03 +0000</pubDate>
-      
-      <guid>https://alberro.xyz/te-gusta-viajar-entonces-google-trips-es-para-vos/</guid>
-      <description>&lt;p&gt;Google lanzó una nueva aplicación para ayudar a los turistas a organizar sus viajes. Se trata de &lt;strong&gt;Google Trips&lt;/strong&gt;, una app que ayuda a hacer la vida de los viajeros más fácil, e invita a ellos a conocer más y planear menos.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Google Trips&lt;/em&gt; funciona para todas las ciudades del mundo y una de sus facilidades es que puede funcionar sin necesidad de Internet, ya que nos permite descargar la ciudad a la que vamos a visitar. Toda la aplicación está disponible sin estar conectados. Solo hay que descargarla al celular antes de salir de la casa o el hotel y listo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2016/09/google_trips_1.jpg&#34; alt=&#34;Google Trips&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Al momento de iniciar la aplicación, automáticamente lee nuestro correo y agrega los viajes pasados y próximos a nuestro itinerario. También nos da la opción de ver recomendaciones de comidas, lugares de compras, paseos y demás, en base a los comentarios y búsquedas de otros viajeros.&lt;/p&gt;
-
-&lt;p&gt;Si hay algo negativo que se puede remarcar, es que todavía no está en castellano y eso puede llegar a ser un impedimento para muchas personas. Sin embargo, es más que probable que la aplicación se actualice y agregue muchos más idiomas.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ign2GmVEflw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;La aplicación &lt;em&gt;Google Trips&lt;/em&gt; se puede descargar para los sistemas operativos &lt;em&gt;iOS&lt;/em&gt; y &lt;em&gt;Android&lt;/em&gt; y es completamente gratuita.&lt;/p&gt;
 </description>
     </item>
     

@@ -10,6 +10,58 @@
     <atom:link href="https://alberro.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Entorno gráfico de Linux que funciona sobre Windows</title>
+      <link>https://alberro.xyz/entorno-grafico-de-linux-que-funciona-sobre-windows</link>
+      <pubDate>Thu, 23 Mar 2017 09:33:23 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/entorno-grafico-de-linux-que-funciona-sobre-windows</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Swan&lt;/strong&gt; es un entorno gráfico de &lt;strong&gt;Linux&lt;/strong&gt; 🐧 que funciona directamente en &lt;strong&gt;Windows&lt;/strong&gt; de 64 bits a través de &lt;code&gt;cygwin&lt;/code&gt;.
+&lt;/p&gt;
+
+&lt;div  style=&#34;background: #202020; width: 100%; margin: 20px 0&#34;&gt;
+  &lt;img src=&#34;https://alberro.xyz/images/2017/03/swan_logo.png&#34; alt=&#34;Swan&#34; width=&#34;150&#34; /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;características&#34;&gt;Características&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;X Window System
+
+&lt;ul&gt;
+&lt;li&gt;Utiliza el manager de ventanas de &lt;strong&gt;Windows&lt;/strong&gt; y se integra con el barra de tareas como así también con la funcionalidad de &lt;kbd&gt;alt&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;tab&lt;/kbd&gt;&lt;/li&gt;
+&lt;li&gt;Portapapeles compartido, lo que tengas en &lt;strong&gt;Windows&lt;/strong&gt; se puede usar en &lt;strong&gt;Linux&lt;/strong&gt; 🐧&lt;/li&gt;
+&lt;li&gt;Fuentes compartidas&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Escritorio con motor &lt;code&gt;Xfce&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Explorador &lt;code&gt;Thunar&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Terminal &lt;code&gt;Xfce&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Git&lt;/code&gt; preinstalado y listo para usar&lt;/li&gt;
+&lt;li&gt;Engrampa para manejar archivos compromidos&lt;/li&gt;
+&lt;li&gt;Utilidades generales como &lt;code&gt;ssh&lt;/code&gt;, &lt;code&gt;perl&lt;/code&gt;, &lt;code&gt;python&lt;/code&gt; y más&lt;/li&gt;
+&lt;li&gt;Soporte oficial para paquetes de &lt;code&gt;cygwin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;instalación&#34;&gt;Instalación&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Descargar el instalador y ejecutarlo&lt;/li&gt;
+&lt;li&gt;Al ejecutarlo un nuevo proceso va a descargar &lt;code&gt;cygwin&lt;/code&gt; y va a instalar &lt;code&gt;swan-base&lt;/code&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Si el &lt;strong&gt;Smart Screen&lt;/strong&gt; de &lt;strong&gt;Windows&lt;/strong&gt; aparece al momento de instalar este archivo, aprobar su instalación para continuar con el proceso&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Terminado el proceso de instalación, abrir la consola de &lt;strong&gt;Swan&lt;/strong&gt; y ejecutar &lt;code&gt;spm -i swan-desktop&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Preparar un café, un mate o algo más fuerte 🍹 ya que la instalación va a demorar bastante&lt;/li&gt;
+&lt;li&gt;Terminado todo, abrir el acceso directo &lt;strong&gt;Swan Xfce4 Desktop&lt;/strong&gt; y voilá, ya tenés &lt;strong&gt;Linux&lt;/strong&gt; 🐧 corriendo en &lt;strong&gt;Windows&lt;/strong&gt; 😄&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;call-to-action&#34;&gt;
+  &lt;div class=&#34;left&#34;&gt;&lt;h4&gt;Más Información&lt;/h4&gt;&lt;/div&gt;
+  &lt;div class=&#34;right&#34;&gt;&lt;a class=&#34;mas&#34; href=&#34;http://www.starlig.ht/install/&#34; target=&#34;_blank&#34;&gt;Swan Desktop&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Lanzador de aplicaciones al estilo Spotlight en Windows</title>
       <link>https://alberro.xyz/lanzador-de-aplicaciones-al-estilo-spotlight-en-windows/</link>
       <pubDate>Tue, 10 May 2016 18:00:20 +0000</pubDate>
