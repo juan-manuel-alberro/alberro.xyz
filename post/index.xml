@@ -7,8 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <copyright>Todos los derechos reservados - 2017</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 09:33:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 11:40:10 -0300</lastBuildDate>
     <atom:link href="https://alberro.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cómo ocultar una parte del HD en Windows</title>
+      <link>https://alberro.xyz/como-ocultar-una-parte-del-hd-en-windows/</link>
+      <pubDate>Fri, 24 Mar 2017 11:40:10 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/como-ocultar-una-parte-del-hd-en-windows/</guid>
+      <description>&lt;p&gt;Hoy te voy a mostrar cómo esconder tu disco rígido sin usar ningún software de terceros, usando solamente las herramientas que nos da &lt;strong&gt;Windows&lt;/strong&gt;. Es muy útil si tenés información importante que nadie querés que vea, ya sea por confidencialidad, fotos o simplemente porque tenés datos personales como extractos bancarios, contraseñas, etc y no querés a nadie revisando esto.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hoy en día hay muchos programas en el mercado que se utilizan para ocultar la unidad pero en realidad no es necesario comprar, piratear o bajarlos, porque se puede hacer muy fácilmente mediante el uso de cmd. Esto ahorra dinero y tiempo.&lt;/p&gt;
+
+&lt;p&gt;Lo primero que voy a aclarar, es que no me responsabilizo si se produce alguna pérdida de datos o daño en el HD al hacer eso, si bien es imposible que suceda lo aclaro. Ahora bien, lo que tenemos que hacer es abrir una consola de Windows para poder ejecutar un par de comandos, para ello presionamos la combinación de teclas &lt;kbd&gt;Win&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;R&lt;/kbd&gt; para que se abra el diálogo de &lt;em&gt;Ejecutar Programas&lt;/em&gt; y ahí tipeamos &lt;code&gt;cmd&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-1&#34;&gt;Paso 1&lt;/h3&gt;
+
+&lt;p&gt;Ejecutar cmd&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_0.png&#34; alt=&#34;Paso 1&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-2&#34;&gt;Paso 2&lt;/h3&gt;
+
+&lt;p&gt;Escribir en la consola el comando &lt;code&gt;diskpart&lt;/code&gt; y presionar enter, es probable que &lt;strong&gt;Windows&lt;/strong&gt; nos solicite los permisos de &lt;em&gt;admin&lt;/em&gt; para poder ejecutarlo&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_1.png&#34; alt=&#34;Paso 2&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-3&#34;&gt;Paso 3&lt;/h3&gt;
+
+&lt;p&gt;El comando previo abre una nueva ventana en donde tendremos a &lt;code&gt;diskpart&lt;/code&gt; ejecutando, ahora escribimos &lt;code&gt;list volume&lt;/code&gt; para conocer todos los discos y particiones que &lt;em&gt;Windows&lt;/em&gt; detecta&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_2.png&#34; alt=&#34;Paso 3&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-4&#34;&gt;Paso 4&lt;/h3&gt;
+
+&lt;p&gt;Teniendo el listado de los discos y particiones, ahora nos resta elegir el que queremos ocultar. Para ello tipeamos &lt;code&gt;select volume X&lt;/code&gt; donde &lt;code&gt;X&lt;/code&gt; es la unidad a ocultar, en el ejemplo uso la unidad E.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_3.png&#34; alt=&#34;Paso 4&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-5&#34;&gt;Paso 5&lt;/h3&gt;
+
+&lt;p&gt;Teniendo la unidad seleccionada, y sabiendo que no podemos fallar, ahora sí procedemos a ocultar la unidad ejecutando &lt;code&gt;remove letter X&lt;/code&gt; donde &lt;code&gt;X&lt;/code&gt; es la unidad a ocultar, en el ejemplo sigo usando la unidad E. Si bien el comando es &lt;code&gt;remove&lt;/code&gt;, no se preocupen que los datos no se borran ni se alteran.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_4.png&#34; alt=&#34;Paso 5&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y la unidad &lt;em&gt;desaparece&lt;/em&gt; del Explorador de &lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_5.png&#34; alt=&#34;Paso 5&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eso es todo, ahora si queremos restaurar la unidad para que sea visible, lo que tenemos que hacer es ejecutar el siguiente comando para volver todo a &lt;em&gt;default&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;assign letter X&lt;/code&gt; donde &lt;code&gt;X&lt;/code&gt; es la unidad a mostrar&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_6.png&#34; alt=&#34;Paso 5&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eso es todo, bien sencillo y sin instalar niniguna aplicación externa. A partir de ahora ya sabés cómo ocultar tu información importante y lo que querés ocultar&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/if-you-know-what-i-mean.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Entorno gráfico de Linux que funciona sobre Windows</title>
@@ -481,46 +540,6 @@
 &lt;p&gt;A favor, viene en versión desktop ya que funciona desde el navegador a través de extensiones o plugins y además para plataformas iOS y Android.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://stash.ai/landing&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>8 cosas geniales que Google lanzará el 4 de Octubre</title>
-      <link>https://alberro.xyz/8-cosas-geniales-que-google-lanzara-el-4-de-octubre/</link>
-      <pubDate>Sat, 01 Oct 2016 15:26:13 +0000</pubDate>
-      
-      <guid>https://alberro.xyz/8-cosas-geniales-que-google-lanzara-el-4-de-octubre/</guid>
-      <description>&lt;p&gt;El 04 de octubre de 2016, Google dará un evento para mostrar sus nuevos devices. Este evento se hace llamar &lt;strong&gt;Made by Google&lt;/strong&gt;. Si bien no hay mucha información al respecto, hay muchos supuestos sobre lo que Google podría llegar a mostrar ese día.&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;1. Smartphones Pixel y Pixel XL&lt;/h2&gt;
-&lt;strong&gt;Google&lt;/strong&gt; está llamando a este evento &lt;strong&gt;Made By Google&lt;/strong&gt;, por lo que suponemos que va a estar mostrando &lt;em&gt;devices&lt;/em&gt; hechos por ellos mismos. Según los reporteros, se van a mostrar dos celulares llamados &lt;strong&gt;Pixel&lt;/strong&gt; y &lt;strong&gt;Pixel XL&lt;/strong&gt; los cuales van a ser realizados por &lt;strong&gt;HTC&lt;/strong&gt; como lo hacía anteriormente con su modelo &lt;strong&gt;Nexus&lt;/strong&gt;.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Pixel&lt;/strong&gt; tendrá una pantalla de 5 pulgadas mientras que &lt;strong&gt;Pixel XL&lt;/strong&gt; será de 5.5 pulgadas ambos con pantallas Quad HD AMOLED y sistema operativo &lt;strong&gt;Android N&lt;/strong&gt; con soporte para realidad virtual gracias a &lt;strong&gt;Google Daydream VR&lt;/strong&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;2. Nueva tablet también llamada Pixel&lt;/h2&gt;
-En base a un rumor de unos de los famosos reporteros de USA, Google estaría trabajando en una tablet de marca Huawei de 7 pulgadas con 4 GB de RAM.
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Google&amp;#39;s Huawei-built 7-inch tablet, with 4GB RAM, on track for release before the end of the year.&lt;/p&gt;&amp;mdash; Evan Blass (@evleaks) &lt;a href=&#34;https://twitter.com/evleaks/status/772894822193623040&#34;&gt;September 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;3. Daydream VR&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;La realidad virtual parece ser uno de los temas más fuertes en este 2016, y para no ser menos &lt;strong&gt;Google&lt;/strong&gt; pretende no quedarse atrás lanzando este nuevo producto, &lt;strong&gt;Daydream VR&lt;/strong&gt;. Si bien ya habían experimentado hace un tiempo atrás con el &lt;strong&gt;Google CardBoard&lt;/strong&gt;, ahora pretenden salir al mercado con una solución mucho más robusta y competitiva gracias al nuevo hardware que estarían lanzando.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;4. 4K Chromecast&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;No hace mucho que &lt;strong&gt;Google&lt;/strong&gt; lanzó el &lt;strong&gt;Chromecast 2&lt;/strong&gt; al mercado pero no fue un producto que haya atraído la atención del público ya que no tuvo grandes mejoras. Por tal motivo, &lt;strong&gt;Google&lt;/strong&gt; estaría lanzando un nuevo &lt;strong&gt;Chromecast&lt;/strong&gt; con soporte para videos 4K y HDR, nuevo diseño y mejores aplicaciones.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;5. Google Home&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Google apuntaría a competir con Amazon Echo al lanzar el nuevo producto llamado &lt;strong&gt;Google Home&lt;/strong&gt;. A modo de analogía y para que se entienda bien fácil, sería algo como &lt;strong&gt;Google Now&lt;/strong&gt; pero para el hogar.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;6. Google Wi-Fi&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Google lanzaría un nuevo device llamado Google WI-FI para mejorar la conectividad en el hogar con soporte de redes 802.15.4, bluetooth y dos puertos.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;7. Andromeda OS&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Es sabido que Google no mantiene más a Chrome OS y por ende estaría lanzando un nuevo sistema operativo llamado Andromeda para unificar todos los sistemas y que sería implementado recién a partir de 2017.&lt;/p&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We announced the 1st version of Android 8 years ago today. I have a feeling 8 years from now we&amp;#39;ll be talking about Oct 4, 2016.&lt;/p&gt;&amp;mdash; Hiroshi Lockheimer (@lockheimer) &lt;a href=&#34;https://twitter.com/lockheimer/status/779757830203068416&#34;&gt;September 24, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;h2&gt;8. Pixel 3 Laptop&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Con el lanzamiento de &lt;strong&gt;Andromeda OS&lt;/strong&gt;, es de esperarse también que saquen al mercado una nueva &lt;em&gt;laptop&lt;/em&gt; para lucir su nuevo sistema operativo. La idea de &lt;strong&gt;Google&lt;/strong&gt; es competir con &lt;strong&gt;Windows&lt;/strong&gt; y &lt;strong&gt;Mac,&lt;/strong&gt; y ofrecer diferentes alternativas de &lt;em&gt;hardware&lt;/em&gt; pero todas con una premisa en particular: ofrecer más de 10 horas de autonomía.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     

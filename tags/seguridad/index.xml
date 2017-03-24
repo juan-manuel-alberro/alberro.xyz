@@ -10,6 +10,65 @@
     <atom:link href="https://alberro.xyz/tags/seguridad/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cómo ocultar una parte del HD en Windows</title>
+      <link>https://alberro.xyz/como-ocultar-una-parte-del-hd-en-windows/</link>
+      <pubDate>Fri, 24 Mar 2017 11:40:10 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/como-ocultar-una-parte-del-hd-en-windows/</guid>
+      <description>&lt;p&gt;Hoy te voy a mostrar cómo esconder tu disco rígido sin usar ningún software de terceros, usando solamente las herramientas que nos da &lt;strong&gt;Windows&lt;/strong&gt;. Es muy útil si tenés información importante que nadie querés que vea, ya sea por confidencialidad, fotos o simplemente porque tenés datos personales como extractos bancarios, contraseñas, etc y no querés a nadie revisando esto.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hoy en día hay muchos programas en el mercado que se utilizan para ocultar la unidad pero en realidad no es necesario comprar, piratear o bajarlos, porque se puede hacer muy fácilmente mediante el uso de cmd. Esto ahorra dinero y tiempo.&lt;/p&gt;
+
+&lt;p&gt;Lo primero que voy a aclarar, es que no me responsabilizo si se produce alguna pérdida de datos o daño en el HD al hacer eso, si bien es imposible que suceda lo aclaro. Ahora bien, lo que tenemos que hacer es abrir una consola de Windows para poder ejecutar un par de comandos, para ello presionamos la combinación de teclas &lt;kbd&gt;Win&lt;/kbd&gt;&lt;kbd&gt;+&lt;/kbd&gt;&lt;kbd&gt;R&lt;/kbd&gt; para que se abra el diálogo de &lt;em&gt;Ejecutar Programas&lt;/em&gt; y ahí tipeamos &lt;code&gt;cmd&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-1&#34;&gt;Paso 1&lt;/h3&gt;
+
+&lt;p&gt;Ejecutar cmd&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_0.png&#34; alt=&#34;Paso 1&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-2&#34;&gt;Paso 2&lt;/h3&gt;
+
+&lt;p&gt;Escribir en la consola el comando &lt;code&gt;diskpart&lt;/code&gt; y presionar enter, es probable que &lt;strong&gt;Windows&lt;/strong&gt; nos solicite los permisos de &lt;em&gt;admin&lt;/em&gt; para poder ejecutarlo&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_1.png&#34; alt=&#34;Paso 2&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-3&#34;&gt;Paso 3&lt;/h3&gt;
+
+&lt;p&gt;El comando previo abre una nueva ventana en donde tendremos a &lt;code&gt;diskpart&lt;/code&gt; ejecutando, ahora escribimos &lt;code&gt;list volume&lt;/code&gt; para conocer todos los discos y particiones que &lt;em&gt;Windows&lt;/em&gt; detecta&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_2.png&#34; alt=&#34;Paso 3&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-4&#34;&gt;Paso 4&lt;/h3&gt;
+
+&lt;p&gt;Teniendo el listado de los discos y particiones, ahora nos resta elegir el que queremos ocultar. Para ello tipeamos &lt;code&gt;select volume X&lt;/code&gt; donde &lt;code&gt;X&lt;/code&gt; es la unidad a ocultar, en el ejemplo uso la unidad E.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_3.png&#34; alt=&#34;Paso 4&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;paso-5&#34;&gt;Paso 5&lt;/h3&gt;
+
+&lt;p&gt;Teniendo la unidad seleccionada, y sabiendo que no podemos fallar, ahora sí procedemos a ocultar la unidad ejecutando &lt;code&gt;remove letter X&lt;/code&gt; donde &lt;code&gt;X&lt;/code&gt; es la unidad a ocultar, en el ejemplo sigo usando la unidad E. Si bien el comando es &lt;code&gt;remove&lt;/code&gt;, no se preocupen que los datos no se borran ni se alteran.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_4.png&#34; alt=&#34;Paso 5&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y la unidad &lt;em&gt;desaparece&lt;/em&gt; del Explorador de &lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_5.png&#34; alt=&#34;Paso 5&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eso es todo, ahora si queremos restaurar la unidad para que sea visible, lo que tenemos que hacer es ejecutar el siguiente comando para volver todo a &lt;em&gt;default&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;assign letter X&lt;/code&gt; donde &lt;code&gt;X&lt;/code&gt; es la unidad a mostrar&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/hard_disk_6.png&#34; alt=&#34;Paso 5&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eso es todo, bien sencillo y sin instalar niniguna aplicación externa. A partir de ahora ya sabés cómo ocultar tu información importante y lo que querés ocultar&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/if-you-know-what-i-mean.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Nuevo virus que se distribuye entre los mensajes de Facebook</title>
       <link>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</link>
       <pubDate>Thu, 06 Oct 2016 00:37:15 +0000</pubDate>
