@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instagram on Alberro.xyz</title>
+    <link>https://alberro.xyz/tags/instagram/index.xml</link>
+    <description>Recent content in Instagram on Alberro.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instagram agrega protección a las imágenes NSFW</title>
+      <link>https://alberro.xyz/instagram-agrega-proteccion-a-las-imagenes-nsfw/</link>
+      <pubDate>Fri, 24 Mar 2017 14:32:52 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/instagram-agrega-proteccion-a-las-imagenes-nsfw/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Instagram&lt;/strong&gt; agregó una nueva funcionalidad a su aplicación para limitar la visualización de contenido sensible. De ahora en más las imágenes no se cargarán de manera directa sino que pasarán por un analizador de contenidos y en caso de que detecte que es contenido subido de tono, &lt;abbr title=&#34;sangriento, violento&#34;&gt;gore&lt;/abbr&gt; u otro tipo de contenido sensible, le alertará al usuario con un mensaje sobre la imagen, la cual se encuentra disfuminada como se puede ver a continuación.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/instagramsafe.png&#34; alt=&#34;blurred&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hasta que no confirmemos la visualización de la foto, no vamos a poder ver qué trata, es algo similar a lo que ya tienen otros sitios famosos como &lt;strong&gt;9Gag&lt;/strong&gt; por ejemplo.&lt;/p&gt;
+
+&lt;p&gt;La idea de &lt;strong&gt;Instagram&lt;/strong&gt; es hacer una comunidad más agradable para todos, como anuncian en su blog&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Our teams are focused on making Instagram a kind, welcoming place for everyone, and we’re just getting started.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;call-to-action&#34;&gt;
+  &lt;div class=&#34;left&#34;&gt;&lt;h4&gt;Más Información&lt;/h4&gt;&lt;/div&gt;
+  &lt;div class=&#34;right&#34;&gt;&lt;a class=&#34;mas&#34; href=&#34;http://blog.instagram.com/post/158740450852/170323-kindness&#34; target=&#34;_blank&#34;&gt;Instagram blog&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

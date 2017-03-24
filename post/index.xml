@@ -7,8 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <copyright>Todos los derechos reservados - 2017</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 11:40:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 14:32:52 -0300</lastBuildDate>
     <atom:link href="https://alberro.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instagram agrega protección a las imágenes NSFW</title>
+      <link>https://alberro.xyz/instagram-agrega-proteccion-a-las-imagenes-nsfw/</link>
+      <pubDate>Fri, 24 Mar 2017 14:32:52 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/instagram-agrega-proteccion-a-las-imagenes-nsfw/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Instagram&lt;/strong&gt; agregó una nueva funcionalidad a su aplicación para limitar la visualización de contenido sensible. De ahora en más las imágenes no se cargarán de manera directa sino que pasarán por un analizador de contenidos y en caso de que detecte que es contenido subido de tono, &lt;abbr title=&#34;sangriento, violento&#34;&gt;gore&lt;/abbr&gt; u otro tipo de contenido sensible, le alertará al usuario con un mensaje sobre la imagen, la cual se encuentra disfuminada como se puede ver a continuación.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/instagramsafe.png&#34; alt=&#34;blurred&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hasta que no confirmemos la visualización de la foto, no vamos a poder ver qué trata, es algo similar a lo que ya tienen otros sitios famosos como &lt;strong&gt;9Gag&lt;/strong&gt; por ejemplo.&lt;/p&gt;
+
+&lt;p&gt;La idea de &lt;strong&gt;Instagram&lt;/strong&gt; es hacer una comunidad más agradable para todos, como anuncian en su blog&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Our teams are focused on making Instagram a kind, welcoming place for everyone, and we’re just getting started.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;call-to-action&#34;&gt;
+  &lt;div class=&#34;left&#34;&gt;&lt;h4&gt;Más Información&lt;/h4&gt;&lt;/div&gt;
+  &lt;div class=&#34;right&#34;&gt;&lt;a class=&#34;mas&#34; href=&#34;http://blog.instagram.com/post/158740450852/170323-kindness&#34; target=&#34;_blank&#34;&gt;Instagram blog&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Cómo ocultar una parte del HD en Windows</title>
@@ -522,24 +548,6 @@
 &lt;p&gt;Si ven que un amigo les manda un link medio raro, o que la forma de redacción no es la de él, no le presten atención e ignoren el contenido del mensaje. &lt;em&gt;Recuerden que el mejor antivirus, para cualquier dispositivo, es el sentido común&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://olhardigital.uol.com.br/fique_seguro/noticia/virus-que-se-espalha-por-mensagens-diretas-do-facebook-e-detectado/62759&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Guarda tus links de una forma original gracias a Stash</title>
-      <link>https://alberro.xyz/guarda-tus-links-de-una-forma-original-gracias-a-stash/</link>
-      <pubDate>Thu, 06 Oct 2016 00:13:43 +0000</pubDate>
-      
-      <guid>https://alberro.xyz/guarda-tus-links-de-una-forma-original-gracias-a-stash/</guid>
-      <description>&lt;p&gt;Si sos realmente un nerd, ya sabés de qué se trata esta aplicación ya que hace analogía al comando &lt;em&gt;stash&lt;/em&gt; de &lt;em&gt;git&lt;/em&gt; y que seguramente su autor puso ese nombre en honor a ese comando. Si no sos un nerd, entonces paso a explicarte que esta aplicación sirve para guardar las páginas webs y poder consultarlas en otro momento, algo parecido a lo que sería &lt;em&gt;Pocket&lt;/em&gt; por ejemplo.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Stash&lt;/em&gt; sabe si lo que estamos guardando es una noticia, una receta de cocina o un video de Youtube, por ejemplo; consigue identificar el contenido y lo guarda con una estructura predefinida para que no se pierda entre tantos links que puedas guardar.&lt;/p&gt;
-
-&lt;p&gt;Como &lt;em&gt;Stash&lt;/em&gt; guarda todo en la nube, podés enviar contenido desde tu notebook, tablet o teléfono y luego podrás usarlo donde te sea más cómodo. Por ahora la aplicación es gratuita, no creo que alguna vez fueran a cobrar ya que si lo hicieran perderían muchísimo terreno con las demás aplicaciones ya existentes. De hecho, y es una opinión completamente personal, le va costar mucho destronar a los reyes de estilo, como ser *Evernote* y &lt;em&gt;Pocket&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;A favor, viene en versión desktop ya que funciona desde el navegador a través de extensiones o plugins y además para plataformas iOS y Android.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://stash.ai/landing&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
