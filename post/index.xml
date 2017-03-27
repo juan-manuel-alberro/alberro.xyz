@@ -7,8 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <copyright>Todos los derechos reservados - 2017</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 14:32:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2017 15:51:19 -0300</lastBuildDate>
     <atom:link href="https://alberro.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Series y películas en tu disposivo Android gracias a TerrariumTV</title>
+      <link>https://alberro.xyz/series-y-peliculas-en-tu-disposivo-android-gracias-a-terrariumtv/</link>
+      <pubDate>Mon, 27 Mar 2017 15:51:19 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/series-y-peliculas-en-tu-disposivo-android-gracias-a-terrariumtv/</guid>
+      <description>&lt;p&gt;Muchos la nombran como la oveja negra, otros le dicen que es el asesino de &lt;strong&gt;Netflix&lt;/strong&gt;. Para mi, es solo una aplicación más que complementa a muchas otras que ya están dando vuelta, como por ejemplo &lt;strong&gt;Kodi&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TerrariumTV&lt;/strong&gt; es una aplicación que se instala en cualquier disposivo que funcione con &lt;strong&gt;Android +4.0.1&lt;/strong&gt;, es muy práctica ya que soporta la conexión a diferentes disposivos &lt;em&gt;sticks&lt;/em&gt; como Chromecast y FireTv entre otros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/terrariumtv-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La idea de esta aplicación es que podamos ver series y películas online, como así también bajarlas a nuestro disposivo. Tanto las películas como las series vienen con la opción de agregarle subtítulo, aunque no siempre resulta sencillo encontrar los subtítulos que coinciden con la sincronización de lo que estemos viendo. Un pequeño truco que nos puede ayudar, es la de buscar siempre subtítulos para versiones &lt;strong&gt;WEBDL&lt;/strong&gt; que es lo que utiliza &lt;strong&gt;TerrariumTV&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Por el momento, solo funciona en Android, de manera que los usuarios de iOS tendrán que esperar a que salga la versión para ese sistema operativo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;características&#34;&gt;Características&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Colección &lt;strong&gt;hiper completa&lt;/strong&gt; de series y películas en &lt;strong&gt;FullHD&lt;/strong&gt; (1080p) y &lt;strong&gt;HD&lt;/strong&gt; (720p)&lt;/li&gt;
+&lt;li&gt;Es &lt;strong&gt;gratis&lt;/strong&gt;, y &lt;em&gt;aparentemente&lt;/em&gt; legal&lt;/li&gt;
+&lt;li&gt;Servidores muy rápidos ya que no usa torrent ni otros proveedores, se maneja principalmente con &lt;strong&gt;Drive&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Permite la descarga para ver el contenido &lt;strong&gt;offline&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Subtítulos multilenguaje, en caso de que quieras verlos en inglés para practicar el idioma&lt;/li&gt;
+&lt;li&gt;Posibilidad de marcar el contenido como favorito&lt;/li&gt;
+&lt;li&gt;Buscador y selector de géneros&lt;/li&gt;
+&lt;li&gt;Soporta Fire TV, Fire Stick, &lt;strong&gt;Chromecast&lt;/strong&gt; (a través de LocalCast, BubbleUPnP o AllCast) y TV Box&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Con respecto a la interfaz hay que destacar que es muy sencilla de utilizar. Posee un aspecto muy limpio y completamente funcional, con buscador de películas y organizado todo por género. Además posee con la funcionalidad de marcar nuestro contenido como favorito para encontrarlo mucho más fácil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/terrariumtv-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Algo interesante para comentar es que las temporadas de las series se pueden visualizar de una manera muy sencilla y vistosa, con &lt;em&gt;covers&lt;/em&gt; propio de la serie como es el caso de la imagen anterior de Game of Thrones.&lt;/p&gt;
+
+&lt;div class=&#34;call-to-action&#34;&gt;
+  &lt;div class=&#34;left&#34;&gt;&lt;h4&gt;Más Información&lt;/h4&gt;&lt;/div&gt;
+  &lt;div class=&#34;right&#34;&gt;&lt;a class=&#34;mas&#34; href=&#34;https://terrariumtv.com/&#34; target=&#34;_blank&#34;&gt;TerrariumTV&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Instagram agrega protección a las imágenes NSFW</title>
@@ -531,24 +576,6 @@
 &lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.forestadmin.com/lumber&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nuevo virus que se distribuye entre los mensajes de Facebook</title>
-      <link>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</link>
-      <pubDate>Thu, 06 Oct 2016 00:37:15 +0000</pubDate>
-      
-      <guid>https://alberro.xyz/nuevo-virus-que-se-distribuye-entre-los-mensajes-de-facebook/</guid>
-      <description>&lt;p&gt;Otra vez, Facebook es víctima de los virus y malwares. La empresa de seguridad Norton detectó hace unos días una nueva variante del virus Fake AV Redirect 2 de Windows el cual envía un mensaje a todos tus contactos de Facebook con un link el cual contiene el virus y de esa manera continúa su propagación.&lt;/p&gt;
-
-&lt;p&gt;Todo comienza cuando se recibe un mensaje de un amigo con un link de un sitio web. Al entrar en ese sitio web, aparece un aviso solicitando la actualización del sistema, este es un aviso personalizado ya que incluye los datos del teléfono que estamos usando. Al pulsar en el link, muchas personas creen esas cosas lamentablemente, la víctima es infectada y enviará el malware a sus contactos de &lt;strong&gt;Facebook&lt;/strong&gt;, los cuales recibirán un mensaje similar.&lt;/p&gt;
-
-&lt;p&gt;Es muy posible que una vez instalado el &lt;em&gt;malware&lt;/em&gt; en el teléfono, exista algún tipo de robo de información, envío de datos a algún servidor externo o algún otro método similar por lo que se recomienda controlar y tomar acciones ante cualquier comportamiento sospechoso.&lt;/p&gt;
-
-&lt;p&gt;Si ven que un amigo les manda un link medio raro, o que la forma de redacción no es la de él, no le presten atención e ignoren el contenido del mensaje. &lt;em&gt;Recuerden que el mejor antivirus, para cualquier dispositivo, es el sentido común&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://olhardigital.uol.com.br/fique_seguro/noticia/virus-que-se-espalha-por-mensagens-diretas-do-facebook-e-detectado/62759&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
