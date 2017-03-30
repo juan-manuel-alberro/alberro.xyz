@@ -5,6 +5,7 @@
   "short_name": "Alberro.ˣʸᶻ",
   "display": "fullscreen",
   "orientation": "portrait",
+  "start_url": "/?utm_source=homescreen",
   "icons": [
     {
       "src": "images/manifest-logo.png",
