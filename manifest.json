@@ -1,0 +1,15 @@
+{
+  "lang": "es-AR",
+  "background_color": "#ffffff",
+  "name": "Alberro.ˣʸᶻ | Noticias de la A a la Z",
+  "short_name": "Alberro.ˣʸᶻ",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/manifest-logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
