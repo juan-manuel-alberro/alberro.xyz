@@ -91,5 +91,28 @@ textarea {
 </description>
     </item>
     
+    <item>
+      <title>Gracias por contactarte</title>
+      <link>https://alberro.xyz/gracias/</link>
+      <pubDate>Sun, 09 Apr 2017 21:49:42 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/gracias/</guid>
+      <description>&lt;p&gt;¡Gracias por haberte contactado conmigo! ☺&lt;/p&gt;
+
+&lt;p&gt;En breve estarás recibiendo una respuesta mía pero si me demoro no te preocupes, simplemente estoy ocupado.&lt;/p&gt;
+
+&lt;p&gt;De nuevo&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/xUPGcg1IJEKGCI6r5e/giphy.gif&#34; /&gt;
+&lt;style&gt;
+.post-meta, .read-next {
+  display: none;
+}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
