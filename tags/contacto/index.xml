@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacto on Alberro.ˣʸᶻ</title>
+    <link>https://alberro.xyz/tags/contacto/index.xml</link>
+    <description>Recent content in Contacto on Alberro.ˣʸᶻ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <copyright>Todos los derechos reservados - 2017</copyright>
+    <atom:link href="https://alberro.xyz/tags/contacto/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://alberro.xyz/contacto/</link>
+      <pubDate>Sun, 09 Apr 2017 21:49:42 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/contacto/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xs-offset-3&#34;&gt;
+          &lt;form id=&#34;contact-form&#34; class=&#34;form&#34; action=&#34;https://www.elformo.com/forms/9b35434f-1979-48b9-bdd3-b0649ef975a4&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;form&#34;&gt;
+              &lt;div class=&#34;form-group&#34;&gt;
+                  &lt;label class=&#34;form-label&#34; for=&#34;email&#34;&gt;Email&lt;/label&gt;
+                  &lt;input type=&#34;email&#34; class=&#34;form-control&#34; id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Ingrese su email&#34; tabindex=&#34;2&#34; required&gt;
+              &lt;/div&gt;                            
+              &lt;div class=&#34;form-group&#34;&gt;
+                  &lt;label class=&#34;form-label&#34; for=&#34;message&#34;&gt;Mensaje&lt;/label&gt;
+                  &lt;textarea rows=&#34;5&#34; name=&#34;comment&#34; class=&#34;form-control&#34; id=&#34;comment&#34; placeholder=&#34;El mensaje va acá...&#34; tabindex=&#34;4&#34; required&gt;&lt;/textarea&gt;                                 
+              &lt;/div&gt;
+              &lt;div class=&#34;text-center&#34;&gt;
+                  &lt;button type=&#34;submit&#34; class=&#34;btn btn-start-order&#34;&gt;Enviar Mensaje&lt;/button&gt;
+              &lt;/div&gt;
+          &lt;/form&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.post-meta, .read-next {
+  display: none;
+}
+.form-group {
+  padding: 20px 0;
+}
+textarea {
+    resize: none;
+}
+.form-label {
+    color: #5e9bfc;
+    margin: 0;
+    display: block;
+    opacity: 1;
+    -webkit-transition: .333s ease top, .333s ease opacity;
+    transition: .333s ease top, .333s ease opacity;
+}
+.form-control {
+    border-radius: 0;
+  width: 100%;
+    border-color: #ccc;
+    border-width: 0 0 2px 0;
+    border-style: none none solid none;
+    box-shadow: none;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: #5e9bfc;
+}
+.js-hide-label {
+    opacity: 0;     
+}
+.js-unhighlight-label {
+    color: #999
+}
+.btn-start-order {
+    background: 0 0 #ffffff;
+    border: 1px solid #2f323a;
+    border-radius: 3px;
+    color: #2f323a;
+    font-size: 16px;
+    line-height: inherit;
+    margin: 30px 0;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    transition: all 0.25s ease 0s;
+}
+.btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
+    border-color: #5e9bfc;
+    color: #5e9bfc;
+}
+&lt;/style&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

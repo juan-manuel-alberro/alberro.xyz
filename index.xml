@@ -7,8 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-AR</language>
     <copyright>Todos los derechos reservados - 2017</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 21:06:53 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 21:49:42 -0300</lastBuildDate>
     <atom:link href="https://alberro.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://alberro.xyz/contacto/</link>
+      <pubDate>Sun, 09 Apr 2017 21:49:42 -0300</pubDate>
+      
+      <guid>https://alberro.xyz/contacto/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xs-offset-3&#34;&gt;
+          &lt;form id=&#34;contact-form&#34; class=&#34;form&#34; action=&#34;https://www.elformo.com/forms/9b35434f-1979-48b9-bdd3-b0649ef975a4&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;form&#34;&gt;
+              &lt;div class=&#34;form-group&#34;&gt;
+                  &lt;label class=&#34;form-label&#34; for=&#34;email&#34;&gt;Email&lt;/label&gt;
+                  &lt;input type=&#34;email&#34; class=&#34;form-control&#34; id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Ingrese su email&#34; tabindex=&#34;2&#34; required&gt;
+              &lt;/div&gt;                            
+              &lt;div class=&#34;form-group&#34;&gt;
+                  &lt;label class=&#34;form-label&#34; for=&#34;message&#34;&gt;Mensaje&lt;/label&gt;
+                  &lt;textarea rows=&#34;5&#34; name=&#34;comment&#34; class=&#34;form-control&#34; id=&#34;comment&#34; placeholder=&#34;El mensaje va acá...&#34; tabindex=&#34;4&#34; required&gt;&lt;/textarea&gt;                                 
+              &lt;/div&gt;
+              &lt;div class=&#34;text-center&#34;&gt;
+                  &lt;button type=&#34;submit&#34; class=&#34;btn btn-start-order&#34;&gt;Enviar Mensaje&lt;/button&gt;
+              &lt;/div&gt;
+          &lt;/form&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.post-meta, .read-next {
+  display: none;
+}
+.form-group {
+  padding: 20px 0;
+}
+textarea {
+    resize: none;
+}
+.form-label {
+    color: #5e9bfc;
+    margin: 0;
+    display: block;
+    opacity: 1;
+    -webkit-transition: .333s ease top, .333s ease opacity;
+    transition: .333s ease top, .333s ease opacity;
+}
+.form-control {
+    border-radius: 0;
+  width: 100%;
+    border-color: #ccc;
+    border-width: 0 0 2px 0;
+    border-style: none none solid none;
+    box-shadow: none;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: #5e9bfc;
+}
+.js-hide-label {
+    opacity: 0;     
+}
+.js-unhighlight-label {
+    color: #999
+}
+.btn-start-order {
+    background: 0 0 #ffffff;
+    border: 1px solid #2f323a;
+    border-radius: 3px;
+    color: #2f323a;
+    font-size: 16px;
+    line-height: inherit;
+    margin: 30px 0;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    transition: all 0.25s ease 0s;
+}
+.btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
+    border-color: #5e9bfc;
+    color: #5e9bfc;
+}
+&lt;/style&gt;
+</description>
+    </item>
     
     <item>
       <title>El buscador que planta árboles cuando buscas en la Web</title>
@@ -585,30 +667,6 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://newsroom.fb.com/news/2016/11/game-on-you-can-now-play-games-on-messenger/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nuevo proyecto de Google DeepMind para leer los labios</title>
-      <link>https://alberro.xyz/nuevo-proyecto-de-google-deepmind-para-leer-los-labios/</link>
-      <pubDate>Tue, 29 Nov 2016 18:10:28 +0000</pubDate>
-      
-      <guid>https://alberro.xyz/nuevo-proyecto-de-google-deepmind-para-leer-los-labios/</guid>
-      <description>&lt;p&gt;Google DeepMind y los investigadores de la Universidad de Oxford han desarrollado un lector de labios automatizado que supera con creces a un experto humano. El aprendizaje automático podría ser la respuesta para ayudar a millones de personas con discapacidad auditiva a leer lo que se dice en el mundo que los rodea.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://alberro.xyz/images/2017/03/terrariumtv.jpg&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Los investigadores de la Universidad de Oxford y de Google DeepMind han desarrollado un sistema de inteligencia artificial entrenado en miles de horas de emisiones de video de la BBC que superan con mucho a un lector de labios profesional.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;aligncenter wp-image-663 size-full&#34; src=&#34;https://alberro.xyz/images//2016/11/googledeepmind.png&#34; alt=&#34;googledeepmind&#34; width=&#34;770&#34; height=&#34;218&#34; srcset=&#34;https://alberro.xyz/images//2016/11/googledeepmind.png 770w, https://alberro.xyz/images//2016/11/googledeepmind-300x85.png 300w, https://alberro.xyz/images//2016/11/googledeepmind-768x217.png 768w, https://alberro.xyz/images//2016/11/googledeepmind-758x215.png 758w&#34; sizes=&#34;(max-width: 770px) 100vw, 770px&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Una máquina que puede leer los labios abre una gran cantidad de aplicaciones: dictando instrucciones o mensajes a un teléfono en un entorno ruidoso, transcribiendo y volviendo a escribir películas mudas de archivo, resolviendo el habla simultánea de múltiples personas entre otras cosas.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Como pasa con la mayoría de los esfuerzos de aprendizaje automático, se necesitó de un conjunto de datos para entrenar a las máquinas a leer los labios. Los investigadores tenían acceso a casi 5.000 horas de caras hablando en seis programas de la BBC. En total, los datos de la BBC les dieron 118.000 frases y poco más de 17.500 palabras únicas, empequeñeciendo otros grandes conjuntos de datos públicos de lectura de labios, como GRID, que se usó para entrenar otro sistema de lectura labial de Oxford llamado LipNet.&lt;/p&gt;
-
-&lt;p&gt;A continuación se puede leer el documento con toda la investigación que realizaron para poder poner en funcionamiento la nueva máquina: &lt;a href=&#34;https://arxiv.org/pdf/1611.05358v1.pdf&#34;&gt;https://arxiv.org/pdf/1611.05358v1.pdf&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
